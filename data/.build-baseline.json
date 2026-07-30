@@ -1,6 +1,6 @@
 {
-  "version": "26.07.03",
-  "savedAt": "2026-07-30T15:42:18.990Z",
+  "version": "26.07.04",
+  "savedAt": "2026-07-30T15:57:30.974Z",
   "citySummary": {
     "cityName": "Tropéa",
     "appTitle": "CityLoop Quest — Tropéa",
@@ -68,11 +68,11 @@
   },
   "files": {
     "app.js": "9135be121e9918d7555bdd54a2263706ee4258b9a1d44e191d7e765695b4ed3e",
-    "main.html": "e1e3f4dec0171c834dafddffcb3ea430f732691ec578ac9ffbbda8de356e037f",
+    "main.html": "6c3de3f72d118772c26bf26cf8bf6898d00db6b19d83a9679b15fadbd7258615",
     "parcours.html": "1d562ba7ce42e5f9ca6d17d93ea6c18cf8605e69cb7a0876c35f393cb1e20c59",
-    "circuit.html": "1dcd41cef7fb96c208f03f3d564b392e7e522c276037920ada271d69f4203710",
+    "circuit.html": "23e41b7fb8ab249ea4a5dad4d01e39bc2697f73376d56e36c124a975b756f931",
     "circuit-data.js": "cd40a54cacc9b6e5e9688c68a4c7c8f77f477f894a6b513b1404e3dae4767e9f",
-    "service-worker.js": "3cea39336fb4597df2364cb35e635a6c2b5267f0315f72b692c34aee322f4d71",
+    "service-worker.js": "b959abdb5d97f7b7fb56b27168fafa0611ab07bbe5f074475f7b207b765020c9",
     "instructions.html": "ea7f7eeced74501a9824d9d42cbaec1b2c9ddaadb7f0baf27f3a333bd7c0db7b"
   }
 }
