@@ -1,0 +1,86 @@
+CityLoop Quest Tropéa - Release notes
+Version 26.07.01
+----------------------------------------
+- Renamed city app to Tropéa.
+- Updated app title to "CityLoop Quest — Tropéa".
+- Tour count changed from 0 to 1.
+- Enabled tours: petit.
+- Added 10 stop(s) to the short tour: Affaccio dei Sospiri, Chiesa del Gesù, Chiesa di San Francesco d’Assisi, Concattedrale Maria Santissima di Romania (+6 more).
+- Added 17 Explorer POI(s): Baia di Riaci, Belvédère de Capo Vaticano, Castello Murat à Pizzo, Castello Normanno-Svevo de Vibo Valentia (+13 more).
+- Added 6 museum(s): MuMaT — Museo Civico del Mare di Tropea, Museo Archeologico Nazionale Vito Capialbi, Museo della Certosa di Serra San Bruno, Museo della Civiltà Rupestre e Contadina di Zungri (+2 more).
+- Added 12 culture chapter(s): Anecdotes de Tropéa, Architecture entre séismes et falaises, Familles, poussettes et accessibilité, Grandes périodes historiques (+8 more).
+- Quiz coverage updated: 10 tour stop(s) now have quizzes (was 0).
+- Regenerated 100 tour audio file(s).
+- Initial release for Tropéa.
+- Includes 10 tour stop(s) across 1 route(s).
+- Includes 17 Explorer POI(s).
+- Includes 6 museum(s).
+- Includes quizzes for 10 tour stop(s).
+
+CityLoop Quest Tropéa - Release notes
+Version 26.06.26
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Tropéa - Release notes
+Version 26.06.01
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Tropéa - Release notes
+Version 26.02.03
+----------------------------------------
+
+new popup and removal of debug window
+
+CityLoop Quest Tropéa - Release notes
+Version 26.01.02
+----------------------------------------
+
+Fix Stripe webhook: idempotency + correct status codes
+Update mailer configuration
+Fix webhook idempotence + root GET
+Webhook: idempotence on session_id
+Invoice label: add city name
+Polish invoice PDF layout (A4 one-page)
+
+CityLoop Quest Tropéa - Release notes
+Version 25.12.05
+----------------------------------------
+
+implémentation email
+implémentation boutons Train/Tram/Bus et Uber
+Correction de bugs mineurs
+
+CityLoop Quest Tropéa - Release notes
+Version 25.11.04
+----------------------------------------
+
+
+Mise en place de la version Android avec carte fixe
+Bugs dûs à Android en carte mobile en mode web non natif
+
+CityLoop Quest Tropéa - Release notes
+Version 25.11.03
+----------------------------------------
+
+Modification description Gare de Tropéa
+
+CityLoop Quest Tropéa - Release notes
+Version 25.11.02
+----------------------------------------
+
+Mise en place de la Version
+Alerte de géolocalisation, contrôle des paramètres navigateur et appareil
+Modification page d'aide
+Modification page install/web
+
+CityLoop Quest Tropéa - Release notes
+Version 25.11.1
+----------------------------------------
+
+- Version initiale publiée
+
+

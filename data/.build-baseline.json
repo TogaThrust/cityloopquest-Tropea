@@ -1,0 +1,78 @@
+{
+  "version": "26.07.01",
+  "savedAt": "2026-07-30T15:22:42.251Z",
+  "citySummary": {
+    "cityName": "Tropéa",
+    "appTitle": "CityLoop Quest — Tropéa",
+    "routeCount": 1,
+    "enabledCircuits": [
+      "petit"
+    ],
+    "routePois": {
+      "petit": [
+        "Affaccio dei Sospiri",
+        "Chiesa del Gesù",
+        "Chiesa di San Francesco d’Assisi",
+        "Concattedrale Maria Santissima di Romania",
+        "Corso Vittorio Emanuele",
+        "Palazzo Giffone",
+        "Palazzo Santa Chiara et MuMaT",
+        "Piazza Ercole",
+        "Santuario di Santa Maria dell’Isola",
+        "Spiaggia della Rotonda et Grotta del Palombaro"
+      ]
+    },
+    "explorationNames": [
+      "Baia di Riaci",
+      "Belvédère de Capo Vaticano",
+      "Castello Murat à Pizzo",
+      "Castello Normanno-Svevo de Vibo Valentia",
+      "Castello Ruffo et centre historique de Nicotera",
+      "Certosa di Serra San Bruno",
+      "Chiesa del Carmine",
+      "Chiesa dell’Annunziata",
+      "Chiesa della Michelizia",
+      "Chiesetta di Piedigrotta à Pizzo",
+      "Duomo di San Leoluca à Vibo Valentia",
+      "Insediamento rupestre de Zungri",
+      "Plages de Grotticelle",
+      "Porto di Tropea",
+      "Santuario della Madonna della Fontana à Spilinga",
+      "Vestiges de l’abbaye de la Santissima Trinità à Mileto",
+      "Zambrone et le Paradiso del Sub"
+    ],
+    "museumNames": [
+      "MuMaT — Museo Civico del Mare di Tropea",
+      "Museo Archeologico Nazionale Vito Capialbi",
+      "Museo della Certosa di Serra San Bruno",
+      "Museo della Civiltà Rupestre e Contadina di Zungri",
+      "Museo Diocesano di Tropea",
+      "Museo Statale di Mileto"
+    ],
+    "culturePageTitles": [
+      "Anecdotes de Tropéa",
+      "Architecture entre séismes et falaises",
+      "Familles, poussettes et accessibilité",
+      "Grandes périodes historiques",
+      "Les meilleurs moments de visite",
+      "Marchés, tables et habitudes gourmandes",
+      "Origines et développement",
+      "Personnages marquants",
+      "Quartiers, places et ambiances",
+      "Se déplacer sans combattre la falaise",
+      "Spécialités de la Costa degli Dei",
+      "Traditions, fêtes et géants"
+    ],
+    "quizPoiCount": 10,
+    "sourceLanguage": "fr"
+  },
+  "files": {
+    "app.js": "9135be121e9918d7555bdd54a2263706ee4258b9a1d44e191d7e765695b4ed3e",
+    "main.html": "dccd2a8752fee0d21d5de4fbaf71cb631ce227dee67037a7dd0585fabb5d0fd4",
+    "parcours.html": "1d562ba7ce42e5f9ca6d17d93ea6c18cf8605e69cb7a0876c35f393cb1e20c59",
+    "circuit.html": "d8e812ba905ee1193c6bddefde46524edb1b9206d68c2f1a03ea8811df66f901",
+    "circuit-data.js": "cd40a54cacc9b6e5e9688c68a4c7c8f77f477f894a6b513b1404e3dae4767e9f",
+    "service-worker.js": "455647b8225baa7594055e19426455003db0a5936690a056d1cf9e9b51c0fbc3",
+    "instructions.html": "ea7f7eeced74501a9824d9d42cbaec1b2c9ddaadb7f0baf27f3a333bd7c0db7b"
+  }
+}

@@ -1,0 +1,2922 @@
+{
+  "fr": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Quelle communauté religieuse est à l’origine du complexe Santa Chiara ?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Depuis quelle année le site accueille-t-il le MuMaT ?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel thème domine les collections du MuMaT ?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "À quelle ancienne implantation religieuse le site de San Francesco est-il lié ?",
+        "options": [
+          "À San Pietro ad Ripas, attesté à la fin du XIIIe siècle",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle date est associée à une importante reconstruction de l’église ?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel élément ancien mérite une attention particulière à l’intérieur ?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "En quelle année les jésuites sont-ils arrivés à Tropéa ?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel édifice plus ancien occupait auparavant ce secteur ?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel modèle napolitain a influencé le plan de l’église ?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "À quelle époque remonte le noyau principal de la cathédrale de Tropéa ?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle image sacrée est considérée comme protectrice de la ville ?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle curiosité liée à la Seconde Guerre mondiale est conservée dans l’édifice ?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "À quel héros la tradition locale associe-t-elle le nom de Piazza Ercole ?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel événement a fortement influencé la forme actuelle des bâtiments autour de la place ?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel détail faut-il remarquer dans l’architecture de Piazza Ercole ?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "À quelle période Palazzo Giffone a-t-il été principalement aménagé ?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel style domine l’architecture du palais ?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel élément permet de lire l’organisation interne de la demeure ?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Quel personnage a donné son nom actuel au Corso Vittorio Emanuele ?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle fonction ancienne conserve cet axe urbain ?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que faut-il observer au-dessus des vitrines du Corso ?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Pourquoi le lieu est-il surnommé Affaccio dei Sospiri ?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Sur quel type de relief le centre historique de Tropéa est-il installé ?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel relief peut apparaître à l’horizon lorsque l’air est limpide ?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "Quelle particularité offre la plage de la Rotonda par rapport au centre historique ?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Elle donne accès à la gare par un tunnel du XIXe siècle",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "De quoi dépend l’accès prudent à la Grotta del Palombaro ?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel phénomène produit les teintes turquoise dans la grotte ?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Pourquoi le sanctuaire porte-t-il le nom de Santa Maria dell’Isola ?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Parce que son rocher était autrefois séparé du rivage par la mer"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "À quelle grande abbaye le sanctuaire fut-il longtemps lié ?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quels événements ont imposé de profondes restaurations au bâtiment ?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "nl": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Welke religieuze gemeenschap stond aan de oorsprong van het Santa Chiara-complex?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Sinds welk jaar huisvest deze locatie het MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk thema overheerst in de collecties van het MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "Aan welke oude religieuze vestiging is de site van San Francesco verbonden?",
+        "options": [
+          "Bij San Pietro ad Ripas, vermeld aan het einde van de 13e eeuw",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke datum wordt geassocieerd met een belangrijke reconstructie van de kerk?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk oud element verdient bijzondere aandacht binnenin?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "In welk jaar zijn de jezuïeten in Tropea aangekomen?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk ouder gebouw stond hier vroeger?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk Napolitaans model heeft het grondplan van de kerk beïnvloed?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "Uit welke periode dateert de belangrijkste kern van de kathedraal van Tropea?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk heilig beeld wordt beschouwd als beschermster van de stad?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke curiositeit die verband houdt met de Tweede Wereldoorlog wordt in het gebouw bewaard?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "Aan welke held verbindt de lokale traditie de naam Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke gebeurtenis heeft de huidige vorm van de gebouwen rond het plein sterk beïnvloed?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk detail moet je opmerken in de architectuur van Piazza Ercole?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "In welke periode werd Palazzo Giffone voornamelijk ingericht?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke stijl domineert de architectuur van het paleis?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk element maakt het mogelijk de interne organisatie van de woning te lezen?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Welke figuur heeft zijn huidige naam gegeven aan de Corso Vittorio Emanuele?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke oude functie behield deze stedelijke as?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat moet je boven de etalages van de Corso observeren?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Waarom wordt deze plek Affaccio dei Sospiri genoemd?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Op wat voor soort reliëf is het historische centrum van Tropea gelegen?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk reliëf kan aan de horizon verschijnen wanneer de lucht helder is?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "Welke bijzonderheid biedt het strand van de Rotonda in vergelijking met het historische centrum?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Ze geeft toegang tot het station via een tunnel uit de 19e eeuw",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarvan hangt de voorzichtige toegang tot de Grotta del Palombaro af?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welk fenomeen veroorzaakt de turquoise tinten in de grot?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Waarom draagt het heiligdom de naam Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Omdat zijn rots vroeger door de zee van de kust was gescheiden"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Aan welke grote abdij was het heiligdom lange tijd verbonden?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke gebeurtenissen maakten diepgaande restauraties aan het gebouw noodzakelijk?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "en": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Which religious community was behind the Santa Chiara complex?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Since what year has the site housed the MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What theme dominates the collections of MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "Which former religious establishment is the site of San Francesco linked to?",
+        "options": [
+          "At San Pietro ad Ripas, attested at the end of the 13th century",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What date is associated with a major reconstruction of the church?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which ancient element deserves special attention inside?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "In what year did the Jesuits arrive in Tropea?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which older building had previously occupied this area?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which Neapolitan model influenced the church’s floor plan?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "What period does the main core of Tropea Cathedral date back to?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which sacred image is considered the protector of the city?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What curiosity related to the Second World War is preserved in the building?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "Which hero does local tradition associate with the name Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which event had a major influence on the current appearance of the buildings around the square?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What detail should be noticed in the architecture of Piazza Ercole?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "During which period was Palazzo Giffone mainly developed?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which style dominates the palace's architecture?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What element makes it possible to read the internal organization of the house?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Which figure gave Corso Vittorio Emanuele its current name?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What ancient function does this urban axis still retain?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What should be observed above the shop windows on the Corso?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Why is the place nicknamed Affaccio dei Sospiri?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "On what type of terrain is the historic center of Tropea built?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which relief can appear on the horizon when the air is clear?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "What special feature does the Rotonda beach offer in relation to the historic center?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "It gives access to the station through a 19th-century tunnel",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does careful access to the Grotta del Palombaro depend on?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What phenomenon produces the turquoise hues in the cave?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Why does the sanctuary bear the name Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Because its rock was once separated from the shore by the sea"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "To which great abbey was the sanctuary long linked?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What events required major restoration work on the building?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "de": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Welche Ordensgemeinschaft steht am Ursprung des Komplexes Santa Chiara?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Seit welchem Jahr beherbergt der Ort das MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Thema dominiert die Sammlungen des MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "Mit welcher alten religiösen Niederlassung ist der Standort von San Francesco verbunden?",
+        "options": [
+          "In San Pietro ad Ripas, belegt am Ende des 13. Jahrhunderts",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Datum ist mit einem wichtigen Wiederaufbau der Kirche verbunden?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches alte Element verdient im Inneren besondere Aufmerksamkeit?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "In welchem Jahr kamen die Jesuiten in Tropea an?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches ältere Gebäude befand sich früher an diesem Ort?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches neapolitanische Vorbild hat den Grundriss der Kirche beeinflusst?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "Aus welcher Zeit stammt der Hauptkern der Kathedrale von Tropea?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches heilige Bild gilt als Schutzpatronin der Stadt?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Kuriosität aus dem Zweiten Weltkrieg wird im Gebäude aufbewahrt?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "Mit welchem Helden verbindet die lokale Tradition den Namen der Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Ereignis hat die heutige Gestalt der Gebäude rund um den Platz stark beeinflusst?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Detail sollte man in der Architektur der Piazza Ercole beachten?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "In welcher Epoche wurde der Palazzo Giffone hauptsächlich ausgestaltet?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welcher Stil dominiert die Architektur des Palasts?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Element ermöglicht es, die innere Organisation des Hauses zu erkennen?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Welche Persönlichkeit hat dem Corso Vittorio Emanuele seinen heutigen Namen gegeben?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche alte Funktion bewahrt diese städtische Achse?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was sollte man über den Schaufenstern des Corso beobachten?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Warum wird der Ort Affaccio dei Sospiri genannt?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Auf welcher Art von Gelände liegt das historische Zentrum von Tropea?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Relief kann am Horizont erscheinen, wenn die Luft klar ist?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "Welche Besonderheit bietet der Strand von der Rotonda im Vergleich zum historischen Zentrum?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Sie ermöglicht den Zugang zum Bahnhof durch einen Tunnel aus dem 19. Jahrhundert",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wovon hängt der vorsichtige Zugang zur Grotta del Palombaro ab?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welches Phänomen erzeugt die türkisfarbenen Töne in der Höhle?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Warum trägt das Heiligtum den Namen Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Weil sein Felsen einst vom Meer vom Ufer getrennt war"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Mit welcher bedeutenden Abtei war das Heiligtum lange Zeit verbunden?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Ereignisse machten tiefgreifende Restaurierungen am Gebäude erforderlich?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "it": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Quale comunità religiosa è all’origine del complesso di Santa Chiara?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Da quale anno il sito ospita il MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale tema domina le collezioni del MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "A quale antica istituzione religiosa è legato il sito di San Francesco?",
+        "options": [
+          "A San Pietro ad Ripas, attestato alla fine del XIII secolo",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale data è associata a un importante restauro della chiesa?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale elemento antico merita un'attenzione particolare all'interno?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "In che anno i gesuiti arrivarono a Tropea?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale edificio più antico occupava in precedenza questo settore?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale modello napoletano ha influenzato la pianta della chiesa?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "A quale epoca risale il nucleo principale della cattedrale di Tropea?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale immagine sacra è considerata protettrice della città?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale curiosità legata alla Seconda Guerra Mondiale è conservata nell'edificio?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "A quale eroe la tradizione locale associa il nome di Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale evento ha fortemente influenzato la forma attuale degli edifici intorno alla piazza?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale dettaglio bisogna notare nell’architettura di Piazza Ercole?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "In quale periodo Palazzo Giffone è stato principalmente allestito?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale stile domina l’architettura del palazzo?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale elemento permette di leggere l’organizzazione interna della dimora?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Quale personaggio ha dato il nome attuale a Corso Vittorio Emanuele?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale antica funzione conserva questo asse urbano?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Cosa bisogna osservare sopra le vetrine del Corso?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Perché il luogo è soprannominato Affaccio dei Sospiri?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Su quale tipo di rilievo è situato il centro storico di Tropea?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale rilievo può apparire all’orizzonte quando l’aria è limpida?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "Quale particolarità offre la spiaggia della Rotonda rispetto al centro storico?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Consente l'accesso alla stazione attraverso un tunnel del XIX secolo",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Da che cosa dipende l’accesso prudente alla Grotta del Palombaro?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale fenomeno produce le sfumature turchesi nella grotta?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Perché il santuario porta il nome di Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Perché un tempo la sua roccia era separata dalla costa dal mare"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "A quale grande abbazia fu a lungo legato il santuario?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quali eventi hanno imposto profonde restaurazioni all’edificio?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "es": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "¿Qué comunidad religiosa está en el origen del complejo Santa Chiara?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Desde qué año acoge el sitio el MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué tema domina las colecciones del MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "¿A qué antigua fundación religiosa está vinculado el sitio de San Francesco?",
+        "options": [
+          "En San Pietro ad Ripas, atestiguada a finales del siglo XIII",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué fecha está asociada a una importante reconstrucción de la iglesia?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué elemento antiguo merece una atención especial en el interior?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "¿En qué año llegaron los jesuitas a Tropea?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué edificio más antiguo ocupaba antes este sector?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué modelo napolitano influyó en el plano de la iglesia?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "¿A qué época se remonta el núcleo principal de la catedral de Tropea?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué imagen sagrada se considera protectora de la ciudad?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué curiosidad relacionada con la Segunda Guerra Mundial se conserva en el edificio?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "¿A qué héroe asocia la tradición local el nombre de Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué acontecimiento influyó fuertemente en la forma actual de los edificios alrededor de la plaza?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué detalle hay que observar en la arquitectura de Piazza Ercole?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "¿En qué período se acondicionó principalmente el Palazzo Giffone?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué estilo domina la arquitectura del palacio?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué elemento permite leer la organización interna de la residencia?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "¿Qué personaje dio su nombre actual al Corso Vittorio Emanuele?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué función antigua conserva este eje urbano?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué hay que observar por encima de los escaparates del Corso?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "¿Por qué el lugar recibe el sobrenombre de Affaccio dei Sospiri?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Sobre qué tipo de relieve está situado el centro histórico de Tropea?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué relieve puede aparecer en el horizonte cuando el aire es diáfano?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "¿Qué particularidad ofrece la playa de la Rotonda en relación con el centro histórico?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Da acceso a la estación por un túnel del siglo XIX",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿De qué depende el acceso prudente a la Grotta del Palombaro?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué fenómeno produce los tonos turquesa en la gruta?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "¿Por qué el santuario lleva el nombre de Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Porque su roca estaba antaño separada de la orilla por el mar"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿A qué gran abadía estuvo vinculado durante mucho tiempo el santuario?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué acontecimientos impusieron profundas restauraciones al edificio?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "pl": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "Jaka wspólnota religijna stoi u początków kompleksu Santa Chiara?",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Od którego roku obiekt gości MuMaT?",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki temat dominuje w zbiorach MuMaT?",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "Z jakim dawnym ośrodkiem religijnym związane jest miejsce San Francesco?",
+        "options": [
+          "W San Pietro ad Ripas, poświadczony pod koniec XIII wieku",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Z jaką datą wiąże się ważna przebudowa kościoła?",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Który dawny element zasługuje na szczególną uwagę we wnętrzu?",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "W którym roku jezuici przybyli do Tropei?",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki starszy budynek znajdował się wcześniej w tym miejscu?",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki neapolitański wzorzec wpłynął na plan kościoła?",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "Do jakiej epoki sięga główny rdzeń katedry w Tropei?",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który święty wizerunek jest uważany za opiekuna miasta?",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaka ciekawostka związana z drugą wojną światową jest zachowana w budynku?",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "Z jakim bohaterem miejscowa tradycja łączy nazwę Piazza Ercole?",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie wydarzenie miało duży wpływ na obecny wygląd budynków wokół placu?",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Na jaki szczegół należy zwrócić uwagę w architekturze Piazza Ercole?",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "W jakim okresie Palazzo Giffone został głównie urządzony?",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki styl dominuje w architekturze pałacu?",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który element pozwala odczytać wewnętrzną organizację rezydencji?",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "Która postać nadała swoją obecną nazwę Corso Vittorio Emanuele?",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaką dawną funkcję zachowuje ta miejska oś?",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Co należy obserwować nad witrynami Corso?",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "Dlaczego to miejsce nosi przydomek Affaccio dei Sospiri?",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Na jakim typie terenu położone jest historyczne centrum Tropei?",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaka rzeźba może pojawić się na horyzoncie, gdy powietrze jest przejrzyste?",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "Jaką szczególną cechę oferuje plaża della Rotonda w porównaniu z historycznym centrum?",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "Ona zapewnia dostęp do dworca przez tunel z XIX wieku",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Od czego zależy ostrożny dostęp do Grotta del Palombaro?",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaki fenomen powoduje turkusowe odcienie w grocie?",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "Dlaczego sanktuarium nosi nazwę Santa Maria dell’Isola?",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "Ponieważ jego skała była niegdyś oddzielona od brzegu przez morze"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Z którym wielkim opactwem sanktuarium było przez długi czas związane?",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jakie wydarzenia wymusiły głębokie prace restauracyjne budynku?",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "ar": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "ما الجماعة الدينية التي كانت وراء إنشاء مجمع سانتا كيارا؟",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "منذ أي سنة يستضيف الموقعُ متحفَ MuMaT؟",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الموضوع الذي يهيمن على مجموعات متحف MuMaT؟",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "إلى أيّ تجمّع دينيّ قديم يرتبط موقع سان فرانشيسكو؟",
+        "options": [
+          "في سان بييترو أَد ريبا، موثَّقة في أواخر القرن الثالث عشر",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التاريخ المرتبط بإعادة بناء مهمة للكنيسة؟",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما العنصر القديم الذي يستحق اهتمامًا خاصًا في الداخل؟",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "في أي سنة وصل اليسوعيون إلى تروبية؟",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما المبنى الأقدم الذي كان يشغل هذا القطاع سابقًا؟",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي نموذج نابولي أثّر في مخطط الكنيسة؟",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "إلى أي حقبة يعود النواة الرئيسية لكاتدرائية تروبيا؟",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الصورة المقدسة التي تُعتبر حامية للمدينة؟",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الطرافة المرتبطة بالحرب العالمية الثانية التي ما زالت محفوظة في المبنى؟",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "مع أي بطل تربط التقاليد المحلية اسم ساحة إركولي؟",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الحدث الذي أثّر بشكل كبير في الشكل الحالي للمباني المحيطة بالساحة؟",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التفصيل الذي ينبغي ملاحظته في عمارة ساحة إركولي؟",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "في أي فترة تم تهيئة Palazzo Giffone بشكل أساسي؟",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الطراز الذي يهيمن على عمارة القصر؟",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما العنصر الذي يتيح قراءة التنظيم الداخلي للمنزل؟",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "أي شخصية أعطت اسمها الحالي لكورسو فيتوريو إيمانويل؟",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الوظيفة القديمة التي لا يزال هذا المحور الحضري يحتفظ بها؟",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الذي يجب ملاحظته فوق واجهات العرض في كورسو؟",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "لماذا يُلقَّب هذا المكان بـ«أفافتشو ديي سوسبيري»؟",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "على أي نوع من التضاريس بُني المركز التاريخي لتروبية؟",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التضاريس التي يمكن أن تظهر عند الأفق عندما يكون الهواء صافياً؟",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "ما الميزة التي توفرها شاطئ روتوندا مقارنةً بالوسط التاريخي؟",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "تتيح الوصول إلى المحطة عبر نفق من القرن التاسع عشر",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "على ماذا يعتمد الوصول الحذر إلى Grotta del Palombaro؟",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الظاهرة التي تُنتج الدرجات الفيروزية في الكهف؟",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "لماذا يحمل المزار اسم Santa Maria dell’Isola؟",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "لأن صخرته كانت في الماضي منفصلة عن الشاطئ بواسطة البحر"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "إلى أي ديرٍ كبير كان المزار مرتبطًا لفترةٍ طويلة؟",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الأحداث التي فرضت ترميمات عميقة على المبنى؟",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "cn": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "圣基亚拉建筑群最初是由哪个宗教团体创建的？",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "自哪一年起，这里开始接待 MuMaT？",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "MuMaT 的馆藏以什么主题为主？",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "圣方济各（San Francesco）遗址与哪一处古老的宗教聚落有关？",
+        "options": [
+          "在圣彼得阿德里帕斯,已可考证于13世纪末",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪一年与这座教堂的一次重要重建有关？",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "教堂内部哪一件古老元素值得特别留意？",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "耶稣会士是哪一年抵达特罗佩阿的？",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "之前这个区域曾由哪座更古老的建筑占据？",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪座那不勒斯的建筑范本影响了这座教堂的平面布局？",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "特罗佩阿主教座堂的主体部分可追溯到哪个时期？",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪幅圣像被视为这座城市的守护者？",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "这座建筑中保存着哪一件与第二次世界大战有关的奇观？",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "当地传统将埃尔科莱广场（Piazza Ercole）的名字与哪位英雄联系在一起？",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "是什么事件对广场周围建筑的现今形态产生了重大影响？",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "在 Piazza Ercole 的建筑中，需要注意哪个细节？",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "Palazzo Giffone 主要是在什么时期进行布置的？",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "宫殿的建筑主要呈现什么风格？",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪一元素可以看出这座宅邸的内部布局？",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "哪位人物为维托里奥·埃马努埃莱大街（Corso Vittorio Emanuele）赋予了现今的名字？",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "这条城市轴线保留了什么古老功能？",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在 Corso 的橱窗上方应该观察什么？",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "为什么这个地方被昵称为“Affaccio dei Sospiri”？",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "特罗佩阿的历史中心建在什么类型的地形上？",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "当空气清澈时，地平线上可能会出现什么地形？",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "与历史中心相比，Rotonda 海滩有什么特别之处？",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "因为它所在的岩石曾经与海岸被海水分隔开",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "谨慎进入鸽子洞（Grotta del Palombaro）取决于什么？",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "是什么现象使洞穴呈现出碧绿松石色的光泽？",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "为什么这座圣所被称为 Santa Maria dell’Isola？",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "因为它所在的岩石曾经与海岸被海水分隔开"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "这个圣所曾长期隶属于哪座著名的大修道院？",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪些事件使这座建筑不得不进行大规模修复？",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  "ja": {
+    "Palazzo Santa Chiara et MuMaT": [
+      {
+        "question": "サンタ・キアラ複合施設の起源となったのは、どの宗教共同体ですか？",
+        "options": [
+          "Une commanderie templière chargée de surveiller le détroit",
+          "Une abbaye basilienne construite dans une grotte marine",
+          "Un couvent de clarisses installé dans le centre ancien"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "この場所は何年からMuMaTを受け入れていますか？",
+        "options": [
+          "Depuis 1983, après le centenaire du séisme",
+          "Depuis 2019, avec la création du musée civique de la mer",
+          "Depuis 2005, lors du classement du littoral par l'UNESCO"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "MuMaTのコレクションを支配しているテーマは何ですか？",
+        "options": [
+          "Les costumes de la noblesse tropeanaise",
+          "Les fossiles, coquillages et organismes du milieu marin",
+          "Les armes normandes trouvées sous le palais"
+        ],
+        "answer": 2
+      }
+    ],
+    "Chiesa di San Francesco d’Assisi": [
+      {
+        "question": "サン・フランチェスコのこの場所は、どの古い宗教施設に結びついていますか？",
+        "options": [
+          "サン・ピエトロ・アド・リパスにて、13世紀末にはその存在が確認されています",
+          "À un monastère cistercien fondé par Frédéric II en 1220",
+          "À une chapelle catalane dédiée aux marins du XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "教会の大規模な再建に関連付けられている年代はいつですか？",
+        "options": [
+          "1661, au cours de la période baroque",
+          "1918, après la Première Guerre mondiale",
+          "1492, après la chute de Grenade"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "内部で特に注意すべき古い要素はどれですか？",
+        "options": [
+          "Un pavement romain représentant des dauphins",
+          "Une iconostase orthodoxe entièrement dorée",
+          "Une chapelle gothique avec des fresques du XIVe siècle"
+        ],
+        "answer": 0
+      }
+    ],
+    "Chiesa del Gesù": [
+      {
+        "question": "イエズス会士たちは何年にトロペーアに到着しましたか？",
+        "options": [
+          "En 1272, à la suite d'une croisade en Méditerranée",
+          "En 1815, après le retour des Bourbons à Naples",
+          "En 1594, avant la construction de leur nouvelle église"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "以前この地区に建っていた、さらに古い建物は何でしたか？",
+        "options": [
+          "L'église grecque orthodoxe San Nicola della Cattolica",
+          "La chapelle normande de Santa Maria della Scala",
+          "Le palais communal où siégeait le gouverneur espagnol"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どのナポリの建築様式がこの教会の平面計画に影響を与えましたか？",
+        "options": [
+          "La chapelle royale du Castel Nuovo",
+          "Le Gesù Nuovo et son organisation adaptée à la prédication",
+          "La basilique gothique de Santa Chiara à Naples"
+        ],
+        "answer": 2
+      }
+    ],
+    "Concattedrale Maria Santissima di Romania": [
+      {
+        "question": "トロペア大聖堂の主要部分は、いつの時代にさかのぼりますか？",
+        "options": [
+          "Au milieu du XVIe siècle, lors d'une occupation génoise",
+          "Au XIIe siècle, dans le contexte de la présence normande",
+          "À la fin du XIXe siècle, après l'unité italienne"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どの聖なる像が、この町を守護するものと見なされていますか？",
+        "options": [
+          "La Madonna della Fontana venue de Spilinga",
+          "La Madonna di Romania conservée dans la cathédrale",
+          "La Vierge noire de la Certosa di Serra San Bruno"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "この建物に保存されている、第二次世界大戦にまつわる珍しいものは何ですか？",
+        "options": [
+          "Une cloche fondue avec le métal d'un navire militaire",
+          "Deux bombes restées inexploitées, présentées comme ex-voto",
+          "Un poste radio utilisé par la résistance calabraise"
+        ],
+        "answer": 2
+      }
+    ],
+    "Piazza Ercole": [
+      {
+        "question": "地元の伝承では、ピアッツァ・エルコレという名はどの英雄に結びつけられていますか？",
+        "options": [
+          "À Hercule, présenté par la légende comme fondateur de Tropéa",
+          "À Ulysse, censé avoir bâti ici un phare ionien",
+          "À Achille, honoré pour une bataille livrée sur la place"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "広場の周囲にある建物の現在の姿に大きな影響を与えた出来事は何ですか？",
+        "options": [
+          "L'aménagement d'un forum impérial au Ier siècle",
+          "Les reconstructions qui ont suivi le séisme de 1783",
+          "La création d'une enceinte vénitienne au XVe siècle"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Piazza Ercoleの建築で注目すべき細部は何ですか？",
+        "options": [
+          "Des mosaïques byzantines couvrant tout le pavage",
+          "Les légers décalages des façades hérités des anciennes parcelles",
+          "Une colonnade de marbre parfaitement rectiligne"
+        ],
+        "answer": 2
+      }
+    ],
+    "Palazzo Giffone": [
+      {
+        "question": "Palazzo Giffone は主にいつ頃整えられたのでしょうか？",
+        "options": [
+          "À la fin du XIIIe siècle pour accueillir une garnison angevine",
+          "Au début du XIXe siècle, après le séisme de 1783",
+          "Dans les années 1930 comme siège d'une compagnie maritime"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "宮殿の建築を支配している様式は何ですか？",
+        "options": [
+          "Un néoclassicisme sobre fondé sur des proportions régulières",
+          "Un rococo chargé de coquilles et de dorures extérieures",
+          "Un modernisme en béton inspiré des gares italiennes"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どの要素によって、この邸宅の内部構成を読み取ることができますか？",
+        "options": [
+          "Un cloître gothique réservé aux pèlerins",
+          "Une tour crénelée ouvrant directement sur la mer",
+          "L'axe du portail, de la cour et de l'escalier"
+        ],
+        "answer": 1
+      }
+    ],
+    "Corso Vittorio Emanuele": [
+      {
+        "question": "コルソ・ヴィットーリオ・エマヌエーレに現在の名を与えた人物は誰ですか？",
+        "options": [
+          "Le prince normand Roger de Hauteville, né dans la rue",
+          "Le vice-roi espagnol Pedro de Toledo, propriétaire du corso",
+          "Le roi Victor-Emmanuel II, lié à l'unification italienne"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "この都市軸は、どのような古い役割を今も保っているのでしょうか？",
+        "options": [
+          "Conduire du cœur civique vers les belvédères de la falaise",
+          "Relier directement la gare moderne au port de pêche",
+          "Contourner les remparts par une voie réservée aux soldats"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Corsoのショーウィンドーの上には何が見られるでしょうか？",
+        "options": [
+          "Une frise romaine continue sculptée dans le travertin",
+          "Des gargouilles gothiques représentant des monstres marins",
+          "La variété des balcons, consoles et ferronneries"
+        ],
+        "answer": 1
+      }
+    ],
+    "Affaccio dei Sospiri": [
+      {
+        "question": "なぜこの場所は「Affaccio dei Sospiri」と呼ばれているのでしょうか？",
+        "options": [
+          "Parce que la vue soudaine arrache souvent un soupir d'émerveillement",
+          "Parce qu'un tribunal espagnol y prononçait les condamnations",
+          "Parce qu'une grotte voisine amplifiait les plaintes des pêcheurs"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "トロペーアの歴史地区は、どのような地形の上に築かれていますか？",
+        "options": [
+          "Une île volcanique reliée au continent au XIXe siècle",
+          "Une terrasse rocheuse dominant la mer d'environ quarante mètres",
+          "Une dune artificielle élevée pour protéger le port"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "空気が澄んでいると、地平線にどの山並みが見えることがありますか？",
+        "options": [
+          "Le massif enneigé du Pollino derrière la Sicile",
+          "La coupole de la cathédrale de Messine",
+          "Le cône volcanique de Stromboli dans les îles Éoliennes"
+        ],
+        "answer": 0
+      }
+    ],
+    "Spiaggia della Rotonda et Grotta del Palombaro": [
+      {
+        "question": "歴史地区と比べて、ロトンダのビーチにはどのような特徴がありますか？",
+        "options": [
+          "Elle conserve les vestiges d'un amphithéâtre entièrement dégagé",
+          "かつてこの岩は海によって岸から切り離されていたからです",
+          "Elle permet d'observer les maisons et la falaise depuis leur base"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Grotta del Palombaro への慎重なアクセスは何に左右されるのでしょうか？",
+        "options": [
+          "De l'état de la mer et de la force des vagues",
+          "Du calendrier des offices du sanctuaire voisin",
+          "Du niveau d'un lac souterrain alimenté par les pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "洞窟の中でターコイズ色を生み出している現象は何ですか？",
+        "options": [
+          "Un éclairage artificiel installé pour les excursions nocturnes",
+          "La présence de marbre bleu dissous dans l'eau",
+          "La lumière qui pénètre par l'ouverture et se réfléchit dans l'eau"
+        ],
+        "answer": 1
+      }
+    ],
+    "Santuario di Santa Maria dell’Isola": [
+      {
+        "question": "なぜこの聖域は「サンタ・マリア・デッロイーゾラ」と呼ばれているのですか？",
+        "options": [
+          "Parce qu'il dépendait administrativement de l'île de Stromboli",
+          "Parce que les moines y cultivaient uniquement des plantes insulaires",
+          "かつてこの岩は海によって岸から切り離されていたからです"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "この聖域は、長い間どの大修道院に結びついていたのでしょうか？",
+        "options": [
+          "À l'abbaye bénédictine de Montecassino",
+          "À la Certosa di Pavia en Lombardie",
+          "Au monastère grec de San Giovanni Theristis"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どのような出来事によって、この建物には大規模な修復が必要になったのでしょうか？",
+        "options": [
+          "Les raids génois de 1528 et 1544",
+          "Les incendies de forêt de 1870 et 1922",
+          "Les séismes, notamment ceux de 1783 et de 1905"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+}

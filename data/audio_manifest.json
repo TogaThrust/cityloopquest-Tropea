@@ -1,0 +1,920 @@
+{
+  "generatedAt": "2026-07-30T14:55:14.267Z",
+  "model": "gpt-4o-mini-tts",
+  "voice": "Remi",
+  "files": {
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_fr.mp3": {
+      "hash": "e8b8254367a157ac0c958c4b93f1ab1357275954",
+      "lang": "fr",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T14:55:40.441Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_nl.mp3": {
+      "hash": "96e7be86308bfff58196ed9f2613e1e83aa6270b",
+      "lang": "nl",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T14:56:03.369Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_en.mp3": {
+      "hash": "b805299121dd53b634e959673c4e98ccd4b8cde5",
+      "lang": "en",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T14:56:23.686Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_de.mp3": {
+      "hash": "203dac7e5892be1f23b9c21dc9c2135da92a1b78",
+      "lang": "de",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T14:56:49.426Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_it.mp3": {
+      "hash": "c674a512f35d5812dd84da28d2cd422566850a7a",
+      "lang": "it",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T14:57:22.640Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_es.mp3": {
+      "hash": "291f489b3aade9951440cabdf99684b529c2d212",
+      "lang": "es",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T14:57:43.595Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_pl.mp3": {
+      "hash": "e138d45ba3e81ded4618c01474d0f8083ad5c6bf",
+      "lang": "pl",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T14:57:48.272Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_ar.mp3": {
+      "hash": "c8ed550fb40feac11df5e5383f1d9c8a736fe549",
+      "lang": "ar",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T14:57:52.853Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_cn.mp3": {
+      "hash": "6b838219f10a51d85bf7630041782ddc7b1e8d0e",
+      "lang": "cn",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T14:57:57.527Z"
+    },
+    "audio/Palazzo_Santa_Chiara_et_MuMaT_ja.mp3": {
+      "hash": "3fe86dacb2d303bc1fb38b599c34791135e2980a",
+      "lang": "ja",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T14:58:02.907Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_fr.mp3": {
+      "hash": "36d7024b92be7eadac0d94bb7d9a02e84b5effbb",
+      "lang": "fr",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T14:58:22.293Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_nl.mp3": {
+      "hash": "90cd6f477ab0e8d3af14aaf3547c56fd49227407",
+      "lang": "nl",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T14:58:44.833Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_en.mp3": {
+      "hash": "1619ff2977fa2c7d937e7a9bb3a0d98d74367d35",
+      "lang": "en",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T14:59:04.649Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_de.mp3": {
+      "hash": "e3114dcdec8018d26c6db6621e86b6b1f5bb45c1",
+      "lang": "de",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T14:59:29.877Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_it.mp3": {
+      "hash": "1470234e9bcf7f8b6f09cae1dd1417ae84a00238",
+      "lang": "it",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:00:02.897Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_es.mp3": {
+      "hash": "7d0fccd7f6a3ec19dfdbdb4891367014d6345fc0",
+      "lang": "es",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:00:23.025Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_pl.mp3": {
+      "hash": "90a09062a73a5d1dfc36c560281da966154d200c",
+      "lang": "pl",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:00:27.330Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_ar.mp3": {
+      "hash": "bff7cbc8eeb3edd86ec26df95cb7623bcaab24c0",
+      "lang": "ar",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:00:32.193Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_cn.mp3": {
+      "hash": "b0c16871a16597c0d6fb89305377362a5c4c9703",
+      "lang": "cn",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:00:36.846Z"
+    },
+    "audio/Chiesa_di_San_Francesco_d_Assisi_ja.mp3": {
+      "hash": "efabf4900cd4560a78a79cb143d52f2b92297673",
+      "lang": "ja",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:00:42.295Z"
+    },
+    "audio/Chiesa_del_Gesu_fr.mp3": {
+      "hash": "830e3e2ad3187ae677b7c43d0ea6683a84661387",
+      "lang": "fr",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:01:02.183Z"
+    },
+    "audio/Chiesa_del_Gesu_nl.mp3": {
+      "hash": "d2e53e06ec91f7d3c335d4c9468abe341853120a",
+      "lang": "nl",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:01:24.913Z"
+    },
+    "audio/Chiesa_del_Gesu_en.mp3": {
+      "hash": "a839a95e1cbd4818dd1e05d180d97888f5922666",
+      "lang": "en",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:01:45.581Z"
+    },
+    "audio/Chiesa_del_Gesu_de.mp3": {
+      "hash": "a390963119992fb845ec1315f9324a7434cae88a",
+      "lang": "de",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:02:11.629Z"
+    },
+    "audio/Chiesa_del_Gesu_it.mp3": {
+      "hash": "1c5296cb3b342d57e99fb7ef70e7aadac22ceea9",
+      "lang": "it",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:02:45.291Z"
+    },
+    "audio/Chiesa_del_Gesu_es.mp3": {
+      "hash": "112f855aafb3b19efad0f69c1e61fe773e1c4bad",
+      "lang": "es",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:03:06.192Z"
+    },
+    "audio/Chiesa_del_Gesu_pl.mp3": {
+      "hash": "d8d54227e480daa13be750cd287ac0ee045426c5",
+      "lang": "pl",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:03:10.575Z"
+    },
+    "audio/Chiesa_del_Gesu_ar.mp3": {
+      "hash": "40413903a6638348a2afca189a0f9a2ee2a869b3",
+      "lang": "ar",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:03:15.067Z"
+    },
+    "audio/Chiesa_del_Gesu_cn.mp3": {
+      "hash": "269d6fbdb5884b3f233b6761e05c0a53a89774c8",
+      "lang": "cn",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:03:19.700Z"
+    },
+    "audio/Chiesa_del_Gesu_ja.mp3": {
+      "hash": "bc52f91c16fe8b41aac3533d3a2ec37eb77db03d",
+      "lang": "ja",
+      "label": "POI parcours: Chiesa del Gesù",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:03:25.379Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_fr.mp3": {
+      "hash": "1083d1bf84813f76c05f3236c6ea235b5f3a18f2",
+      "lang": "fr",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:03:44.291Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_nl.mp3": {
+      "hash": "f04e0e01e455472780e21a1d01c1ec63fe98c85c",
+      "lang": "nl",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:04:06.989Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_en.mp3": {
+      "hash": "821abf0e2163f99ce86e4c9a8c3ebf9c4a53ca5d",
+      "lang": "en",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:04:27.295Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_de.mp3": {
+      "hash": "63f8a031b43e2922fb29d9d15a5eccbd15d77904",
+      "lang": "de",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:04:54.261Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_it.mp3": {
+      "hash": "7d9f59f13e06573e4abd9576568dca352fb21127",
+      "lang": "it",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:05:27.819Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_es.mp3": {
+      "hash": "e6b681bda420e0272a2fe5f5183b06b5d92e87a5",
+      "lang": "es",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:05:48.392Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_pl.mp3": {
+      "hash": "411305733a133b533fe48a315a188cce215e2268",
+      "lang": "pl",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:05:52.717Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_ar.mp3": {
+      "hash": "8e59f96770477c5769fd18de60fc7a3c5184f3a8",
+      "lang": "ar",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:05:57.801Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_cn.mp3": {
+      "hash": "3d92dedaef1dc253cee1da6409c7548ab746614a",
+      "lang": "cn",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:06:02.568Z"
+    },
+    "audio/Concattedrale_Maria_Santissima_di_Romania_ja.mp3": {
+      "hash": "0b0a5879f3633b57a4148252856e0c7cb5eb3efb",
+      "lang": "ja",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:06:07.959Z"
+    },
+    "audio/Piazza_Ercole_fr.mp3": {
+      "hash": "2f92c431b8eb1a295cf827d7c4d8d94ffe36adfb",
+      "lang": "fr",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:06:28.838Z"
+    },
+    "audio/Piazza_Ercole_nl.mp3": {
+      "hash": "8c3dcc9a8af38562eed030932e1b46ea0ff06104",
+      "lang": "nl",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:06:52.741Z"
+    },
+    "audio/Piazza_Ercole_en.mp3": {
+      "hash": "2fd5834350a8bfe1b4faa668f905beeea0af19a1",
+      "lang": "en",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:07:15.233Z"
+    },
+    "audio/Piazza_Ercole_de.mp3": {
+      "hash": "9260d699dec339db40654442d53a665ad844a287",
+      "lang": "de",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:07:42.309Z"
+    },
+    "audio/Piazza_Ercole_it.mp3": {
+      "hash": "f7f70efe8ef88e148f9eebcebcff1b65ed41e458",
+      "lang": "it",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:08:17.851Z"
+    },
+    "audio/Piazza_Ercole_es.mp3": {
+      "hash": "910fdb1e75a2724c3ac57313c2c7683b21bad17f",
+      "lang": "es",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:08:39.854Z"
+    },
+    "audio/Piazza_Ercole_pl.mp3": {
+      "hash": "611505a985c95b4adb66f0302b9bc44a9d7f1a8f",
+      "lang": "pl",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:08:44.539Z"
+    },
+    "audio/Piazza_Ercole_ar.mp3": {
+      "hash": "cf51e5e590a6b1dec769dca54350d35b596b3a4e",
+      "lang": "ar",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:08:49.878Z"
+    },
+    "audio/Piazza_Ercole_cn.mp3": {
+      "hash": "1168e206ca06349e11678a16ff797cf7c9c6e7d5",
+      "lang": "cn",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:08:57.078Z"
+    },
+    "audio/Piazza_Ercole_ja.mp3": {
+      "hash": "50a0985e5bfe6395196a492d8d47116a4c1a7a15",
+      "lang": "ja",
+      "label": "POI parcours: Piazza Ercole",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:09:04.069Z"
+    },
+    "audio/Palazzo_Giffone_fr.mp3": {
+      "hash": "60dbca06ef6d69397def595f44f32ee925883fb2",
+      "lang": "fr",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:09:23.439Z"
+    },
+    "audio/Palazzo_Giffone_nl.mp3": {
+      "hash": "522d7264d7035a20e20845a780ad6e4e2dee4041",
+      "lang": "nl",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:09:46.550Z"
+    },
+    "audio/Palazzo_Giffone_en.mp3": {
+      "hash": "033c6bdb82b39cc58b3cf24be2c2cf5cde890e2c",
+      "lang": "en",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:10:07.519Z"
+    },
+    "audio/Palazzo_Giffone_de.mp3": {
+      "hash": "d7676d3dba5b4c383b4fe2b655ff4162f54a016f",
+      "lang": "de",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:10:33.799Z"
+    },
+    "audio/Palazzo_Giffone_it.mp3": {
+      "hash": "e78844635376bdaa0325f7d5bdcb6edeb7574fd3",
+      "lang": "it",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:11:07.117Z"
+    },
+    "audio/Palazzo_Giffone_es.mp3": {
+      "hash": "7de4e0fa0136b95e23b6fb28ac39f08a1e90721e",
+      "lang": "es",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:11:29.255Z"
+    },
+    "audio/Palazzo_Giffone_pl.mp3": {
+      "hash": "4a8907b536380d7730d06ad62f47a720aeb380c2",
+      "lang": "pl",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:11:33.541Z"
+    },
+    "audio/Palazzo_Giffone_ar.mp3": {
+      "hash": "4b8aa512e3d9f0356bb4f901495dc3c37803355d",
+      "lang": "ar",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:11:38.135Z"
+    },
+    "audio/Palazzo_Giffone_cn.mp3": {
+      "hash": "8faf4044b94054214753e6572c6b0131cd5ba06b",
+      "lang": "cn",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:11:42.467Z"
+    },
+    "audio/Palazzo_Giffone_ja.mp3": {
+      "hash": "6b60b55797791c3331c47608ec0b53bc5cc65695",
+      "lang": "ja",
+      "label": "POI parcours: Palazzo Giffone",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:11:48.184Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_fr.mp3": {
+      "hash": "0e97bc61d21656c510a23fcb3635f7c38542f253",
+      "lang": "fr",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:12:07.985Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_nl.mp3": {
+      "hash": "745cfcac4a9d8be5aab3f78dc2eb50e7817b8125",
+      "lang": "nl",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:12:30.891Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_en.mp3": {
+      "hash": "f56f7554688c028d75a34ffe1f6b7b33dd57f595",
+      "lang": "en",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:12:52.663Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_de.mp3": {
+      "hash": "43486ea01447ea4e0a97da7169c3ee02d8614ccb",
+      "lang": "de",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:13:19.106Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_it.mp3": {
+      "hash": "53687b2c839b3886e7447732280ae09cc9168667",
+      "lang": "it",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:13:53.481Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_es.mp3": {
+      "hash": "0b96356feacc8c4e47ef45bf1e1fd95a24198df8",
+      "lang": "es",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:14:15.016Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_pl.mp3": {
+      "hash": "129ff6cf675cc9f8837b72e5a1822b510d0feff6",
+      "lang": "pl",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:14:19.529Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_ar.mp3": {
+      "hash": "d198c6646905fe5a0b8fc5713adc6f222f1ac5b5",
+      "lang": "ar",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:14:24.507Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_cn.mp3": {
+      "hash": "ff5228f94e5d614be788de5d3882d95a06cc748d",
+      "lang": "cn",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:14:29.442Z"
+    },
+    "audio/Corso_Vittorio_Emanuele_ja.mp3": {
+      "hash": "72d6299b41db7fe2a97287bba4aa7b7135473343",
+      "lang": "ja",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:14:35.304Z"
+    },
+    "audio/Affaccio_dei_Sospiri_fr.mp3": {
+      "hash": "6c4e724d318d7d281cc307a23b0b970caf70ca12",
+      "lang": "fr",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:14:53.557Z"
+    },
+    "audio/Affaccio_dei_Sospiri_nl.mp3": {
+      "hash": "a7c8766c0cd48fc5df68147d9cab3cb269ed2084",
+      "lang": "nl",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:15:14.560Z"
+    },
+    "audio/Affaccio_dei_Sospiri_en.mp3": {
+      "hash": "26d91c798c24147186130292b629c73b1c58d557",
+      "lang": "en",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:15:34.026Z"
+    },
+    "audio/Affaccio_dei_Sospiri_de.mp3": {
+      "hash": "1db8661a7c05ba405c12dd19ad636e361d254c91",
+      "lang": "de",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:15:58.131Z"
+    },
+    "audio/Affaccio_dei_Sospiri_it.mp3": {
+      "hash": "00582123b1691a859945771f2f3a69609be1c7f6",
+      "lang": "it",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:16:30.909Z"
+    },
+    "audio/Affaccio_dei_Sospiri_es.mp3": {
+      "hash": "1ebfb37600b0b8ca4d959de3952444f680a971f8",
+      "lang": "es",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:16:51.544Z"
+    },
+    "audio/Affaccio_dei_Sospiri_pl.mp3": {
+      "hash": "c73b1f951b0cba31b1a9ffe2271cb4325b03a5d5",
+      "lang": "pl",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:16:55.694Z"
+    },
+    "audio/Affaccio_dei_Sospiri_ar.mp3": {
+      "hash": "42eaf2e0fe4eac2896e0d074bc54505fdde319fd",
+      "lang": "ar",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:17:00.174Z"
+    },
+    "audio/Affaccio_dei_Sospiri_cn.mp3": {
+      "hash": "0cf3d35975371defb61cc3c0c6afa95c90417529",
+      "lang": "cn",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:17:04.699Z"
+    },
+    "audio/Affaccio_dei_Sospiri_ja.mp3": {
+      "hash": "9d245293445990e9db903a615bca221938ca1ae2",
+      "lang": "ja",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:17:10.186Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_fr.mp3": {
+      "hash": "f769b806b134a9258e9e0fed82a43d1babe8846e",
+      "lang": "fr",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:17:28.645Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_nl.mp3": {
+      "hash": "7710d440bc3f0f4adc71ec1c9ce098c2661377be",
+      "lang": "nl",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:17:50.336Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_en.mp3": {
+      "hash": "dcaa1e19ad1215f2092628fa8814db398f09f140",
+      "lang": "en",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:18:09.844Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_de.mp3": {
+      "hash": "0bbaaeedd953b57c68cf2f1e86cb1e8ef4110592",
+      "lang": "de",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:18:33.394Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_it.mp3": {
+      "hash": "b9ab366e298fa3ccefbe3f92dfaae95bebd0b846",
+      "lang": "it",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:19:05.606Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_es.mp3": {
+      "hash": "5326f06baae04f263ded9e7329304a2fe91750df",
+      "lang": "es",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:19:25.636Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_pl.mp3": {
+      "hash": "04f9726b7419430edec19221465a7cf15535874d",
+      "lang": "pl",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:19:30.028Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_ar.mp3": {
+      "hash": "58ef51b684a46b89d9021248164eb7dded9efbae",
+      "lang": "ar",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:19:34.706Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_cn.mp3": {
+      "hash": "032cb32e0c24ed55937be9c4d271e49fa601283b",
+      "lang": "cn",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:19:38.228Z"
+    },
+    "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_ja.mp3": {
+      "hash": "cc3de3efc07b8e0e7f60722c936a58206e45801d",
+      "lang": "ja",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:19:43.360Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_fr.mp3": {
+      "hash": "6e22034437d16dc7bc2196b4f22fb089c62a3a24",
+      "lang": "fr",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-30T15:20:01.952Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_nl.mp3": {
+      "hash": "3bb15aa579e08967548994d0180700039f5eaa18",
+      "lang": "nl",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-30T15:20:23.318Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_en.mp3": {
+      "hash": "5d08fd46acee082ac61d10b8cec2b5ec39f57653",
+      "lang": "en",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-30T15:20:43.117Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_de.mp3": {
+      "hash": "203b47d47adf6ee1ad36b78f2c1d1ab45e9733a0",
+      "lang": "de",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-30T15:21:08.811Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_it.mp3": {
+      "hash": "a1e03105789c4ea15c188dce9b5fba518214a97a",
+      "lang": "it",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-30T15:21:41.877Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_es.mp3": {
+      "hash": "afd0d4ac4405cc401bf5bef648b6bbfde7bf4df8",
+      "lang": "es",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-30T15:22:02.362Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_pl.mp3": {
+      "hash": "49aac43de1e6569b111132ee4124182c86e222f7",
+      "lang": "pl",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-30T15:22:06.593Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_ar.mp3": {
+      "hash": "7bdaefc787d4bdd0bf0906160ec7903d9244831c",
+      "lang": "ar",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-30T15:22:11.136Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_cn.mp3": {
+      "hash": "94f9074a7a88a7c3acf9073e3b65de3678df35dd",
+      "lang": "cn",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-30T15:22:15.706Z"
+    },
+    "audio/Santuario_di_Santa_Maria_dell_Isola_ja.mp3": {
+      "hash": "6fa85f6612df601ce11424b17c57a57e3ced2760",
+      "lang": "ja",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-30T15:22:21.005Z"
+    }
+  },
+  "langRegenRequired": {},
+  "langAudioSyncedAt": {
+    "fr": "2026-07-30T15:22:21.060Z",
+    "nl": "2026-07-30T15:22:21.060Z",
+    "en": "2026-07-30T15:22:21.060Z",
+    "de": "2026-07-30T15:22:21.060Z",
+    "it": "2026-07-30T15:22:21.060Z",
+    "es": "2026-07-30T15:22:21.060Z",
+    "pl": "2026-07-30T15:22:21.060Z",
+    "ar": "2026-07-30T15:22:21.060Z",
+    "cn": "2026-07-30T15:22:21.060Z",
+    "ja": "2026-07-30T15:22:21.060Z"
+  }
+}

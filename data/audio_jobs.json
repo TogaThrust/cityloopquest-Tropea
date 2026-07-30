@@ -1,0 +1,1006 @@
+{
+  "slug": "tropea",
+  "generatedAt": "2026-07-30T14:55:14.250Z",
+  "jobs": [
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-fr",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_fr.mp3",
+      "sourceText": "À quelques pas du Duomo, Palazzo Santa Chiara fait passer le visiteur d’un ancien univers religieux à une étonnante plongée dans la mer. Le complexe s’est développé autour d’un couvent de clarisses fondé à l’époque moderne, puis a connu des usages successifs après la suppression des communautés religieuses. Ses murs conservent donc les traces de plusieurs vies, de la clôture monastique aux activités culturelles.\n\nLes séismes et les transformations urbaines ont remanié l’ensemble, mais l’implantation près de la cathédrale n’est pas due au hasard. Les couvents féminins occupaient souvent des positions centrales, proches des grands lieux de culte tout en restant protégés par leur propre organisation intérieure. Les espaces fermés, les cours et les salles voûtées racontent encore cette recherche d’équilibre entre présence dans la ville et retrait du monde.\n\nDepuis 2019, une partie du palais accueille le MuMaT, le Museo Civico del Mare di Tropea. Les collections présentent des fossiles, des coquillages, des organismes marins et des témoignages sur la biodiversité de la côte. Le musée rappelle que le paysage contemplé depuis les belvédères n’est pas seulement une surface bleue : c’est un milieu vivant, ancien et fragile.\n\nApprochez-vous des maçonneries et cherchez les différences entre les parties restaurées et les éléments plus anciens. Dans le musée, comparez les formes des fossiles avec les coquilles actuelles. Ce jeu d’échelles, du minuscule organisme à la grande falaise, permet de comprendre comment la géologie et la mer ont façonné l’identité de Tropéa.\n\nLe contraste fait tout le charme de la halte : un ancien couvent, des collections scientifiques et la rumeur du littoral à quelques dizaines de mètres. Santa Chiara montre ainsi comment un bâtiment patrimonial peut retrouver une utilité sans effacer son passé. Avant une visite intérieure, il est prudent de vérifier les horaires, qui peuvent varier selon la saison ou les activités programmées."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-nl",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_nl.mp3",
+      "sourceText": "Op enkele stappen van de Duomo voert Palazzo Santa Chiara de bezoeker van een voormalige religieuze wereld naar een verrassende onderdompeling in de zee. Het complex ontwikkelde zich rond een klooster van clarissen, gesticht in de vroegmoderne tijd, en kende daarna opeenvolgende bestemmingen na de opheffing van de religieuze gemeenschappen. De muren bewaren dus de sporen van verschillende levens, van de monastieke beslotenheid tot culturele activiteiten.\n\nAardbevingen en stedelijke ingrepen hebben het geheel herwerkt, maar de ligging vlak bij de kathedraal is niet toevallig. Vrouwenkloosters namen vaak een centrale plaats in, dicht bij de grote gebedshuizen en tegelijk beschermd door hun eigen interne organisatie. De afgesloten ruimten, binnenplaatsen en gewelfde zalen vertellen nog altijd over dat streven naar evenwicht tussen aanwezigheid in de stad en terugtrekking uit de wereld.\n\nSinds 2019 herbergt een deel van het paleis het MuMaT, het Museo Civico del Mare di Tropea. De collecties tonen fossielen, schelpen, mariene organismen en getuigenissen over de biodiversiteit van de kust. Het museum herinnert eraan dat het landschap dat vanaf de uitkijkpunten te bewonderen is, niet alleen een blauw oppervlak is: het is een levende, oude en kwetsbare omgeving.\n\nKom dichter bij het metselwerk en zoek de verschillen tussen de gerestaureerde delen en de oudere elementen. Vergelijk in het museum de vormen van de fossielen met die van de huidige schelpen. Dit spel van schalen, van het kleine organisme tot de grote klif, maakt duidelijk hoe geologie en zee de identiteit van Tropea hebben gevormd.\n\nHet contrast is precies wat deze halte zo charmant maakt: een voormalig klooster, wetenschappelijke collecties en het geruis van de kust op slechts enkele tientallen meters. Santa Chiara laat zo zien hoe een erfgoedgebouw opnieuw een functie kan krijgen zonder zijn verleden uit te wissen. Voor een bezoek binnen is het verstandig de openingstijden te controleren, aangezien die kunnen variëren naargelang het seizoen of de geplande activiteiten."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-en",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_en.mp3",
+      "sourceText": "A few steps from the Duomo, Palazzo Santa Chiara takes the visitor from an ancient religious world into a surprising immersion in the sea. The complex developed around a convent of Poor Clares founded in the modern era, then underwent successive uses after the suppression of the religious communities. Its walls therefore preserve traces of several lives, from monastic enclosure to cultural activities.\n\nEarthquakes and urban transformations have reshaped the complex, but its location near the cathedral is no accident. Female convents often occupied central positions, close to major places of worship while remaining protected by their own internal organization. The enclosed spaces, courtyards, and vaulted rooms still speak of this search for balance between a presence in the city and withdrawal from the world.\n\nSince 2019, part of the palace has housed the MuMaT, the Museo Civico del Mare di Tropea. The collections feature fossils, shells, marine organisms, and evidence of the coastline's biodiversity. The museum reminds us that the landscape seen from the viewpoints is not just a blue surface: it is a living, ancient, and fragile environment.\n\nMove closer to the masonry and look for the differences between the restored sections and the older elements. In the museum, compare the shapes of the fossils with those of present-day shells. This play of scales, from the tiniest organism to the great cliff, helps us understand how geology and the sea shaped Tropea's identity.\n\nThe contrast is what makes this stop so charming: an old convent, scientific collections, and the murmur of the coast just a few dozen meters away. Santa Chiara thus shows how a heritage building can find a new purpose without erasing its past. Before visiting the interior, it is advisable to check the opening hours, which may vary according to the season or scheduled activities."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-de",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_de.mp3",
+      "sourceText": "Nur wenige Schritte vom Dom entfernt versetzt der Palazzo Santa Chiara den Besucher von einer alten religiösen Welt in ein überraschendes Eintauchen ins Meer. Der Komplex entwickelte sich um ein Klarissenkloster, das in der frühen Neuzeit gegründet wurde, und erhielt nach der Auflösung der Ordensgemeinschaften nacheinander verschiedene Nutzungen. Seine Mauern bewahren daher Spuren mehrerer Lebensphasen, von der klösterlichen Klausur bis hin zu kulturellen Aktivitäten.\n\nErdbeben und städtebauliche Veränderungen haben das Ensemble umgestaltet, doch die Lage nahe der Kathedrale ist kein Zufall. Frauenklöster nahmen oft zentrale Positionen ein, in der Nähe der großen Kultstätten und zugleich geschützt durch ihre eigene innere Ordnung. Die geschlossenen Räume, Innenhöfe und gewölbten Säle erzählen noch immer von diesem Bemühen um ein Gleichgewicht zwischen Präsenz in der Stadt und Rückzug aus der Welt.\n\nSeit 2019 beherbergt ein Teil des Palastes das MuMaT, das Museo Civico del Mare di Tropea. Die Sammlungen zeigen Fossilien, Muscheln, Meeresorganismen und Zeugnisse der Küstenbiodiversität. Das Museum erinnert daran, dass die von den Aussichtspunkten aus betrachtete Landschaft nicht nur eine blaue Oberfläche ist: Sie ist ein lebendiger, uralter und fragiler Lebensraum.\n\nTreten Sie näher an das Mauerwerk heran und suchen Sie die Unterschiede zwischen den restaurierten Teilen und den älteren Elementen. Vergleichen Sie im Museum die Formen der Fossilien mit den heutigen Schalen. Dieses Spiel der Maßstäbe, vom winzigen Organismus bis zur großen Klippe, macht verständlich, wie Geologie und Meer die Identität von Tropea geprägt haben.\n\nDen Reiz dieses Haltepunkts macht gerade der Kontrast aus: ein ehemaliges Kloster, wissenschaftliche Sammlungen und das Rauschen der Küste nur wenige Dutzend Meter entfernt. Santa Chiara zeigt so, wie ein historisches Gebäude eine neue Nutzung finden kann, ohne seine Vergangenheit auszulöschen. Vor einem Besuch im Inneren empfiehlt es sich, die Öffnungszeiten zu prüfen, da sie je nach Jahreszeit oder geplanten Aktivitäten variieren können."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-it",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_it.mp3",
+      "sourceText": "A pochi passi dal Duomo, Palazzo Santa Chiara conduce il visitatore da un antico universo religioso a un sorprendente tuffo nel mare. Il complesso si è sviluppato attorno a un convento di clarisse fondato in età moderna, per poi conoscere usi successivi dopo la soppressione delle comunità religiose. Le sue mura conservano dunque le tracce di più vite, dalla clausura monastica alle attività culturali.\n\nI terremoti e le trasformazioni urbane hanno rimodellato l’insieme, ma la sua collocazione vicino alla cattedrale non è casuale. I conventi femminili occupavano spesso posizioni centrali, vicine ai grandi luoghi di culto ma al tempo stesso protette dalla propria organizzazione interna. Gli spazi chiusi, i cortili e le sale voltate raccontano ancora questa ricerca di equilibrio tra presenza nella città e distacco dal mondo.\n\nDal 2019, una parte del palazzo ospita il MuMaT, il Museo Civico del Mare di Tropea. Le collezioni presentano fossili, conchiglie, organismi marini e testimonianze sulla biodiversità della costa. Il museo ricorda che il paesaggio contemplato dai belvedere non è solo una superficie blu: è un ambiente vivo, antico e fragile.\n\nAvvicinatevi alle murature e cercate le differenze tra le parti restaurate e gli elementi più antichi. Nel museo, confrontate le forme dei fossili con le conchiglie attuali. Questo gioco di scale, dal minuscolo organismo alla grande scogliera, permette di comprendere come la geologia e il mare abbiano plasmato l’identità di Tropea.\n\nIl contrasto fa tutto il fascino della sosta: un antico convento, collezioni scientifiche e il rumore della costa a poche decine di metri. Santa Chiara mostra così come un edificio storico possa ritrovare una funzione senza cancellare il proprio passato. Prima di una visita all’interno, è prudente verificare gli orari, che possono variare secondo la stagione o le attività programmate."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-es",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_es.mp3",
+      "sourceText": "A pocos pasos del Duomo, Palazzo Santa Chiara lleva al visitante de un antiguo universo religioso a una sorprendente inmersión en el mar. El complejo se desarrolló alrededor de un convento de clarisas fundado en la época moderna y, después de la supresión de las comunidades religiosas, conoció usos sucesivos. Sus muros conservan así las huellas de varias vidas, desde la clausura monástica hasta las actividades culturales.\n\nLos terremotos y las transformaciones urbanas remodelaron el conjunto, pero su emplazamiento cerca de la catedral no es casual. Los conventos femeninos ocupaban a menudo posiciones centrales, cerca de los grandes lugares de culto y, al mismo tiempo, protegidos por su propia organización interna. Los espacios cerrados, los patios y las salas abovedadas aún narran esa búsqueda de equilibrio entre la presencia en la ciudad y el retiro del mundo.\n\nDesde 2019, una parte del palacio alberga el MuMaT, el Museo Cívico del Mar de Tropea. Las colecciones presentan fósiles, conchas, organismos marinos y testimonios sobre la biodiversidad de la costa. El museo recuerda que el paisaje contemplado desde los miradores no es solo una superficie azul: es un medio vivo, antiguo y frágil.\n\nAcérquese a la mampostería y busque las diferencias entre las partes restauradas y los elementos más antiguos. En el museo, compare las formas de los fósiles con las conchas actuales. Este juego de escalas, del minúsculo organismo al gran acantilado, permite comprender cómo la geología y el mar han forjado la identidad de Tropea.\n\nEl contraste hace todo el encanto de esta parada: un antiguo convento, colecciones científicas y el murmullo de la costa a pocos decenas de metros. Santa Chiara muestra así cómo un edificio patrimonial puede recuperar una utilidad sin borrar su pasado. Antes de una visita interior, conviene verificar los horarios, que pueden variar según la temporada o las actividades programadas."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-pl",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_pl.mp3",
+      "sourceText": "Zaledwie kilka kroków od Duomo Palazzo Santa Chiara przenosi zwiedzającego z dawnego świata religijnego w zdumiewające zanurzenie w morzu. Kompleks rozwinął się wokół klasztoru klarysek założonego w epoce nowożytnej, a następnie po likwidacji wspólnot religijnych zyskał kolejne zastosowania. Jego mury zachowują więc ślady wielu żyć — od klauzury klasztornej po działalność kulturalną.\n\nTrzęsienia ziemi i przemiany urbanistyczne przekształciły cały zespół, lecz usytuowanie w pobliżu katedry nie jest dziełem przypadku. Klasztory żeńskie często zajmowały centralne położenie, blisko ważnych miejsc kultu, a jednocześnie były chronione przez własną wewnętrzną organizację. Zamknięte przestrzenie, dziedzińce i sklepione sale wciąż opowiadają o dążeniu do równowagi między obecnością w mieście a odosobnieniem od świata.\n\nOd 2019 roku część pałacu mieści MuMaT, Museo Civico del Mare di Tropea. Zbiory prezentują skamieniałości, muszle, organizmy morskie oraz świadectwa bioróżnorodności wybrzeża. Muzeum przypomina, że krajobraz oglądany z punktów widokowych to nie tylko błękitna tafla: to środowisko żywe, dawne i kruche.\n\nPodejdźcie bliżej do murów i wypatrujcie różnic między odrestaurowanymi fragmentami a starszymi elementami. W muzeum porównajcie kształty skamieniałości ze współczesnymi muszlami. Ta gra skali — od mikroskopijnego organizmu po wysokie urwisko — pozwala zrozumieć, jak geologia i morze ukształtowały tożsamość Tropei.\n\nUrok tego przystanku tkwi w kontraście: dawny klasztor, kolekcje naukowe i szum wybrzeża zaledwie kilka dziesiątek metrów dalej. Santa Chiara pokazuje, jak zabytek może odzyskać użyteczność, nie zacierając swojej przeszłości. Przed zwiedzaniem wnętrza warto sprawdzić godziny otwarcia, które mogą się zmieniać w zależności od sezonu lub zaplanowanych wydarzeń."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-ar",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_ar.mp3",
+      "sourceText": "على بُعد خطوات قليلة من الدومو، ينقل قصر سانتا كيارا الزائر من عالم ديني قديم إلى غوصٍ مدهش في البحر. وقد تطوّر هذا المجمع حول ديرٍ للراهبات الكلاريس تأسس في العصر الحديث، ثم شهد استعمالات متعاقبة بعد إلغاء الجماعات الدينية. لذا تحتفظ جدرانه بآثار حيوات متعددة، من العزلة الرهبانية إلى الأنشطة الثقافية.\n\nأعادَت الزلازل والتحولات الحضرية تشكيلَ هذا الموقع، لكن تمركزه قرب الكاتدرائية ليس وليد الصدفة. فقد كانت الأديرة النسائية غالبًا تحتل مواقع مركزية، قريبة من أماكن العبادة الكبرى، مع بقائها محميةً بتنظيمها الداخلي الخاص. ولا تزال الفضاءات المغلقة والساحات والقاعات المقببة تروي هذا السعي إلى التوازن بين الحضور في المدينة والانسحاب من العالم.\n\nمنذ عام 2019، يستضيف جزء من القصر متحف MuMaT، وهو المتحف المدني للبحر في تروبيه. وتعرض المجموعات أحافير، وأصدافًا، وكائنات بحرية، وشهادات عن التنوع البيولوجي للساحل. ويذكّر المتحف بأن المشهد المتأمل من نقاط الإطلالة ليس مجرد سطح أزرق: إنه وسط حيّ، قديم وهشّ.\n\nاقترب من أعمال البناء وابحث عن الفروق بين الأجزاء التي خضعت للترميم والعناصر الأقدم. وفي المتحف، قارن أشكال الأحافير بالأصداف الحالية. إن هذا التلاعب بالمقاييس، من الكائن الدقيق إلى الجرف الشاهق، يتيح فهمَ كيف شكّلت الجيولوجيا والبحر هويةَ تروبيه.\n\nويكمن سحرُ المحطة كلّه في هذا التباين: ديرٌ قديم، ومجموعات علمية، وهمس الساحل على بُعد عشرات الأمتار فقط. وهكذا يبيّن سانتا كيارا كيف يمكن لمبنى تراثي أن يستعيد وظيفته من دون أن يمحو ماضيه. وقبل الزيارة الداخلية، يُستحسن التحقق من ساعات الافتتاح، إذ قد تختلف بحسب الموسم أو الأنشطة المبرمجة."
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-cn",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_cn.mp3",
+      "sourceText": "距离主教座堂仅几步之遥的圣基亚拉宫，将游客从古老的宗教世界带入令人惊叹的海洋沉浸之中。这个建筑群围绕一座创建于近代时期的圣嘉勒修道院发展而成，在修会被解散后又先后经历了不同用途。因此，它的墙体保留了多重生活的痕迹，从修道院的隐修生活到文化活动，皆可见一斑。\n\n地震和城市变迁改造了整个建筑群，但其选址靠近大教堂并非偶然。女子修道院往往占据城市中心的位置，临近重要礼拜场所，同时又因自身的内部组织而保持保护与隔离。封闭空间、庭院和拱顶厅堂，至今仍在诉说着这种在城市中存在、却又远离尘世的平衡追求。\n\n自2019年起，宫殿的一部分接纳了穆马特，即特罗佩亚海洋市立博物馆。馆藏展示了化石、贝壳、海洋生物以及关于海岸生物多样性的见证。博物馆提醒人们，从观景台望去的风景并不只是蓝色的海面：它是一个充满生命、古老而脆弱的环境。\n\n请走近砌体，仔细寻找修复部分与较古老构件之间的差异。在博物馆中，将化石的形态与现今的贝壳作比较。这种从微小生物到宏大悬崖的尺度对比，有助于理解地质与海洋如何塑造了特罗佩亚的身份。\n\n这种对比正是此地停留的迷人之处：一座古老修道院、科学藏品，以及仅数十米之外海岸线的喧响。圣基亚拉由此展示了一座历史建筑如何在不抹去过去的前提下重新获得用途。在进入室内参观前，最好先确认开放时间，因为其可能会随季节或已安排活动而有所变化。"
+    },
+    {
+      "id": "route-poi-Palazzo_Santa_Chiara_et_MuMaT-ja",
+      "label": "POI parcours: Palazzo Santa Chiara et MuMaT",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Santa_Chiara_et_MuMaT_ja.mp3",
+      "sourceText": "ドゥオーモから歩いてすぐの場所にあるパラッツォ・サンタ・キアーラは、訪れる人を、かつての宗教の世界から驚くほど海の深みへと導きます。この複合施設は、近世に創建されたクラリス会修道院を中心に発展し、修道共同体の廃止後は、その後さまざまな用途に使われてきました。その壁には、修道院の囲いから文化活動に至るまで、幾つもの時代の痕跡が残されています。\n\n地震と都市の変化によって全体は姿を変えましたが、大聖堂の近くという立地は偶然ではありません。女子修道院はしばしば、主要な礼拝の場に近い中心的な場所を占めつつ、内部の独自の組織によって守られていました。閉ざされた空間、中庭、そしてヴォールト天井のある部屋は、街に身を置きながらも世俗から退くという、この均衡への探求を今も物語っています。\n\n2019年からは、宮殿の一部にムマト、トロペーア市立海洋博物館が入っています。収蔵品には、化石、貝殻、海洋生物、そして沿岸の生物多様性に関する資料が並びます。この博物館は、展望台から眺める景色が単なる青い表面ではないことを思い出させてくれます。それは、古く、繊細で、生きている環境なのです。\n\n石積みに近づき、修復された部分と、より古い要素との違いを探してみてください。館内では、化石の形と現在の貝殻を見比べてみましょう。ごく小さな生き物から大きな断崖へと至る、このスケールの遊びによって、地質と海がどのようにトロペーアのアイデンティティを形づくってきたのかが理解できます。\n\nこの立ち寄り先の魅力は、まさにこの対比にあります。かつての修道院、科学的なコレクション、そして数十メートル先に聞こえる海岸のざわめき。サンタ・キアーラは、歴史的建造物が過去を消すことなく、新たな役割を取り戻せることを示しています。館内を見学する前には、季節や催しにより変わることのある開館時間を確認しておくと安心です。"
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-fr",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_fr.mp3",
+      "sourceText": "Le silence du Largo Galluppi change aussitôt la couleur de la visite. La Chiesa di San Francesco d’Assisi appartient à un ancien ensemble franciscain établi sur un site religieux médiéval connu sous le nom de San Pietro ad Ripas. Des sources font remonter cette implantation à la fin du XIIIe siècle, autour de 1295, lorsque les ordres mendiants gagnaient les villes du sud de l’Italie.\n\nL’église visible aujourd’hui doit beaucoup à une reconstruction de 1661. Son vaisseau unique, ses stucs et ses chapelles répondent aux goûts de l’époque baroque, mais des fragments plus anciens subsistent. Le lieu a traversé suppressions, séismes et changements d’usage, si bien que l’ancien couvent et l’église ne forment plus exactement l’ensemble cohérent qu’ils constituaient autrefois.\n\nLe trésor le plus émouvant se cache dans une chapelle gothique, où des fresques du XIVe siècle témoignent d’une phase bien antérieure au décor baroque. Les figures peintes ont perdu une partie de leurs couleurs, mais leur présence crée un lien direct avec la communauté médiévale. Cette superposition de styles est l’une des grandes richesses du patrimoine tropeano.\n\nÀ l’intérieur, laissez vos yeux s’adapter avant de chercher les fresques et les lignes de la chapelle ancienne. Comparez-les avec les stucs plus théâtraux de la nef. À l’extérieur, remarquez la relation entre l’église, le petit espace ouvert et le bord du promontoire : les franciscains s’installaient souvent à la limite du tissu urbain, près des passages et des populations modestes.\n\nLe bâtiment rappelle enfin une histoire faite de patience. Les frères, les artisans puis les restaurateurs ont tous ajouté quelque chose sans connaître le résultat final que nous voyons. Ici, le visiteur n’admire pas une époque unique, mais près de sept siècles de reprises, de dommages et de soins."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-nl",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_nl.mp3",
+      "sourceText": "De stilte van Largo Galluppi verandert meteen de toon van het bezoek. De Chiesa di San Francesco d’Assisi maakt deel uit van een oud franciscaans complex dat werd gevestigd op een middeleeuwse religieuze site die bekendstond als San Pietro ad Ripas. Bronnen dateren deze vestiging aan het einde van de 13e eeuw, rond 1295, toen de bedelorden hun weg vonden naar de steden van Zuid-Italië.\n\nDe kerk die vandaag zichtbaar is, is in hoge mate te danken aan een heropbouw uit 1661. Het eenbeukige schip, het stucwerk en de kapellen sluiten aan bij de barokke smaak van die tijd, maar er zijn oudere fragmenten bewaard gebleven. De plek heeft opheffingen, aardbevingen en veranderend gebruik doorstaan, zodat het voormalige klooster en de kerk niet langer precies het samenhangende geheel vormen dat zij ooit waren.\n\nDe meest ontroerende schat is verborgen in een gotische kapel, waar fresco’s uit de 14e eeuw getuigen van een fase die veel ouder is dan het barokke decor. De geschilderde figuren hebben een deel van hun kleuren verloren, maar hun aanwezigheid schept een directe band met de middeleeuwse gemeenschap. Deze gelaagdheid van stijlen is een van de grote rijkdommen van het erfgoed van Tropea.\n\nLaat binnen uw ogen even wennen voordat u op zoek gaat naar de fresco’s en de lijnen van de oude kapel. Vergelijk ze met het meer theatrale stucwerk van het schip. Kijk buiten naar de relatie tussen de kerk, de kleine open ruimte en de rand van het voorgebergte: de franciscanen vestigden zich vaak aan de rand van het stedelijke weefsel, dicht bij doorgangen en bij de minder welgestelde bevolking.\n\nHet gebouw herinnert ten slotte aan een geschiedenis die wordt gekenmerkt door geduld. De broeders, de ambachtslieden en later de restauratoren hebben allemaal iets toegevoegd zonder het uiteindelijke resultaat te kennen dat wij vandaag zien. Hier bewondert de bezoeker niet één enkel tijdperk, maar bijna zeven eeuwen van herstelwerk, schade en zorg."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-en",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_en.mp3",
+      "sourceText": "The silence of Largo Galluppi immediately changes the tone of the visit. The Chiesa di San Francesco d’Assisi belongs to an old Franciscan complex established on a medieval religious site known as San Pietro ad Ripas. Sources trace this foundation back to the late 13th century, around 1295, when the mendicant orders were taking root in the cities of southern Italy.\n\nThe church visible today owes much to a reconstruction in 1661. Its single nave, stucco decoration, and chapels reflect the tastes of the Baroque period, but older fragments still remain. The site has endured suppressions, earthquakes, and changes of use, so the former convent and church no longer form exactly the coherent ensemble they once did.\n\nThe most moving treasure is hidden in a Gothic chapel, where 14th-century frescoes bear witness to a phase much earlier than the Baroque decor. The painted figures have lost some of their color, but their presence creates a direct link with the medieval community. This layering of styles is one of the great riches of Tropea’s heritage.\n\nInside, allow your eyes to adjust before looking for the frescoes and the lines of the old chapel. Compare them with the more theatrical stuccoes of the nave. Outside, notice the relationship between the church, the small open space, and the edge of the promontory: Franciscans often settled at the boundary of the urban fabric, near thoroughfares and modest communities.\n\nIn the end, the building recalls a history shaped by patience. The friars, the craftsmen, and then the restorers all added something without knowing the final result we see today. Here, the visitor admires not a single era, but nearly seven centuries of additions, damage, and care."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-de",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_de.mp3",
+      "sourceText": "Die Stille des Largo Galluppi verändert sofort die Atmosphäre des Besuchs. Die Chiesa di San Francesco d’Assisi gehört zu einem ehemaligen Franziskanerkomplex, der auf einem mittelalterlichen religiösen Standort errichtet wurde, bekannt als San Pietro ad Ripas. Quellen führen diese Niederlassung auf das späte 13. Jahrhundert zurück, um 1295, als die Bettelorden in die Städte Süditaliens vordrangen.\n\nDie heute sichtbare Kirche verdankt viel einem Wiederaufbau von 1661. Ihr einschiffiges Langhaus, die Stuckdekorationen und die Kapellen entsprechen dem Geschmack des Barock, doch ältere Fragmente sind erhalten geblieben. Der Ort hat Aufhebungen, Erdbeben und Nutzungsänderungen überdauert, sodass das ehemalige Kloster und die Kirche heute nicht mehr genau jene geschlossene Einheit bilden, die sie einst ausmachten.\n\nDer bewegendste Schatz verbirgt sich in einer gotischen Kapelle, wo Fresken aus dem 14. Jahrhundert von einer deutlich älteren Phase als der barocken Ausstattung zeugen. Die gemalten Figuren haben einen Teil ihrer Farben verloren, doch ihre Präsenz schafft eine direkte Verbindung zur mittelalterlichen Gemeinschaft. Diese Überlagerung von Stilen ist einer der großen Reichtümer des tropäischen Kulturerbes.\n\nIm Inneren lassen Sie Ihren Blick erst an die Dunkelheit gewöhnen, bevor Sie nach den Fresken und den Linien der alten Kapelle suchen. Vergleichen Sie sie mit dem theatralischeren Stuck des Kirchenschiffs. Draußen achten Sie auf das Verhältnis zwischen der Kirche, dem kleinen offenen Platz und dem Rand des Felsvorsprungs: Die Franziskaner siedelten sich oft an der Grenze des städtischen Gefüges an, nahe bei den Wegen und den einfachen Bevölkerungsgruppen.\n\nDas Gebäude erinnert schließlich an eine Geschichte voller Geduld. Die Brüder, die Handwerker und später die Restauratoren haben alle etwas hinzugefügt, ohne das endgültige Ergebnis zu kennen, das wir heute sehen. Hier bewundert der Besucher nicht eine einzelne Epoche, sondern nahezu sieben Jahrhunderte von Umbauten, Schäden und Pflege."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-it",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_it.mp3",
+      "sourceText": "Il silenzio di Largo Galluppi cambia subito il tono della visita. La Chiesa di San Francesco d’Assisi appartiene a un antico complesso francescano sorto su un sito religioso medievale noto come San Pietro ad Ripas. Alcune fonti fanno risalire questo insediamento alla fine del XIII secolo, intorno al 1295, quando gli ordini mendicanti si diffondevano nelle città del sud Italia.\n\nLa chiesa visibile oggi deve molto a una ricostruzione del 1661. La sua navata unica, gli stucchi e le cappelle rispondono al gusto dell’epoca barocca, ma sopravvivono frammenti più antichi. Il luogo ha attraversato soppressioni, terremoti e cambi di funzione, tanto che l’antico convento e la chiesa non formano più esattamente l’insieme coerente che costituivano un tempo.\n\nIl tesoro più emozionante si nasconde in una cappella gotica, dove affreschi del XIV secolo testimoniano una fase ben precedente al decoro barocco. Le figure dipinte hanno perso parte dei loro colori, ma la loro presenza crea un legame diretto con la comunità medievale. Questa sovrapposizione di stili è una delle grandi ricchezze del patrimonio tropeano.\n\nAll’interno, lasciate che i vostri occhi si adattino prima di cercare gli affreschi e le linee dell’antica cappella. Confrontateli con gli stucchi più teatrali della navata. All’esterno, notate il rapporto tra la chiesa, il piccolo spazio aperto e il bordo del promontorio: i francescani si insediavano spesso ai margini del tessuto urbano, vicino ai passaggi e alle popolazioni più umili.\n\nInfine, l’edificio racconta una storia fatta di pazienza. I frati, gli artigiani e poi i restauratori hanno tutti aggiunto qualcosa senza conoscere il risultato finale che vediamo oggi. Qui, il visitatore non ammira un’unica epoca, ma quasi sette secoli di interventi, danni e cure."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-es",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_es.mp3",
+      "sourceText": "El silencio de Largo Galluppi cambia de inmediato el tono de la visita. La Chiesa di San Francesco d’Assisi pertenece a un antiguo conjunto franciscano establecido sobre un emplazamiento religioso medieval conocido como San Pietro ad Ripas. Algunas fuentes sitúan esta implantación a finales del siglo XIII, hacia 1295, cuando las órdenes mendicantes ganaban las ciudades del sur de Italia.\n\nLa iglesia que vemos hoy debe mucho a una reconstrucción de 1661. Su nave única, sus estucos y sus capillas responden al gusto de la época barroca, pero subsisten fragmentos más antiguos. El lugar ha atravesado supresiones, seísmos y cambios de uso, de modo que el antiguo convento y la iglesia ya no forman exactamente el conjunto coherente que constituían en otro tiempo.\n\nEl tesoro más conmovedor se esconde en una capilla gótica, donde unas frescos del siglo XIV testimonian una fase mucho anterior al decorado barroco. Las figuras pintadas han perdido parte de sus colores, pero su presencia crea un vínculo directo con la comunidad medieval. Esta superposición de estilos es una de las grandes riquezas del patrimonio tropeano.\n\nEn el interior, deje que sus ojos se adapten antes de buscar los frescos y las líneas de la antigua capilla. Compárelos con los estucos más teatrales de la nave. En el exterior, observe la relación entre la iglesia, el pequeño espacio abierto y el borde del promontorio: los franciscanos solían instalarse en el límite del tejido urbano, cerca de los pasos y de las poblaciones humildes.\n\nPor último, el edificio recuerda una historia hecha de paciencia. Los frailes, los artesanos y luego los restauradores fueron aportando cada uno algo sin conocer el resultado final que contemplamos hoy. Aquí, el visitante no admira una sola época, sino casi siete siglos de intervenciones, daños y cuidados."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-pl",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_pl.mp3",
+      "sourceText": "Cisza Largo Galluppi natychmiast zmienia charakter zwiedzania. Chiesa di San Francesco d’Assisi należy do dawnego zespołu franciszkańskiego, założonego na średniowiecznym terenie sakralnym znanym jako San Pietro ad Ripas. Źródła datują tę fundację na koniec XIII wieku, około 1295 roku, gdy zakony żebracze zdobywały miasta południowych Włoch.\n\nKościół, który widzimy dziś, wiele zawdzięcza przebudowie z 1661 roku. Jednonawowe wnętrze, stiuki i kaplice odpowiadają gustom epoki baroku, lecz zachowały się też starsze fragmenty. Miejsce przeszło kasacje, trzęsienia ziemi i zmiany sposobu użytkowania, tak że dawny klasztor i kościół nie tworzą już dokładnie tej spójnej całości, jaką stanowiły niegdyś.\n\nNajbardziej poruszający skarb kryje się w gotyckiej kaplicy, gdzie freski z XIV wieku świadczą o fazie znacznie wcześniejszej niż barokowy wystrój. Namalowane postacie utraciły część barw, lecz ich obecność tworzy bezpośrednią więź ze średniowieczną wspólnotą. To nakładanie się stylów jest jednym z największych bogactw dziedzictwa Tropei.\n\nWewnątrz pozwólcie oczom przywyknąć do półmroku, zanim wypatrzycie freski i linie starej kaplicy. Porównajcie je z bardziej teatralnymi stiukami nawy. Na zewnątrz zwróćcie uwagę na relację między kościołem, niewielką otwartą przestrzenią a krawędzią cypla: franciszkanie często osiedlali się na granicy tkanki miejskiej, przy przejściach i w pobliżu uboższych mieszkańców.\n\nTa budowla przypomina wreszcie historię złożoną z cierpliwości. Bracia, rzemieślnicy, a potem konserwatorzy wszyscy dodawali coś od siebie, nie znając ostatecznego rezultatu, który dziś oglądamy. Tutaj zwiedzający nie podziwia jednej epoki, lecz niemal siedem stuleci przeróbek, zniszczeń i troskliwej opieki."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-ar",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_ar.mp3",
+      "sourceText": "يبدّل صمتُ لارجو غالوبّي فورًا لونَ الزيارة. تنتمي كنيسة سان فرانشيسكو د’أسيزي إلى مجمّع فرنسيسكاني قديم أُقيم في موقع ديني من العصور الوسطى كان يُعرف باسم سان بيترو آد ريپاس. وتشير مصادر إلى أنّ هذا الاستقرار يعود إلى أواخر القرن الثالث عشر، نحو عام 1295، حين كانت الرهبانيات المتسوّلة تكسب مدن جنوب إيطاليا.\n\nالكنيسة المرئية اليوم تدين بالكثير لإعادة بناء جرت سنة 1661. فالمعْبر الوحيد فيها، والستوكو، والمصليات تستجيب لذوق العصر الباروكي، غير أنّ بقايا أقدم ما تزال قائمة. وقد عبر المكان قرارات الإلغاء والزلازل وتبدّل الاستخدام، بحيث لم يعد الدير القديم والكنيسة يشكّلان تمامًا ذلك الكيان المتماسك الذي كانا عليه في الماضي.\n\nأكثر الكنوز إثارةً للعاطفة يختبئ في مصلى قوطي، حيث تشهد جداريات القرن الرابع عشر على مرحلة أقدم بكثير من الزخرفة الباروكية. وقد فقدت الشخصيات المرسومة جزءًا من ألوانها، لكن حضورها يخلق صلة مباشرة بالمجتمع الوسيط. وهذا التراكب بين الأساليب هو إحدى أبرز ثروات التراث التروبياوي.\n\nفي الداخل، دع عينيك تتأقلمان قبل البحث عن الجداريات وخطوط المصلى القديم. وقارن بينها وبين الستوكو الأكثر مسرحية في صحن الكنيسة. وفي الخارج، لاحظ العلاقة بين الكنيسة والفضاء المفتوح الصغير وحافة الرأس الصخري: فقد كان الفرنسيسكان كثيرًا ما يستقرون عند حدّ النسيج العمراني، قرب الممرات والسكّان المتواضعين.\n\nوأخيرًا، يذكّر المبنى بقصة صاغتها الصبر. فقد أضاف الإخوة والحرفيون ثم المرمّمون جميعًا شيئًا ما من غير أن يعرفوا النتيجة النهائية التي نراها اليوم. هنا لا يعجب الزائر بعصر واحد، بل بما يقارب سبعة قرون من الإضافات والأضرار والعناية."
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-cn",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_cn.mp3",
+      "sourceText": "Largo Galluppi 的宁静立刻改变了参观的氛围。圣弗朗切斯科·阿西西教堂隶属于一处古老的方济各会建筑群，该建筑群建立在一处名为 San Pietro ad Ripas 的中世纪宗教遗址之上。有资料将这一据点的建立追溯到13世纪末，约1295年，当时托钵修会正在意大利南部城市中发展壮大。\n\n如今可见的教堂很大程度上得益于1661年的重建。其单殿空间、灰泥装饰和小礼拜堂都体现了巴洛克时代的审美，但更早的残片依然留存。这里先后经历了教团解散、地震和用途变更，因此昔日的修道院与教堂已不再完全构成曾经那样的统一整体。\n\n最动人的珍宝隐藏在一座哥特式小礼拜堂中，那里14世纪的壁画见证了一个远早于巴洛克装饰的阶段。画中的人物色彩已有所褪去，但他们的存在仍与中世纪社群建立起直接联系。这种风格层叠，正是特罗佩阿文化遗产最珍贵的魅力之一。\n\n进入室内后，先让眼睛适应，再去寻找壁画和古老礼拜堂的线条。将它们与中殿中更具戏剧性的灰泥装饰作比较。在室外，请留意教堂、小型开敞空间与悬崖边缘之间的关系：方济各会士常常会选择在城市肌理的边缘、靠近通道和普通民众的地方定居。\n\n这座建筑最终让人想起一种由耐心编织而成的历史。修士、工匠，后来还有修复者，都在不知晓最终呈现效果的情况下添上了自己的痕迹。在这里，游客欣赏的不是单一时代，而是近七个世纪的修补、损毁与守护。"
+    },
+    {
+      "id": "route-poi-Chiesa_di_San_Francesco_d_Assisi-ja",
+      "label": "POI parcours: Chiesa di San Francesco d’Assisi",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_di_San_Francesco_d_Assisi_ja.mp3",
+      "sourceText": "ラルゴ・ガッルッピの静けさは、たちまち見学の色合いを変えてくれます。Chiesa di San Francesco d’Assisi は、中世の宗教施設 San Pietro ad Ripas として知られる場所に築かれた、かつてのフランチェスコ会の一群に属しています。資料によれば、この拠点は13世紀末、1295年ごろにさかのぼり、托鉢修道会がイタリア南部の都市へと広がっていた時代のものです。\n\n今日見られる教会は、1661年の再建によるところが大きいです。単廊式の身廊、漆喰装飾、そして礼拝堂はバロック時代の趣を反映していますが、それより古い断片も残っています。この場所は、廃止、地震、用途の変遷をくぐり抜けてきたため、旧修道院と教会は、かつてのような一体的でまとまりのある姿をそのまま保ってはいません。\n\n最も心を打つ宝は、ゴシック様式の礼拝堂にひそんでいます。そこには14世紀のフレスコ画があり、バロック装飾よりはるか以前の段階を物語っています。描かれた人物像は色の一部を失っていますが、その存在は中世の共同体と直接つながる感覚を生み出します。こうした様式の重なりこそが、トロペーアの文化遺産の大きな魅力の一つです。\n\n内部では、まず目を慣らしてから、フレスコ画と古い礼拝堂の線を探してみてください。それらを、身廊のより劇的な漆喰装飾と比べてみるのもよいでしょう。外では、教会と小さな広場、そして突端の縁との関係に注目してください。フランチェスコ会はしばしば、都市の広がりの端、通り道や慎ましい暮らしの人々のそばに居を構えていました。\n\n最後に、この建物は忍耐の歴史を思い起こさせます。修道士たち、職人たち、そして後の修復者たちが、それぞれ完成形を知らぬまま、少しずつ何かを加えてきました。ここで訪れる人が目にするのは、ただ一つの時代ではなく、およそ7世紀にわたる手直し、損傷、そして手入れの積み重ねなのです。"
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-fr",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_fr.mp3",
+      "sourceText": "Une façade compacte cache ici l’un des épisodes les plus ambitieux de la Contre-Réforme à Tropéa. Les jésuites arrivèrent dans la ville en 1594 et entreprirent au début du XVIIe siècle la construction de leur église. Pour lui faire place, ils occupèrent le secteur d’un ancien édifice grec orthodoxe, San Nicola della Cattolica, rappel discret de la longue coexistence des traditions religieuses en Calabre.\n\nLe plan en croix grecque et l’organisation intérieure s’inspirent du Gesù Nuovo de Naples, modèle prestigieux pour les établissements de la Compagnie de Jésus dans le Mezzogiorno. La structure devait favoriser la prédication, l’enseignement et une liturgie spectaculaire. Marbres polychromes, stucs et autels ont été conçus pour guider le regard autant que pour impressionner les fidèles.\n\nAprès la suppression de l’ordre des jésuites au XVIIIe siècle, le bâtiment changea de gestion mais conserva sa fonction religieuse. Les séismes imposèrent restaurations et consolidations. Chaque intervention a laissé une nuance : un autel réparé, une surface reprise, une décoration replacée. L’église se lit donc comme un palimpseste plutôt que comme une création figée en une seule date.\n\nObservez la géométrie de l’espace intérieur. Depuis le centre, les bras de la croix se répondent et les autels encadrent la perspective. Regardez également les différences entre la sobriété extérieure et la richesse des matériaux à l’intérieur. Ce contraste était volontaire : franchir la porte devait produire un effet de surprise et de transformation.\n\nUne petite ironie historique se glisse dans cette halte : les jésuites, champions de la pédagogie catholique, ont bâti leur église sur un lieu associé à un culte oriental plus ancien. Tropéa ne remplace jamais complètement une époque par une autre ; elle les empile. La Chiesa del Gesù en offre l’un des exemples les plus éloquents."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-nl",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_nl.mp3",
+      "sourceText": "Een compacte gevel verbergt hier een van de meest ambitieuze episodes van de Contrareformatie in Tropea. De jezuïeten arriveerden in de stad in 1594 en begonnen aan het begin van de 17e eeuw met de bouw van hun kerk. Om plaats te maken namen zij het gebied in van een oud Grieks-orthodox gebouw, San Nicola della Cattolica, een discrete herinnering aan het langdurige naast elkaar bestaan van religieuze tradities in Calabrië.\n\nHet grondplan in Grieks kruis en de interne opzet zijn geïnspireerd op de Gesù Nuovo in Napels, een prestigieus model voor vestigingen van de Sociëteit van Jezus in het Mezzogiorno. De structuur moest de prediking, het onderwijs en een spectaculaire liturgie bevorderen. Veelkleurig marmer, stucwerk en altaren zijn ontworpen om de blik te leiden en tegelijk de gelovigen te imponeren.\n\nNa de opheffing van de jezuïetenorde in de 18e eeuw wisselde het gebouw van beheer, maar behield het zijn religieuze functie. Aardbevingen maakten restauraties en verstevigingen noodzakelijk. Elke ingreep liet een nuance achter: een hersteld altaar, een opnieuw bewerkt oppervlak, een teruggeplaatste versiering. De kerk leest daardoor als een palimpsest, eerder dan als een creatie die op één enkele datum is vastgelegd.\n\nLet op de geometrie van de binnenruimte. Vanuit het midden beantwoorden de armen van het kruis elkaar en omlijsten de altaren de perspectieflijn. Kijk ook naar de verschillen tussen de soberheid van de buitenzijde en de rijkdom van de materialen binnen. Dat contrast was opzettelijk: het binnengaan moest een gevoel van verrassing en verandering oproepen.\n\nIn deze halte schuilt een kleine historische ironie: de jezuïeten, kampioenen van de katholieke pedagogie, bouwden hun kerk op een plek die verbonden was met een oudere oosterse eredienst. Tropea vervangt nooit helemaal het ene tijdperk door het andere; het stapelt ze op elkaar. De Chiesa del Gesù biedt daarvan een van de sprekendste voorbeelden."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-en",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_en.mp3",
+      "sourceText": "A compact façade here conceals one of the most ambitious episodes of the Counter-Reformation in Tropea. The Jesuits arrived in the town in 1594 and, at the beginning of the 17th century, set about building their church. To make room for it, they occupied the site of an ancient Greek Orthodox building, San Nicola della Cattolica, a discreet reminder of the long coexistence of religious traditions in Calabria.\n\nThe Greek cross plan and the interior layout are inspired by the Gesù Nuovo in Naples, a prestigious model for the establishments of the Society of Jesus in the Mezzogiorno. The structure was meant to support preaching, teaching, and a spectacular liturgy. Polychrome marble, stucco, and altars were designed to guide the eye as much as to impress the faithful.\n\nAfter the suppression of the Jesuit order in the 18th century, the building changed hands but retained its religious function. Earthquakes required restorations and structural reinforcements. Each intervention has left its own nuance: a repaired altar, a resurfaced wall, a restored decoration. The church should therefore be read as a palimpsest rather than as a creation fixed at a single date.\n\nObserve the geometry of the interior space. From the center, the arms of the cross echo one another and the altars frame the perspective. Also notice the difference between the exterior sobriety and the richness of the materials inside. This contrast was intentional: crossing the threshold was meant to create a sense of surprise and transformation.\n\nA small historical irony is woven into this stop: the Jesuits, champions of Catholic pedagogy, built their church on a site associated with an older Eastern rite. Tropea never completely replaces one era with another; it layers them one over the other. The Chiesa del Gesù offers one of the most eloquent examples of this."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-de",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_de.mp3",
+      "sourceText": "Eine kompakte Fassade verbirgt hier eine der ehrgeizigsten Episoden der Gegenreformation in Tropea. Die Jesuiten kamen 1594 in die Stadt und begannen zu Beginn des 17. Jahrhunderts mit dem Bau ihrer Kirche. Um Platz dafür zu schaffen, besetzten sie den Bereich eines ehemaligen griechisch-orthodoxen Gebäudes, San Nicola della Cattolica, ein stiller Hinweis auf das lange Nebeneinander religiöser Traditionen in Kalabrien.\n\nDer griechische Kreuzgrundriss und die innere Organisation sind vom Gesù Nuovo in Neapel inspiriert, einem prestigeträchtigen Vorbild für die Niederlassungen der Gesellschaft Jesu im Mezzogiorno. Die Struktur sollte Predigt, Unterricht und eine spektakuläre Liturgie fördern. Mehrfarbige Marmore, Stuck und Altäre wurden entworfen, um den Blick zu lenken und zugleich die Gläubigen zu beeindrucken.\n\nNach der Aufhebung des Jesuitenordens im 18. Jahrhundert wechselte das Gebäude seine Verwaltung, behielt jedoch seine religiöse Funktion. Erdbeben machten Restaurierungen und Sicherungen erforderlich. Jeder Eingriff hat eine Nuance hinterlassen: ein ausgebesserter Altar, eine erneuerte Oberfläche, eine wieder angebrachte Verzierung. Die Kirche liest sich daher eher als Palimpsest denn als ein Werk, das zu einem einzigen Zeitpunkt unverändert geschaffen wurde.\n\nBeachten Sie die Geometrie des Innenraums. Vom Zentrum aus antworten sich die Arme des Kreuzes, und die Altäre rahmen die Perspektive. Achten Sie auch auf die Unterschiede zwischen der äußeren Schlichtheit und dem Reichtum der Materialien im Inneren. Dieser Kontrast war beabsichtigt: Das Durchschreiten der Tür sollte einen Eindruck von Überraschung und Verwandlung hervorrufen.\n\nEine kleine historische Ironie schwingt in diesem Halt mit: Die Jesuiten, Vorkämpfer der katholischen Pädagogik, errichteten ihre Kirche auf einem Ort, der mit einem älteren orientalischen Kult verbunden war. Tropea ersetzt niemals ganz eine Epoche durch eine andere; es lagert sie übereinander. Die Chiesa del Gesù bietet dafür eines der eindrucksvollsten Beispiele."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-it",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_it.mp3",
+      "sourceText": "Una facciata compatta nasconde qui uno degli episodi più ambiziosi della Controriforma a Tropea. I gesuiti arrivarono in città nel 1594 e intrapresero all’inizio del XVII secolo la costruzione della loro chiesa. Per farvi posto, occuparono l’area di un antico edificio greco-ortodosso, San Nicola della Cattolica, discreto richiamo alla lunga coesistenza delle tradizioni religiose in Calabria.\n\nLa pianta a croce greca e l’organizzazione interna si ispirano al Gesù Nuovo di Napoli, modello prestigioso per gli insediamenti della Compagnia di Gesù nel Mezzogiorno. La struttura doveva favorire la predicazione, l’insegnamento e una liturgia spettacolare. Marmi policromi, stucchi e altari furono concepiti per guidare lo sguardo tanto quanto per impressionare i fedeli.\n\nDopo la soppressione dell’ordine dei gesuiti nel XVIII secolo, l’edificio cambiò gestione ma conservò la sua funzione religiosa. I terremoti imposero restauri e consolidamenti. Ogni intervento ha lasciato una sfumatura: un altare riparato, una superficie rifatta, una decorazione ricollocata. La chiesa si legge dunque come un palinsesto piuttosto che come una creazione fissata in un’unica data.\n\nOsservate la geometria dello spazio interno. Dal centro, i bracci della croce si rispondono e gli altari incorniciano la prospettiva. Guardate anche le differenze tra la sobrietà esterna e la ricchezza dei materiali all’interno. Questo contrasto era voluto: varcare la soglia doveva produrre un effetto di sorpresa e di trasformazione.\n\nUna piccola ironia storica si insinua in questa sosta: i gesuiti, campioni della pedagogia cattolica, hanno costruito la loro chiesa su un luogo associato a un più antico culto orientale. Tropea non sostituisce mai completamente un’epoca con un’altra; le sovrappone. La Chiesa del Gesù ne offre uno degli esempi più eloquenti."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-es",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_es.mp3",
+      "sourceText": "Una fachada compacta oculta aquí uno de los episodios más ambiciosos de la Contrarreforma en Tropea. Los jesuitas llegaron a la ciudad en 1594 y emprendieron a comienzos del siglo XVII la construcción de su iglesia. Para darle cabida, ocuparon el sector de un antiguo edificio griego ortodoxo, San Nicola della Cattolica, discreto recuerdo de la larga coexistencia de las tradiciones religiosas en Calabria.\n\nLa planta en cruz griega y la organización interior se inspiran en el Gesù Nuovo de Nápoles, prestigioso modelo para los establecimientos de la Compañía de Jesús en el Mezzogiorno. La estructura debía favorecer la predicación, la enseñanza y una liturgia espectacular. Mármoles policromos, estucos y altares fueron concebidos para guiar la mirada tanto como para impresionar a los fieles.\n\nTras la supresión de la orden de los jesuitas en el siglo XVIII, el edificio cambió de gestión, pero conservó su función religiosa. Los terremotos impusieron restauraciones y consolidaciones. Cada intervención ha dejado un matiz: un altar reparado, una superficie rehecha, una decoración recolocada. La iglesia se lee, por tanto, como un palimpsesto más que como una creación fijada en una sola fecha.\n\nObserve la geometría del espacio interior. Desde el centro, los brazos de la cruz se responden y los altares enmarcan la perspectiva. Mire también las diferencias entre la sobriedad exterior y la riqueza de los materiales en el interior. Este contraste era deliberado: franquear la puerta debía producir un efecto de sorpresa y de transformación.\n\nSe cuela una pequeña ironía histórica en esta parada: los jesuitas, campeones de la pedagogía católica, levantaron su iglesia sobre un lugar asociado a un culto oriental más antiguo. Tropea nunca sustituye por completo una época por otra; las va apilando. La Chiesa del Gesù ofrece uno de los ejemplos más elocuentes."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-pl",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_pl.mp3",
+      "sourceText": "Zwarta fasada skrywa tu jeden z najambitniejszych epizodów kontrreformacji w Tropei. Jezuici przybyli do miasta w 1594 roku i na początku XVII wieku rozpoczęli budowę swojego kościoła. Aby zrobić na niego miejsce, zajęli teren dawnego greckokatolickiego gmachu, San Nicola della Cattolica, dyskretnego przypomnienia o długim współistnieniu tradycji religijnych w Kalabrii.\n\nPlan na krzyżu greckim i układ wnętrza inspirowane są Gesù Nuovo w Neapolu, prestiżowym wzorem dla placówek Towarzystwa Jezusowego w Mezzogiorno. Konstrukcja miała sprzyjać kaznodziejstwu, nauczaniu i efektownej liturgii. Wielobarwne marmury, stiuki i ołtarze zaprojektowano tak, by prowadziły wzrok, a zarazem robiły wrażenie na wiernych.\n\nPo kasacie zakonu jezuitów w XVIII wieku budynek zmienił zarządcę, lecz zachował funkcję religijną. Trzęsienia ziemi wymuszały kolejne restauracje i wzmocnienia. Każda interwencja pozostawiła swój odcień: naprawiony ołtarz, odnowioną powierzchnię, przywróconą dekorację. Kościół czyta się więc bardziej jak palimpsest niż jak dzieło stworzone jednorazowo w jednej dacie.\n\nZwróć uwagę na geometrię przestrzeni wewnętrznej. Od centrum ramiona krzyża odpowiadają sobie nawzajem, a ołtarze obramowują perspektywę. Przyjrzyj się także różnicy między surowością zewnętrznej bryły a bogactwem materiałów we wnętrzu. Ten kontrast był zamierzony: przekroczenie progu miało wywoływać efekt zaskoczenia i przemiany.\n\nW tej przerwie pojawia się drobna historyczna ironia: jezuici, czołowi przedstawiciele katolickiej pedagogiki, wznieśli swój kościół w miejscu związanym ze starszym, wschodnim kultem. Tropea nigdy całkowicie nie zastępuje jednej epoki inną; ona je nakłada. Chiesa del Gesù stanowi jeden z najbardziej wymownych przykładów."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-ar",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_ar.mp3",
+      "sourceText": "تخفي واجهةٌ مدمجة هنا إحدى أكثر حلقات الإصلاح المضاد طموحًا في تروبيا. وصل اليسوعيون إلى المدينة عام 1594 وشرعوا في مطلع القرن السابع عشر في تشييد كنيستهم. ولإفساح المجال لها، احتلّوا موقع مبنى يوناني أرثوذكسي قديم، هو سان نيكولا ديلّا كاتوليكا، في تذكيرٍ خافت بالتعايش الطويل بين التقاليد الدينية في كالابريا.\n\nيستند المخطط على شكل صليب يوناني والتنظيم الداخلي إلى كنيسة جِزو نوفو في نابولي، وهي نموذج مرموق لمؤسسات رهبنة اليسوعيين في ميتسوجورنو. وكان من شأن البنية أن تعزّز الوعظ والتعليم والطقوس الليتورجية المهيبة. وقد صُمِّمت الرخامات متعددة الألوان والجصّيات والمذابح لتقود النظرة بقدر ما أُعدّت لإبهار المؤمنين.\n\nبعد حلّ رهبنة اليسوعيين في القرن الثامن عشر، تغيّرت إدارة المبنى لكنه حافظ على وظيفته الدينية. وأملت الزلازل أعمال ترميم وتدعيم. ترك كل تدخل بصمته الخاصة: مذبحًا أُصلح، أو سطحًا أُعيد تشكيله، أو زخرفة أُعيد تثبيتها. لذا تُقرأ الكنيسة بوصفها طبقة فوق طبقة، لا بوصفها إنشاءً جامدًا يعود إلى تاريخ واحد.\n\nتأملوا هندسة الفضاء الداخلي. فمن المركز تتجاوب أذرع الصليب، وتؤطر المذابح المنظور. وانظروا أيضًا إلى الفروق بين بساطة الخارج وثراء المواد في الداخل. كان هذا التباين مقصودًا: فعبور الباب كان ينبغي أن يخلق أثر المفاجأة والتحوّل.\n\nوهنا تتسلل مفارقة تاريخية صغيرة إلى هذه المحطة: فاليسوعيون، روّاد التربية الكاثوليكية، شيّدوا كنيستهم فوق مكان ارتبط بطقس شرقي أقدم. إن تروبيا لا تستبدل حقبةً بأخرى استبدالًا كاملًا؛ بل تكدّسها بعضها فوق بعض. وتقدّم Chiesa del Gesù أحد أبلغ أمثلة ذلك."
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-cn",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_cn.mp3",
+      "sourceText": "这里，一道紧凑的立面掩映着特罗佩阿反宗教改革最雄心勃勃的篇章之一。耶稣会士于1594年抵达这座城市，并在17世纪初着手建造他们的教堂。为了腾出位置，他们占用了原先一座希腊东正教建筑——圣尼各老堂（San Nicola della Cattolica）——所在的区域，这也低调地提醒着卡拉布里亚宗教传统长期并存的历史。\n\n希腊十字形的平面布局和内部组织受到那不勒斯新耶稣堂（Gesù Nuovo）的启发，这一建筑是耶稣会在意大利南部各机构的著名典范。这样的结构旨在有利于讲道、教学以及富于戏剧性的礼仪。彩色大理石、灰泥装饰和祭坛的设计，既引导视线，也给信众留下深刻印象。\n\n在18世纪耶稣会被解散后，这座建筑更换了管理者，但仍保留宗教用途。地震迫使人们不断修复和加固。每一次干预都留下了一层痕迹：一座修复过的祭坛、一处重新补过的表面、一件被复位的装饰。因而，这座教堂更像一部层层叠加的手稿，而不是一个固定在某个单一日期完成的作品。\n\n请留意内部空间的几何秩序。从中央望去，十字的各个翼臂彼此呼应，祭坛则为透视关系构成框架。也请观察外部的朴素与内部材料的华丽之间的差异。这种对比是有意为之：跨过门槛，应当产生惊喜与蜕变的效果。\n\n这一停留还藏着一丝历史的讽刺：作为天主教教育的倡导者，耶稣会士却把他们的教堂建在一个与更早的东方礼仪有关的地点上。特罗佩阿从不会完全以一个时代取代另一个时代；它只是把它们层层叠放。耶稣堂（Chiesa del Gesù）便是其中最雄辩的例证之一。"
+    },
+    {
+      "id": "route-poi-Chiesa_del_Gesu-ja",
+      "label": "POI parcours: Chiesa del Gesù",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Chiesa_del_Gesu_ja.mp3",
+      "sourceText": "ここでは、コンパクトなファサードの背後に、トロペーアにおける対抗宗教改革の最も野心的な出来事の一つが隠されています。イエズス会士たちは1594年にこの町へ到来し、17世紀初頭に自らの教会の建設に着手しました。そのために彼らは、かつてのギリシア正教会の建造物であったサン・ニコラ・デッラ・カトリカの一帯を占有しました。これは、カラブリアにおける宗教的伝統の長い共存を静かに思い起こさせるものです。\n\nギリシア十字形の平面と内部構成は、ナポリのイル・ジェズ・ヌオーヴォに着想を得ています。これは、メッゾジョルノにおけるイエズス会の施設にとって名高いモデルでした。この構造は、説教、教育、そして壮麗な典礼を促すよう意図されていました。多彩な大理石、スタッコ、祭壇は、信者を圧倒するだけでなく、視線を導くためにも設計されています。\n\n18世紀にイエズス会が解散させられた後、この建物は管理主体を変えながらも宗教施設としての役割を保ち続けました。地震により修復と補強が必要となりました。各介入はひとつのニュアンスを残しています。修復された祭壇、補われた表面、再配置された装飾。したがってこの教会は、一つの時点で固定された創作というより、パリンプセストとして読むべきものです。\n\n内部空間の幾何学に注目してください。中央から見ると、十字の各腕が呼応し合い、祭壇が遠近感を縁取っています。外観の簡素さと、内部における素材の豊かさの違いにも目を向けてみてください。この対比は意図的なものでした。門をくぐることで、驚きと変容の効果が生まれるように設計されていたのです。\n\nこの立ち寄りには、ひとつの小さな歴史的皮肉が潜んでいます。カトリックの教育活動の旗手であったイエズス会が、より古い東方の礼拝に結びついた場所の上に自らの教会を建てたのです。トロペーアは、ある時代を完全に別の時代に置き換えることはありません。むしろ、それらを幾重にも重ねていきます。サン・ジェズ教会は、その最も雄弁な例の一つです。"
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-fr",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_fr.mp3",
+      "sourceText": "Les blocs de pierre claire et la silhouette presque fortifiée de la cathédrale tranchent avec les façades colorées du centre. Édifiée à partir du XIIe siècle, traditionnellement datée autour de 1163, la Concattedrale Maria Santissima di Romania est l’un des grands témoins de la présence normande en Calabre. Elle fut conçue selon un plan basilical à trois nefs, avec une robustesse adaptée à une région secouée par les séismes.\n\nLe monument a beaucoup changé. Tremblements de terre, réparations et restaurations ont modifié ses volumes, parfois en ajoutant des décors ensuite retirés. Les campagnes du XXe siècle ont cherché à retrouver une apparence médiévale plus lisible. Cette histoire mouvementée explique les différences de maçonnerie et les éléments réemployés que l’on peut repérer autour des murs.\n\nÀ l’intérieur, la dévotion se concentre sur l’icône de la Madonna di Romania, protectrice de Tropéa. La tradition raconte que l’image serait arrivée d’Orient et qu’elle aurait défendu la ville contre des catastrophes. Une autre curiosité frappe les visiteurs : deux bombes datant de la Seconde Guerre mondiale sont conservées comme ex-voto, car elles seraient tombées sans exploser près de l’édifice.\n\nExaminez les arcs, les colonnes et l’épaisseur des piliers. Le vocabulaire normand dialogue avec des éléments plus tardifs, tandis que les proportions des nefs donnent une impression de stabilité. À l’extérieur, contournez le bâtiment pour voir comment la pierre change de teinte selon le soleil et comment le chevet s’insère dans le dédale des rues.\n\nLa cathédrale n’est pas un monument isolé : elle demeure un lieu de culte actif, lié aux processions et aux grandes fêtes de la cité. Lorsque les cloches sonnent, le Largo Duomo reprend une fonction qu’il exerce depuis des siècles. Ici, l’histoire de l’architecture et la mémoire collective ne se superposent pas artificiellement ; elles avancent ensemble."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-nl",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_nl.mp3",
+      "sourceText": "De lichtgekleurde stenen blokken en de bijna versterkte silhouet van de kathedraal steken scherp af tegen de kleurrijke gevels van het centrum. Opgetrokken vanaf de twaalfde eeuw, traditioneel gedateerd rond 1163, is de Concattedrale Maria Santissima di Romania een van de grote getuigen van de Normandische aanwezigheid in Calabrië. Zij werd ontworpen volgens een basilicaal grondplan met drie beuken, met een robuustheid die past bij een streek die door aardbevingen wordt geteisterd.\n\nHet monument is sterk veranderd. Aardbevingen, herstellingen en restauraties hebben de volumes aangepast, waarbij soms decoraties werden toegevoegd die later weer zijn verwijderd. De campagnes van de twintigste eeuw waren erop gericht een beter leesbaar middeleeuws uiterlijk te herstellen. Deze bewogen geschiedenis verklaart de verschillen in metselwerk en de hergebruikte elementen die men rond de muren kan opmerken.\n\nBinnen concentreert de verering zich op het icoon van de Madonna di Romania, beschermster van Tropea. Volgens de traditie zou het beeld uit het Oosten zijn aangekomen en de stad tegen rampen hebben beschermd. Een andere bijzonderheid treft de bezoekers: twee bommen uit de Tweede Wereldoorlog worden bewaard als ex-voto, omdat ze vlak bij het gebouw zouden zijn gevallen zonder te ontploffen.\n\nBekijk de bogen, de zuilen en de dikte van de pijlers. De Normandische vormentaal gaat in dialoog met latere elementen, terwijl de verhoudingen van de beuken een indruk van stabiliteit geven. Aan de buitenkant kunt u rond het gebouw lopen om te zien hoe de steen van tint verandert naargelang de zon en hoe het koor zich in het doolhof van de straten voegt.\n\nDe kathedraal is geen op zichzelf staand monument: zij blijft een actieve plaats van eredienst, verbonden met processies en de grote feesten van de stad. Wanneer de klokken luiden, herneemt Largo Duomo een functie die het al eeuwen vervult. Hier worden de geschiedenis van de architectuur en het collectieve geheugen niet kunstmatig over elkaar gelegd; zij gaan samen verder."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-en",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_en.mp3",
+      "sourceText": "The pale stone blocks and the cathedral’s almost fortified silhouette stand out against the colorful façades of the historic center. Built from the 12th century onward, and traditionally dated to around 1163, the Concattedrale Maria Santissima di Romania is one of the great witnesses to the Norman presence in Calabria. It was designed as a three-aisled basilica, with a solidity suited to a region shaken by earthquakes.\n\nThe monument has changed greatly over time. Earthquakes, repairs, and restorations have altered its volumes, sometimes adding decorations that were later removed. 20th-century campaigns sought to recover a clearer medieval appearance. This turbulent history explains the differences in masonry and the reused elements that can be seen around the walls.\n\nInside, devotion centers on the icon of the Madonna di Romania, patroness of Tropea. Tradition says that the image came from the East and protected the city from disasters. Another detail catches visitors’ attention: two bombs from the Second World War are preserved as votive offerings, as they reportedly fell nearby without exploding.\n\nLook closely at the arches, the columns, and the thickness of the pillars. The Norman vocabulary converses with later elements, while the proportions of the naves give an impression of stability. Outside, walk around the building to see how the stone changes color with the sunlight and how the apse fits into the maze of streets.\n\nThe cathedral is not an isolated monument: it remains an active place of worship, tied to processions and the city’s major feast days. When the bells ring, Largo Duomo resumes a role it has fulfilled for centuries. Here, the history of architecture and collective memory are not artificially layered one upon the other; they move forward together."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-de",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_de.mp3",
+      "sourceText": "Die hellen Steinblöcke und die fast befestigte Silhouette der Kathedrale heben sich deutlich von den farbenfrohen Fassaden des Zentrums ab. Seit dem 12. Jahrhundert erbaut, traditionell auf etwa 1163 datiert, ist die Concattedrale Maria Santissima di Romania eines der großen Zeugnisse der normannischen Präsenz in Kalabrien. Sie wurde nach einem Basilika-Grundriss mit drei Kirchenschiffen entworfen, in einer Robustheit, die an eine von Erdbeben erschütterte Region angepasst ist.\n\nDas Bauwerk hat sich stark verändert. Erdbeben, Reparaturen und Restaurierungen haben seine Proportionen verändert, manchmal indem sie Dekorelemente hinzufügten, die später wieder entfernt wurden. Die Kampagnen des 20. Jahrhunderts zielten darauf ab, ein klarer lesbares mittelalterliches Erscheinungsbild wiederherzustellen. Diese bewegte Geschichte erklärt die Unterschiede im Mauerwerk und die wiederverwendeten Elemente, die man rund um die Wände erkennen kann.\n\nIm Inneren konzentriert sich die Verehrung auf die Ikone der Madonna di Romania, der Schutzpatronin von Tropea. Der Überlieferung nach soll das Bild aus dem Orient gekommen sein und die Stadt vor Katastrophen bewahrt haben. Eine weitere Kuriosität fällt den Besuchern auf: Zwei Bomben aus dem Zweiten Weltkrieg werden als Votivgaben aufbewahrt, da sie in der Nähe des Gebäudes gefallen sein sollen, ohne zu explodieren.\n\nBetrachten Sie die Bögen, die Säulen und die Stärke der Pfeiler. Das normannische Formenvokabular tritt in Dialog mit späteren Elementen, während die Proportionen der Kirchenschiffe einen Eindruck von Stabilität vermitteln. Umrunden Sie außen das Gebäude, um zu sehen, wie sich der Stein je nach Sonnenlicht verfärbt und wie das Chorhaupt sich in das Gewirr der Gassen einfügt.\n\nDie Kathedrale ist kein isoliertes Monument: Sie bleibt ein aktiver Ort des Gottesdienstes, verbunden mit den Prozessionen und den großen Festen der Stadt. Wenn die Glocken läuten, erhält der Largo Duomo wieder eine Funktion, die er seit Jahrhunderten erfüllt. Hier überlagern sich Architekturgeschichte und kollektives Gedächtnis nicht künstlich; sie gehen gemeinsam voran."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-it",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_it.mp3",
+      "sourceText": "I blocchi di pietra chiara e la sagoma quasi fortificata della cattedrale risaltano sulle facciate colorate del centro. Eretta a partire dal XII secolo, tradizionalmente datata intorno al 1163, la Concattedrale Maria Santissima di Romania è uno dei grandi testimoni della presenza normanna in Calabria. Fu concepita secondo un impianto basilicale a tre navate, con una solidità adatta a una regione scossa dai terremoti.\n\nIl monumento è cambiato molto. Terremoti, riparazioni e restauri ne hanno modificato i volumi, talvolta aggiungendo decorazioni poi rimosse. Le campagne del XX secolo hanno cercato di restituire un aspetto medievale più leggibile. Questa storia travagliata spiega le differenze di muratura e gli elementi di reimpiego che si possono individuare attorno alle pareti.\n\nAll’interno, la devozione si concentra sull’icona della Madonna di Romania, protettrice di Tropea. La tradizione racconta che l’immagine sarebbe arrivata dall’Oriente e che avrebbe difeso la città dalle catastrofi. Un’altra curiosità colpisce i visitatori: due bombe risalenti alla Seconda guerra mondiale sono conservate come ex voto, poiché sarebbero cadute senza esplodere vicino all’edificio.\n\nOsservate gli archi, le colonne e lo spessore dei pilastri. Il linguaggio normanno dialoga con elementi più tardi, mentre le proporzioni delle navate danno un’impressione di stabilità. All’esterno, aggirate l’edificio per vedere come la pietra cambi tonalità a seconda del sole e come il transetto si inserisca nel dedalo delle strade.\n\nLa cattedrale non è un monumento isolato: rimane un luogo di culto attivo, legato alle processioni e alle grandi feste della città. Quando le campane suonano, il Largo Duomo riprende una funzione che svolge da secoli. Qui, la storia dell’architettura e la memoria collettiva non si sovrappongono artificialmente; avanzano insieme."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-es",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_es.mp3",
+      "sourceText": "Los bloques de piedra clara y la silueta casi fortificada de la catedral contrastan con las fachadas coloridas del centro. Construida a partir del siglo XII, tradicionalmente datada hacia 1163, la Concattedrale Maria Santissima di Romania es uno de los grandes testimonios de la presencia normanda en Calabria. Fue concebida según un plan basilical de tres naves, con una solidez adaptada a una región sacudida por los seísmos.\n\nEl monumento ha cambiado mucho. Terremotos, reparaciones y restauraciones han modificado sus volúmenes, a veces añadiendo decoraciones que después se retiraron. Las campañas del siglo XX buscaron recuperar una apariencia medieval más legible. Esta historia agitada explica las diferencias de fábrica y los elementos reutilizados que pueden advertirse alrededor de los muros.\n\nEn el interior, la devoción se concentra en el icono de la Madonna di Romania, protectora de Tropea. La tradición cuenta que la imagen habría llegado de Oriente y que habría defendido la ciudad contra las catástrofes. Otra curiosidad llama la atención de los visitantes: dos bombas de la Segunda Guerra Mundial se conservan como exvoto, ya que habrían caído sin explotar cerca del edificio.\n\nObserve los arcos, las columnas y el grosor de los pilares. El lenguaje normando dialoga con elementos más tardíos, mientras que las proporciones de las naves transmiten una impresión de estabilidad. En el exterior, rodee el edificio para ver cómo la piedra cambia de tono según el sol y cómo el ábside se inserta en el laberinto de las calles.\n\nLa catedral no es un monumento aislado: sigue siendo un lugar de culto activo, ligado a las procesiones y a las grandes fiestas de la ciudad. Cuando suenan las campanas, el Largo Duomo recupera una función que ejerce desde hace siglos. Aquí, la historia de la arquitectura y la memoria colectiva no se superponen artificialmente; avanzan juntas."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-pl",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_pl.mp3",
+      "sourceText": "Bloki jasnego kamienia i niemal warowna sylwetka katedry odcinają się od kolorowych fasad centrum. Wznoszona od XII wieku, tradycyjnie datowana na około 1163 rok, Concattedrale Maria Santissima di Romania jest jednym z najważniejszych świadków normańskiej obecności w Kalabrii. Zaprojektowano ją na planie trójnawowej bazyliki, z surowością dostosowaną do regionu nawiedzanego przez trzęsienia ziemi.\n\nZabytek bardzo się zmieniał. Trzęsienia ziemi, naprawy i restauracje modyfikowały jego bryłę, czasem dodając dekoracje, które później usuwano. XX-wieczne kampanie konserwatorskie dążyły do przywrócenia bardziej czytelnego średniowiecznego wyglądu. Ta burzliwa historia wyjaśnia różnice w murze oraz wtórnie użyte elementy, które można dostrzec wokół ścian.\n\nWnętrze skupia kult wokół ikony Madonna di Romania, opiekunki Tropei. Tradycja głosi, że wizerunek przybył ze Wschodu i że bronił miasta przed katastrofami. Zwraca też uwagę inna osobliwość: dwie bomby z czasów II wojny światowej są przechowywane jako wota, ponieważ miały spaść w pobliżu budowli, nie eksplodując.\n\nPrzyjrzyjcie się łukom, kolumnom i grubości filarów. Normański język architektury dialoguje z późniejszymi elementami, a proporcje naw nadają wrażenie stabilności. Na zewnątrz obejdźcie budynek dookoła, aby zobaczyć, jak kamień zmienia odcień wraz ze słońcem i jak prezbiterium wpisuje się w labirynt ulic.\n\nKatedra nie jest odosobnionym zabytkiem: pozostaje czynnym miejscem kultu, związanym z procesjami i wielkimi świętami miasta. Kiedy biją dzwony, Largo Duomo odzyskuje funkcję, którą pełni od stuleci. Tutaj historia architektury i pamięć zbiorowa nie nakładają się sztucznie na siebie; idą razem."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-ar",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_ar.mp3",
+      "sourceText": "تتباين الكتل الحجرية الفاتحة وظل الكاتدرائية الذي يكاد يبدو كأنه مُحصَّن مع الواجهات الملوَّنة لوسط المدينة. شُيِّدت ابتداءً من القرن الثاني عشر، ويُؤرَّخ بناؤها تقليديًا نحو عام 1163، وتُعدّ الكنيسة المشتركة «Maria Santissima di Romania» واحدةً من الشواهد الكبرى على الوجود النورماني في كالابريا. وقد صُمِّمت وفق مخطط بازيليكي بثلاثة أروقة، مع متانة تلائم منطقةً كانت تهتزّ بالزلازل.\n\nشهد هذا الصرح تغيّرات كثيرة. فقد أدّت الزلازل وأعمال الإصلاح والترميم إلى تعديل أحجامه، وأضيفت إليه أحيانًا زخارف أُزيلت لاحقًا. وسعت حملات الترميم في القرن العشرين إلى استعادة مظهرٍ أوسطِيّ أكثر وضوحًا. وهذا التاريخ المضطرب يفسّر اختلافات البناء والعناصر المعاد استخدامها التي يمكن تمييزها حول الجدران.\n\nفي الداخل، يتركّز التقديس على أيقونة Madonna di Romania، حامية تروبيهّا. وتروي التقاليد أن الصورة جاءت من الشرق وأنها دافعت عن المدينة ضد الكوارث. وهناك أمر آخر يلفت انتباه الزائرين: فثمة قنبلتان تعودان إلى الحرب العالمية الثانية محفوظتان بوصفهما نذورًا، إذ يُقال إنهما سقطتا قرب المبنى من دون أن تنفجرا.\n\nتأمّلوا الأقواس والأعمدة وسماكة الدعامات. فالمفردات النورمانية تتحاور مع عناصر أقدم عهدًا، فيما تمنح نسب الأروقة انطباعًا بالثبات. أما في الخارج، فطوفوا حول المبنى لتروا كيف يتغيّر لون الحجر تبعًا للشمس، وكيف يستقرّ الجزء الشرقي الخلفي في متاهة الأزقّة.\n\nليست الكاتدرائية معلمًا منفصلًا: فهي تظلّ مكان عبادةٍ نشطًا، مرتبطًا بالمواكب والاحتفالات الكبرى للمدينة. وعندما ترنّ الأجراس، يستعيد ساحة Largo Duomo وظيفةً يمارسها منذ قرون. هنا، لا يتراكب تاريخ العمارة والذاكرة الجماعية بصورة مصطنعة؛ بل يسيران معًا."
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-cn",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_cn.mp3",
+      "sourceText": "浅色石块与大教堂近乎城堡化的轮廓，与市中心色彩斑斓的立面形成鲜明对比。这座主教座堂始建于12世纪，传统上可追溯到约1163年，是诺曼人在卡拉布里亚存在的重要见证之一。它按三中殿的巴西利卡式平面设计而成，其坚实厚重的结构也适应了这片地震频发的地区。\n\n这座纪念性建筑经历了许多变化。地震、修缮和修复工程改变了它的体量，有时还增添了一些后来又被移除的装饰。20世纪的多次修复尝试恢复更清晰可辨的中世纪风貌。正是这段曲折的历史，解释了围绕墙体可见的砌筑差异以及再利用构件。\n\n在内部，信仰敬奉的焦点是“罗马尼亚圣母”圣像，她是特罗佩阿的守护者。传说这幅圣像来自东方，并曾保护这座城市免受灾祸。另一个引人注目的细节是：两枚第二次世界大战时期的炸弹被作为还愿物保存下来，因为它们据说曾落在这座建筑附近却没有爆炸。\n\n请留意拱券、柱子以及柱墩的厚度。诺曼式语言与更晚期的元素在这里对话，而中殿的比例则带来一种稳定感。到了外部，绕着建筑走一圈，观察石材如何随阳光而变换色调，以及后殿如何嵌入街巷迷宫之中。\n\n这座主教座堂并非一座孤立的纪念建筑：它至今仍是一处活跃的礼拜场所，与游行和城市的重要节庆相连。当钟声响起时，Largo Duomo 恢复了它数百年来一直承担的功能。在这里，建筑史与集体记忆并非被人为叠加，而是并肩向前。"
+    },
+    {
+      "id": "route-poi-Concattedrale_Maria_Santissima_di_Romania-ja",
+      "label": "POI parcours: Concattedrale Maria Santissima di Romania",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Concattedrale_Maria_Santissima_di_Romania_ja.mp3",
+      "sourceText": "明るい石の塊と、大聖堂のほぼ要塞のようなシルエットは、中心街の色鮮やかなファサードと対照を成しています。12世紀から建設が始まり、伝統的には1163年ごろとされる Concattedrale Maria Santissima di Romania は、カラブリアにおけるノルマン人の存在を伝える重要な証しの一つです。地震に見舞われる地域にふさわしい堅牢さを備え、三つの身廊を持つバシリカ式の平面で設計されました。\n\nこの建造物は大きく姿を変えてきました。地震、修復、復元によってその容貌は改変され、時には後に取り除かれる装飾が加えられたこともあります。20世紀の修復事業は、より読み取りやすい中世の姿を取り戻すことを目指しました。こうした波乱に満ちた歴史が、壁の周囲で見つけられる石積みの違いや再利用された部材を説明しています。\n\n内部では、トロペーアの守護者である Madonna di Romania の聖像への信仰が中心となっています。伝承によれば、この像は東方からもたらされ、災厄から町を守ったといわれています。もう一つ、訪れる人の目を引くものがあります。第二次世界大戦時の二発の爆弾が奉納品として保存されているのです。建物の近くに落下したものの、不発だったと伝えられています。\n\nアーチ、柱、そして柱の厚みをよくご覧ください。ノルマン様式の語法が、後代の要素と響き合い、身廊の比例が安定感を生み出しています。外では建物の周囲を回り、日差しによって石の色合いがどのように変わるか、また後陣が路地の迷路の中にどのように収まっているかを見てみましょう。\n\nこの大聖堂は孤立した記念建造物ではありません。行列や町の大きな祝祭と結びついた、今なお生きた礼拝の場です。鐘が鳴ると、Largo Duomo は何世紀にもわたって果たしてきた役割を取り戻します。ここでは、建築史と集合的記憶が人為的に重ね合わされているのではありません。それらはともに歩んでいるのです。"
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-fr",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_fr.mp3",
+      "sourceText": "Une petite place, deux cafés, quelques façades et un nom de héros : Piazza Ercole donne l’impression de tenir Tropéa entière dans le creux de la main. Située au point de rencontre des ruelles du centre ancien, elle sert depuis longtemps de salon à ciel ouvert. Les habitants s’y croisent avant la passeggiata, les visiteurs y reprennent leur souffle et les terrasses prolongent la conversation jusque tard dans la soirée.\n\nLe nom d’Hercule renvoie à une tradition beaucoup plus ancienne que les bâtiments visibles. Une légende locale fait du héros grec le fondateur de la ville après son retour d’Hispanie. Les historiens restent prudents, mais le récit a façonné l’imaginaire de Tropéa : la cité aime se présenter comme un promontoire héroïque, perché entre terre fertile et mer Tyrrhénienne. À l’époque romaine, le littoral voisin appartenait déjà à un réseau d’escales et de villas.\n\nLa place actuelle s’est surtout formée au fil des reconstructions qui suivirent les séismes, notamment celui de 1783. Les demeures affichent des enduits clairs, des balcons de fer forgé et des encadrements de pierre locale. Rien n’est monumental au sens impérial ; le charme vient plutôt de la mesure des volumes, du jeu des ombres et de la façon dont chaque rue s’ouvre comme une coulisse autour de l’espace central.\n\nRepérez la fontaine et observez les alignements qui partent vers le Corso Vittorio Emanuele. Les façades ne sont jamais parfaitement régulières : certaines avancent de quelques centimètres, d’autres suivent le tracé médiéval des parcelles. Cette légère asymétrie rend la place vivante. Le soir, lorsque les enseignes s’allument, les murs deviennent un décor presque théâtral.\n\nUne anecdote résume bien l’endroit : beaucoup de Tropéens donnent rendez-vous « à Ercole » sans préciser davantage, comme si la place était une personne de la famille. Avant de poursuivre, écoutez les voix, les tasses qui s’entrechoquent et les pas sur la pierre. Vous venez d’entrer dans le rythme quotidien de la ville, celui qui donne aux monuments leur véritable voisinage humain."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-nl",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_nl.mp3",
+      "sourceText": "Een klein plein, twee cafés, enkele gevels en een heldennaam: Piazza Ercole geeft de indruk heel Tropea in de handpalm te houden. Gelegen op het kruispunt van de steegjes van het oude centrum, dient het al lang als een openlucht salon. De inwoners ontmoeten elkaar er vóór de passeggiata, bezoekers komen er op adem en de terrassen laten het gesprek doorgaan tot laat in de avond.\n\nDe naam Hercules verwijst naar een traditie die veel ouder is dan de zichtbare gebouwen. Volgens een lokale legende was de Griekse held de stichter van de stad na zijn terugkeer uit Hispania. Historici blijven voorzichtig, maar het verhaal heeft de verbeelding van Tropea gevormd: de stad presenteert zich graag als een heroïsche rotspunt, gelegen tussen vruchtbare aarde en de Tyrreense Zee. In de Romeinse tijd behoorde de nabijgelegen kust al tot een netwerk van aanlegplaatsen en villa’s.\n\nHet huidige plein heeft zich vooral gevormd door de wederopbouw na de aardbevingen, met name die van 1783. De huizen tonen lichte pleisterlagen, balkons van smeedijzer en omlijstingen van lokale steen. Niets is monumentaal in keizerlijke zin; de charme schuilt eerder in de afgemeten volumes, het spel van schaduwen en de manier waarop elke straat zich als een coulisse rondom de centrale ruimte opent.\n\nLet op de fontein en bekijk de lijnen die naar de Corso Vittorio Emanuele vertrekken. De gevels zijn nooit volkomen regelmatig: sommige steken enkele centimeters vooruit, andere volgen het middeleeuwse patroon van de percelen. Deze lichte asymmetrie geeft het plein leven. ’s Avonds, wanneer de uithangborden oplichten, worden de muren een bijna theatraal decor.\n\nEen anekdote vat deze plek goed samen: veel inwoners van Tropea spreken af “bij Ercole” zonder verdere uitleg, alsof het plein een familielid is. Luister, voordat u verdergaat, naar de stemmen, de tegen elkaar tikkende kopjes en de voetstappen op de steen. U bent zojuist het dagelijkse ritme van de stad binnengestapt, datgene wat de monumenten hun echte menselijke omgeving geeft."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-en",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_en.mp3",
+      "sourceText": "A small square, two cafés, a few facades, and the name of a hero: Piazza Ercole gives the impression of holding all of Tropea in the palm of your hand. Located at the meeting point of the narrow streets of the old center, it has long served as an open-air living room. Locals meet here before the passeggiata, visitors catch their breath here, and the terraces prolong the conversation late into the evening.\n\nThe name of Hercules refers to a tradition much older than the visible buildings. A local legend makes the Greek hero the founder of the town after his return from Spain. Historians remain cautious, but the story has shaped Tropea’s imagination: the city likes to present itself as a heroic promontory, perched between fertile land and the Tyrrhenian Sea. In Roman times, the nearby coast already belonged to a network of stops and villas.\n\nThe present-day square was mainly formed through the reconstructions that followed the earthquakes, especially the one of 1783. The houses display light-colored plaster, wrought-iron balconies, and frames of local stone. Nothing is monumental in the imperial sense; the charm instead comes from the balance of the volumes, the play of shadows, and the way each street opens like a stage wing around the central space.\n\nNotice the fountain and observe the alignments that lead toward Corso Vittorio Emanuele. The facades are never perfectly regular: some project forward by a few centimeters, others follow the medieval outline of the plots. This slight asymmetry makes the square feel alive. In the evening, when the signs light up, the walls become an almost theatrical backdrop.\n\nOne anecdote sums up the place well: many people from Tropea say, “Meet me at Ercole,” without needing to say more, as if the square were a member of the family. Before you continue, listen to the voices, the clinking cups, and the footsteps on the stone. You have just entered the city’s daily rhythm, the one that gives its monuments their true human surroundings."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-de",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_de.mp3",
+      "sourceText": "Ein kleiner Platz, zwei Cafés, einige Fassaden und der Name eines Helden: Die Piazza Ercole vermittelt den Eindruck, ganz Tropea in der Hand zu halten. Sie liegt an der Kreuzung der Gassen der Altstadt und dient seit Langem als Wohnzimmer unter freiem Himmel. Die Einwohner treffen sich hier vor der passeggiata, Besucher kommen hier wieder zu Atem, und die Terrassen lassen das Gespräch bis spät in den Abend weitergehen.\n\nDer Name des Herkules verweist auf eine viel ältere Tradition als die sichtbaren Gebäude. Einer lokalen Legende zufolge war der griechische Held nach seiner Rückkehr aus Hispanien der Gründer der Stadt. Historiker bleiben vorsichtig, doch die Erzählung hat die Vorstellung von Tropea geprägt: Die Stadt präsentiert sich gern als heroischer Felsvorsprung, zwischen fruchtbarem Land und dem Tyrrhenischen Meer gelegen. In römischer Zeit gehörte die nahe Küste bereits zu einem Netz von Anlegeplätzen und Villen.\n\nDer heutige Platz entstand vor allem im Zuge der Wiederaufbauten nach den Erdbeben, insbesondere dem von 1783. Die Häuser zeigen helle Putzflächen, schmiedeeiserne Balkone und Einfassungen aus lokalem Stein. Nichts ist im imperialen Sinn monumental; der Reiz liegt vielmehr in den ausgewogenen Proportionen, dem Spiel der Schatten und der Art, wie sich jede Straße wie eine Seitenbühne um den zentralen Raum öffnet.\n\nAchten Sie auf den Brunnen und beobachten Sie die Fluchten, die zum Corso Vittorio Emanuele führen. Die Fassaden sind nie ganz regelmäßig: Einige springen um wenige Zentimeter hervor, andere folgen dem mittelalterlichen Zuschnitt der Grundstücke. Diese leichte Asymmetrie macht den Platz lebendig. Abends, wenn die Schilder leuchten, werden die Mauern zu einer beinahe theatralischen Kulisse.\n\nEine Anekdote fasst den Ort gut zusammen: Viele Einwohner von Tropea verabreden sich „à Ercole“, ohne näher zu bestimmen, als wäre der Platz ein Familienmitglied. Bevor Sie weitergehen, hören Sie den Stimmen zu, dem Klirren der Tassen und den Schritten auf dem Stein. Sie sind gerade in den alltäglichen Rhythmus der Stadt eingetreten, jenem Rhythmus, der den Denkmälern ihre eigentliche menschliche Nachbarschaft verleiht."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-it",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_it.mp3",
+      "sourceText": "Una piccola piazza, due caffè, qualche facciata e un nome di eroe: Piazza Ercole dà l’impressione di tenere tutta Tropea nel palmo della mano. Situata nel punto d’incontro dei vicoli del centro storico, serve da tempo come salotto a cielo aperto. Gli abitanti vi si incrociano prima della passeggiata, i visitatori vi riprendono fiato e i dehors prolungano la conversazione fino a tarda sera.\n\nIl nome di Ercole rimanda a una tradizione molto più antica degli edifici visibili. Una leggenda locale fa del eroe greco il fondatore della città dopo il suo ritorno dalla Spagna. Gli storici restano prudenti, ma il racconto ha plasmato l’immaginario di Tropea: la città ama presentarsi come un promontorio eroico, arroccato tra terra fertile e Mar Tirreno. In epoca romana, il litorale vicino apparteneva già a una rete di approdi e ville.\n\nL’attuale piazza si è formata soprattutto nel corso delle ricostruzioni seguite ai terremoti, in particolare a quello del 1783. Le case mostrano intonaci chiari, balconi in ferro battuto e cornici in pietra locale. Nulla è monumentale in senso imperiale; il fascino nasce piuttosto dalla misura dei volumi, dal gioco delle ombre e dal modo in cui ogni strada si apre come una quinta attorno allo spazio centrale.\n\nIndividuate la fontana e osservate gli allineamenti che si diramano verso il Corso Vittorio Emanuele. Le facciate non sono mai perfettamente regolari: alcune avanzano di qualche centimetro, altre seguono il tracciato medievale dei lotti. Questa lieve asimmetria rende la piazza viva. La sera, quando si accendono le insegne, i muri diventano uno scenario quasi teatrale.\n\nUn aneddoto riassume bene il luogo: molti tropeani si danno appuntamento «a Ercole» senza aggiungere altro, come se la piazza fosse una persona di famiglia. Prima di proseguire, ascoltate le voci, le tazze che si urtano e i passi sulla pietra. Siete appena entrati nel ritmo quotidiano della città, quello che dona ai monumenti la loro vera vicinanza umana."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-es",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_es.mp3",
+      "sourceText": "Una pequeña plaza, dos cafés, algunas fachadas y el nombre de un héroe: Piazza Ercole da la impresión de tener toda Tropea en la palma de la mano. Situada en el punto de encuentro de las callejuelas del centro histórico, ha servido durante mucho tiempo como salón al aire libre. Los habitantes se cruzan aquí antes de la passeggiata, los visitantes recuperan el aliento y las terrazas prolongan la conversación hasta bien entrada la noche.\n\nEl nombre de Hércules remite a una tradición mucho más antigua que los edificios visibles. Una leyenda local convierte al héroe griego en el fundador de la ciudad tras su regreso de Hispania. Los historiadores se muestran prudentes, pero el relato ha dado forma al imaginario de Tropea: la ciudad gusta de presentarse como un promontorio heroico, alzado entre la tierra fértil y el mar Tirreno. En época romana, el litoral vecino ya pertenecía a una red de escalas y villas.\n\nLa plaza actual se formó sobre todo a lo largo de las reconstrucciones que siguieron a los seísmos, especialmente el de 1783. Las casas lucen revocos claros, balcones de hierro forjado y marcos de piedra local. Nada es monumental en sentido imperial; el encanto procede más bien de la medida de los volúmenes, del juego de las sombras y de la forma en que cada calle se abre como un telón alrededor del espacio central.\n\nBusque la fuente y observe las alineaciones que se extienden hacia el Corso Vittorio Emanuele. Las fachadas nunca son perfectamente regulares: algunas avanzan unos centímetros, otras siguen el trazado medieval de las parcelas. Esta ligera asimetría hace que la plaza esté viva. Al anochecer, cuando se encienden los rótulos, los muros se convierten en un decorado casi teatral.\n\nUna anécdota resume bien el lugar: muchos habitantes de Tropea quedan «a Ercole» sin precisar más, como si la plaza fuera una persona de la familia. Antes de seguir, escuche las voces, las tazas que chocan y los pasos sobre la piedra. Acaba de entrar en el ritmo cotidiano de la ciudad, el que da a los monumentos su verdadero vecindario humano."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-pl",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_pl.mp3",
+      "sourceText": "Mały plac, dwie kawiarnie, kilka fasad i imię bohatera: Piazza Ercole sprawia wrażenie, jakby cała Tropea mieściła się w dłoni. Położony w miejscu spotkania wąskich uliczek historycznego centrum, od dawna pełni funkcję otwartego salonu pod gołym niebem. Mieszkańcy mijają się tu przed passeggiata, odwiedzający nabierają tu tchu, a ogródki kawiarniane przeciągają rozmowy aż do późnego wieczora.\n\nImię Herkulesa odwołuje się do tradycji znacznie starszej niż widoczne dziś budynki. Według lokalnej legendy grecki bohater założył miasto po powrocie z Hiszpanii. Historycy zachowują ostrożność, ale opowieść ta ukształtowała wyobraźnię Tropеi: miasto lubi przedstawiać się jako heroiczny cypel, wzniesiony między żyzną ziemią a Morzem Tyrreńskim. W czasach rzymskich pobliskie wybrzeże należało już do sieci przystanków i willi.\n\nDzisiejszy plac ukształtował się przede wszystkim w wyniku odbudów, które nastąpiły po trzęsieniach ziemi, zwłaszcza po tym z 1783 roku. Domy mają jasne tynki, balkony z kutego żelaza i obramienia z lokalnego kamienia. Nic nie jest monumentalne w cesarskim sensie; urok bierze się raczej z umiarkowanych proporcji, gry cieni i z tego, jak każda uliczka otwiera się niczym kulisa wokół centralnej przestrzeni.\n\nZwróć uwagę na fontannę i obserwuj ciągi zabudowy prowadzące w stronę Corso Vittorio Emanuele. Fasady nigdy nie są całkiem regularne: niektóre wysuwają się o kilka centymetrów, inne podążają za średniowiecznym układem parceli. Ta lekka asymetria sprawia, że plac żyje. Wieczorem, gdy zapalają się szyldy, mury stają się niemal teatralną scenografią.\n\nJedna anegdota dobrze oddaje to miejsce: wielu mieszkańców Tropei umawia się „u Ercole” bez dalszych wyjaśnień, jakby plac był członkiem rodziny. Zanim ruszysz dalej, wsłuchaj się w głosy, brzęk filiżanek i kroki na kamieniu. Właśnie wszedłeś w codzienny rytm miasta, ten, który nadaje zabytkom ich prawdziwe, ludzkie sąsiedztwo."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-ar",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_ar.mp3",
+      "sourceText": "ساحة صغيرة، ومقهَيان، وبعض الواجهات، واسم بطل: تبدو Piazza Ercole كأنها تضمّ مدينة تروبيا كلها في كفّ اليد. تقع عند نقطة التقاء الأزقة في المركز القديم، وقد كانت منذ زمن بعيد بمثابة صالون مفتوح تحت السماء. يلتقي فيها السكان قبل جولة التنزّه المسائية passeggiata، ويستعيد فيها الزائرون أنفاسهم، وتطيل الشرفات الحديث حتى وقت متأخر من المساء.\n\nيشير اسم هرقل إلى تقليد أقدم بكثير من المباني المرئية. فثمة أسطورة محلية تجعل من البطل اليوناني مؤسّس المدينة بعد عودته من إسبانيا. ويظل المؤرخون حذرين، لكن هذه الحكاية شكّلت خيال تروبيا: فالمدينة تحب أن تقدّم نفسها بوصفها نتوءًا بطوليًا، معلقًا بين الأرض الخصبة والبحر التيراني. وفي العصر الروماني، كان الساحل القريب ينتمي بالفعل إلى شبكة من محطات التوقف والفلل.\n\nتكوّنت الساحة الحالية أساسًا عبر إعادة البناء التي تلت الزلازل، ولا سيما زلزال عام 1783. وتعرض البيوت طبقات من الجص الفاتح، وشرفات من الحديد المشغول، وإطارات من الحجر المحلي. لا شيء هنا ضخم بالمعنى الإمبراطوري؛ فالسحر يأتي بالأحرى من توازن الأحجام، ولعبة الظلال، والطريقة التي ينفتح بها كل شارع كأنه جناح جانبي حول الفضاء المركزي.\n\nابحث عن النافورة ولاحظ الاصطفافات التي تمتد نحو Corso Vittorio Emanuele. فالواجهات لا تكون أبدًا منتظمة تمامًا: بعضها يبرز بضعة سنتيمترات، وبعضها الآخر يتبع المسار الوسيط العائد إلى العصور الوسطى لتقسيمات الأرض. هذه اللا-تماثلية الخفيفة تمنح الساحة حيوية. وفي المساء، حين تضاء اللافتات، تتحول الجدران إلى ديكور يكاد يكون مسرحيًا.\n\nتُلخّص حكاية طريفة المكان جيدًا: فكثير من أبناء تروبيا يحدّدون موعدًا «عند Ercole» من دون مزيد من التوضيح، كأن الساحة شخص من العائلة. وقبل أن تواصلوا السير، أصغوا إلى الأصوات، وإلى أكواب الفناجين حين تتصادم، وإلى الخطوات على الحجر. لقد دخلتم للتو إيقاع الحياة اليومية للمدينة، ذلك الإيقاع الذي يمنح المعالم الأثرية جوارها الإنساني الحقيقي."
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-cn",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_cn.mp3",
+      "sourceText": "一个小广场、两家咖啡馆、几处立面和一个英雄的名字：埃尔科勒广场给人的感觉，仿佛能把整个特罗佩亚都握在掌心。它位于老城区巷弄交汇处，长期以来一直充当着一处露天会客厅。居民们在傍晚散步前于此相遇，游客在这里歇歇脚，露台则把交谈一直延续到夜深。\n\n赫拉克勒斯这个名字所指向的传统，比眼前这些建筑要古老得多。当地传说把这位希腊英雄视为在从西班牙归来后建立这座城市的奠基者。历史学家对此仍持谨慎态度，但这一故事塑造了特罗佩亚的想象：这座城喜欢把自己呈现为一处英雄般的海岬，坐落在肥沃大地与第勒尼安海之间。罗马时代，附近海岸已属于一张停靠点与别墅构成的网络。\n\n如今的广场，主要是在经历地震后的重建过程中逐渐形成的，尤其是1783年的那场地震。这里的房屋以浅色灰泥、锻铁阳台和当地石材门框为特征。从帝国意义上的宏伟来说，这里并不壮观；它的魅力更多来自尺度的克制、光影的变化，以及每条街道如何像舞台侧翼一样围绕中央空间展开。\n\n请留意喷泉，并观察那些延伸向维托里奥·埃马努埃莱大道的对齐线。各处立面从来都不完全规整：有些向前突出几厘米，另一些则沿着中世纪地块的轮廓延展。这种轻微的不对称让广场显得生动。到了夜晚，当招牌亮起，墙面便成了一幅几乎带有戏剧感的布景。\n\n有一个小故事很能概括这里：许多特罗佩亚人只说“在埃尔科勒见”，而不再作任何说明，仿佛这个广场是家里的一位成员。在继续前行之前，不妨听一听周围的声音、杯盏碰撞的声响，以及石板上的脚步声。你刚刚步入了这座城市的日常节奏，也正是这种节奏，让纪念性建筑拥有了它们真正的人情邻里。"
+    },
+    {
+      "id": "route-poi-Piazza_Ercole-ja",
+      "label": "POI parcours: Piazza Ercole",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Piazza_Ercole_ja.mp3",
+      "sourceText": "小さな広場、ふたつのカフェ、いくつかのファサード、そして英雄の名。Piazza Ercole は、トロペーア全体を手のひらに収めたかのような印象を与えます。旧市街の路地が交わる地点に位置し、ここは昔から屋外のサロンのような役割を果たしてきました。住民たちは散歩のひととき passeggiata の前にここで行き交い、訪れる人はここでひと息つき、テラス席では夜遅くまで会話が続きます。\n\nヘラクレスの名は、目に見える建物よりはるかに古い伝承を呼び起こします。地元の伝説では、このギリシアの英雄はヒスパニアからの帰還後にこの町を創建したとされています。歴史家たちは慎重な姿勢を崩しませんが、この物語はトロペーアの想像力を形づくってきました。この町は、肥沃な大地とティレニア海のあいだにそびえる英雄的な岬として、自らを表現するのを好みます。ローマ時代には、近隣の海岸もすでに寄港地や別荘のネットワークに組み込まれていました。\n\n現在の広場は、とりわけ1783年のものをはじめとする地震後の再建が重ねられるなかで、主に形づくられてきました。邸宅には明るい漆喰、鍛鉄のバルコニー、地元の石で縁取られた開口部が見られます。帝国的な意味での壮大さはありません。むしろ魅力は、ほどよい規模の空間、陰影の遊び、そしてそれぞれの通りが中央の空間の周囲で舞台袖のように開いていく、そのあり方にあります。\n\n噴水を見つけ、Corso Vittorio Emanuele へ向かって伸びる並びを観察してください。ファサードは決して完全に整ってはいません。数センチほど前に出ているものもあれば、中世の区画の線に従っているものもあります。このわずかな非対称性が、広場に生き生きとした表情を与えています。夕方、看板に灯りがともると、壁はほとんど舞台のような景観になります。\n\nこの場所をよく言い表す逸話があります。トロペーアの人々の多くは、これ以上の説明もなく「Ercole で」と待ち合わせをします。まるで広場が家族の一員であるかのようです。先へ進む前に、声、触れ合うカップの音、石畳を歩く足音に耳を澄ませてください。あなたは今、この町の日常のリズムの中に入りました。そこでは、記念建造物たちが本当の人の気配を持つご近所に囲まれているのです。"
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-fr",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_fr.mp3",
+      "sourceText": "Un portail de pierre, une façade sévère et un escalier qui se devine derrière la cour : Palazzo Giffone révèle la Tropéa des familles nobles plutôt que celle des cartes postales marines. L’édifice appartient à la grande campagne de reconstruction menée après le séisme de 1783, catastrophe qui obligea les propriétaires à repenser leurs demeures selon des critères plus réguliers.\n\nLe palais fut aménagé au début du XIXe siècle pour la famille Giffone, l’une des lignées patriciennes de la ville. Son architecture néoclassique abandonne les excès baroques au profit d’un ordre plus calme. Les murs épais protègent de la chaleur, le portail rectangulaire affirme le rang du propriétaire et la cour distribue les espaces domestiques sans exposer la vie privée à la rue.\n\nDans les palais tropeani, la véritable richesse n’était pas toujours visible depuis l’extérieur. Les rez-de-chaussée accueillaient réserves, écuries ou locaux de service ; les étages nobles concentraient salons, chapelles privées et balcons. Sous certaines demeures, des citernes et des conduits en terre cuite permettaient de conserver l’eau et parfois les céréales, ressources essentielles dans une ville perchée.\n\nRegardez l’encadrement du portail, puis suivez du regard l’axe qui mène vers l’escalier. La transition entre la rue étroite et la cour intérieure a été soigneusement composée. Les proportions sont plus éloquentes que l’ornement : elles donnent au bâtiment cette assurance discrète que les familles aristocratiques recherchaient au lendemain des bouleversements politiques et sismiques.\n\nPalazzo Giffone rappelle enfin que Tropéa fut longtemps gouvernée par un réseau de lignages, de confréries et d’institutions religieuses. Derrière les murs, mariages, héritages et alliances se négociaient autant que les affaires agricoles. En observant ce palais, on ne voit donc pas seulement une belle demeure : on devine le mécanisme social qui organisait la ville."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-nl",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_nl.mp3",
+      "sourceText": "Een stenen poort, een strenge gevel en een trap die achter de binnenplaats te raden is: Palazzo Giffone onthult eerder het Tropéa van de adellijke families dan dat van de zeegezichten op ansichtkaarten. Het gebouw behoort tot de grote wederopbouwcampagne die na de aardbeving van 1783 werd ondernomen, een ramp die de eigenaars ertoe dwong hun woningen volgens regelmatigere criteria te herdenken.\n\nHet paleis werd aan het begin van de 19e eeuw ingericht voor de familie Giffone, een van de patricische geslachten van de stad. De neoklassieke architectuur laat de barokke uitbundigheid achter zich ten gunste van een rustiger orde. De dikke muren beschermen tegen de hitte, de rechthoekige poort bevestigt de rang van de eigenaar en de binnenplaats verdeelt de huiselijke ruimtes zonder het privéleven aan de straat bloot te stellen.\n\nIn de paleizen van Tropea was de ware rijkdom van buitenaf niet altijd zichtbaar. De benedenverdiepingen boden plaats aan voorraden, stallen of dienstvertrekken; de bel-etages concentreerden salons, privékapellen en balkons. Onder sommige woningen maakten cisternen en terracotta leidingen het mogelijk om water en soms ook graan te bewaren, essentiële hulpbronnen in een stad op een hoogte.\n\nKijk naar de omlijsting van de poort en volg vervolgens met uw blik de as die naar de trap leidt. De overgang tussen de smalle straat en de binnenplaats is zorgvuldig gecomponeerd. De verhoudingen spreken meer dan de versiering: zij geven het gebouw die bescheiden zelfverzekerdheid die aristocratische families nastreefden in de nasleep van politieke en seismische omwentelingen.\n\nPalazzo Giffone herinnert er ten slotte aan dat Tropea lange tijd werd bestuurd door een netwerk van geslachten, broederschappen en religieuze instellingen. Achter de muren werden huwelijken, erfenissen en allianties evenzeer bediscussieerd als landbouwzaken. Door dit paleis te bekijken, ziet men dus niet alleen een mooi herenhuis: men onderscheidt het sociale mechanisme dat de stad ordende."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-en",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_en.mp3",
+      "sourceText": "A stone gateway, a severe façade, and a staircase that can be glimpsed beyond the courtyard: Palazzo Giffone reveals the Tropea of noble families rather than the Tropea of seaside postcards. The building belongs to the major reconstruction campaign carried out after the 1783 earthquake, a disaster that forced owners to rethink their homes according to more regular principles.\n\nThe palace was fitted out at the beginning of the 19th century for the Giffone family, one of the city’s patrician lineages. Its neoclassical architecture abandons Baroque excess in favor of a calmer order. Thick walls protect against the heat, the rectangular gateway asserts the owner’s rank, and the courtyard distributes the domestic spaces without exposing private life to the street.\n\nIn Tropea’s palaces, true wealth was not always visible from the outside. The ground floors housed stores, stables, or service rooms; the noble floors brought together salons, private chapels, and balconies. Beneath some houses, cisterns and terracotta conduits made it possible to store water and sometimes grain, essential resources in a hilltop town.\n\nLook at the gateway’s frame, then let your gaze follow the axis leading toward the staircase. The transition between the narrow street and the inner courtyard has been carefully composed. The proportions speak more eloquently than ornament: they give the building that discreet confidence aristocratic families sought in the wake of political and seismic upheaval.\n\nPalazzo Giffone also reminds us that Tropea was long governed by a network of lineages, confraternities, and religious institutions. Behind its walls, marriages, inheritances, and alliances were negotiated as much as agricultural affairs. So when observing this palace, we see not only a beautiful residence: we glimpse the social mechanism that organized the city."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-de",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_de.mp3",
+      "sourceText": "Ein steinernes Portal, eine strenge Fassade und eine Treppe, die sich hinter dem Hof andeutet: Der Palazzo Giffone offenbart das Tropéa der Adelsfamilien eher als das der maritimen Postkarten. Das Gebäude gehört zur großen Wiederaufbaukampagne, die nach dem Erdbeben von 1783 durchgeführt wurde – einer Katastrophe, die die Eigentümer dazu zwang, ihre Wohnsitze nach regelmäßigeren Maßstäben neu zu überdenken.\n\nDer Palast wurde zu Beginn des 19. Jahrhunderts für die Familie Giffone eingerichtet, eine der patrizischen Linien der Stadt. Seine neoklassizistische Architektur verzichtet auf barocke Übersteigerungen zugunsten einer ruhigeren Ordnung. Die dicken Mauern schützen vor der Hitze, das rechteckige Portal betont den Rang des Besitzers, und der Hof erschließt die Wohnbereiche, ohne das Privatleben zur Straße hin offenzulegen.\n\nIn den Palästen von Tropea war der eigentliche Reichtum von außen nicht immer sichtbar. Im Erdgeschoss befanden sich Vorratsräume, Ställe oder Diensträume; die Belletage vereinte Salons, Privatkapellen und Balkone. Unter manchen Häusern ermöglichten Zisternen und Tonröhren die Aufbewahrung von Wasser und manchmal auch von Getreide, lebenswichtigen Ressourcen in einer hoch gelegenen Stadt.\n\nBetrachten Sie die Einfassung des Portals und verfolgen Sie dann mit dem Blick die Achse, die zur Treppe führt. Der Übergang zwischen der engen Straße und dem Innenhof wurde sorgfältig komponiert. Die Proportionen sagen mehr als der Schmuck: Sie verleihen dem Gebäude jene diskrete Souveränität, die die aristokratischen Familien nach den politischen und seismischen Umwälzungen suchten.\n\nDer Palazzo Giffone erinnert schließlich daran, dass Tropea lange Zeit von einem Netz aus Geschlechtern, Bruderschaften und religiösen Institutionen geprägt wurde. Hinter den Mauern wurden ebenso Ehen, Erbschaften und Bündnisse ausgehandelt wie landwirtschaftliche Angelegenheiten. Wenn man diesen Palast betrachtet, sieht man also nicht nur ein schönes Herrenhaus: Man erahnt den sozialen Mechanismus, der die Stadt organisierte."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-it",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_it.mp3",
+      "sourceText": "Un portale di pietra, una facciata severa e una scala che si intravede dietro il cortile: Palazzo Giffone rivela la Tropea delle famiglie nobili più che quella delle cartoline marine. L’edificio appartiene alla grande campagna di ricostruzione avviata dopo il terremoto del 1783, catastrofe che costrinse i proprietari a ripensare le loro dimore secondo criteri più regolari.\n\nIl palazzo fu sistemato all’inizio del XIX secolo per la famiglia Giffone, una delle stirpi patrizie della città. La sua architettura neoclassica abbandona gli eccessi barocchi a favore di un ordine più sobrio. I muri spessi proteggono dal caldo, il portale rettangolare afferma il rango del proprietario e il cortile distribuisce gli spazi domestici senza esporre la vita privata alla strada.\n\nNei palazzi tropeani, la vera ricchezza non era sempre visibile dall’esterno. Il piano terra ospitava riserve, stalle o locali di servizio; i piani nobili concentravano saloni, cappelle private e balconi. Sotto alcune dimore, cisterne e condotti in terracotta permettevano di conservare l’acqua e talvolta i cereali, risorse essenziali in una città arroccata.\n\nOsservate la cornice del portale, poi seguite con lo sguardo l’asse che conduce alla scala. La transizione tra la strada stretta e il cortile interno è stata composta con cura. Le proporzioni sono più eloquenti dell’ornamento: conferiscono all’edificio quella discreta sicurezza che le famiglie aristocratiche ricercavano all’indomani degli sconvolgimenti politici e sismici.\n\nPalazzo Giffone ricorda infine che Tropea fu a lungo governata da una rete di casati, confraternite e istituzioni religiose. Dietro i muri, matrimoni, eredità e alleanze si negoziavano quanto gli affari agricoli. Osservando questo palazzo, dunque, non si vede soltanto una bella dimora: si intuisce il meccanismo sociale che organizzava la città."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-es",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_es.mp3",
+      "sourceText": "Un portal de piedra, una fachada severa y una escalera que se adivina detrás del patio: Palazzo Giffone revela la Tropea de las familias nobles más que la de las postales marinas. El edificio pertenece a la gran campaña de reconstrucción emprendida tras el terremoto de 1783, catástrofe que obligó a los propietarios a replantearse sus residencias según criterios más regulares.\n\nEl palacio fue acondicionado a comienzos del siglo XIX para la familia Giffone, una de las estirpes patricias de la ciudad. Su arquitectura neoclásica abandona los excesos barrocos en favor de un orden más sereno. Los muros gruesos protegen del calor, el portal rectangular afirma el rango del propietario y el patio distribuye los espacios domésticos sin exponer la vida privada a la calle.\n\nEn los palacios tropeanos, la verdadera riqueza no siempre era visible desde el exterior. Las plantas bajas albergaban almacenes, establos o dependencias de servicio; las plantas nobles concentraban salones, capillas privadas y balcones. Bajo algunas residencias, cisternas y conductos de barro permitían conservar el agua y, en ocasiones, los cereales, recursos esenciales en una ciudad encaramada.\n\nObserve el marco del portal y luego siga con la mirada el eje que conduce hacia la escalera. La transición entre la estrecha calle y el patio interior ha sido cuidadosamente compuesta. Las proporciones son más elocuentes que el ornamento: confieren al edificio esa discreta solidez que las familias aristocráticas buscaban a raíz de las convulsiones políticas y sísmicas.\n\nPalazzo Giffone recuerda, por último, que Tropea estuvo durante mucho tiempo gobernada por una red de linajes, cofradías e instituciones religiosas. Tras los muros se negociaban tanto los matrimonios, las herencias y las alianzas como los asuntos agrícolas. Al observar este palacio, por tanto, no vemos solo una hermosa residencia: intuimos el mecanismo social que organizaba la ciudad."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-pl",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_pl.mp3",
+      "sourceText": "Kamienny portal, surowa fasada i schody, które majaczą za dziedzińcem: Palazzo Giffone odsłania raczej Tropeę rodzin szlacheckich niż tę z morskich pocztówek. Budynek należy do wielkiej kampanii odbudowy prowadzonej po trzęsieniu ziemi w 1783 roku, katastrofie, która zmusiła właścicieli do przemyślenia swoich rezydencji według bardziej regularnych zasad.\n\nPałac został urządzony na początku XIX wieku dla rodziny Giffone, jednego z patrycjuszowskich rodów miasta. Jego neoklasycystyczna architektura odrzuca barokową przesadę na rzecz spokojniejszego ładu. Grube mury chronią przed upałem, prostokątny portal podkreśla rangę właściciela, a dziedziniec rozdziela przestrzenie domowe, nie wystawiając życia prywatnego na widok ulicy.\n\nW pałacach tropeańskich prawdziwe bogactwo nie zawsze było widoczne z zewnątrz. Partery mieściły spiżarnie, stajnie lub pomieszczenia służbowe; piętra reprezentacyjne skupiały salony, prywatne kaplice i balkony. Pod niektórymi rezydencjami cysterny i gliniane przewody pozwalały gromadzić wodę, a czasem także zboże — zasoby niezbędne w mieście położonym wysoko.\n\nSpójrz na obramienie portalu, a potem poprowadź wzrok wzdłuż osi prowadzącej ku schodom. Przejście między wąską ulicą a wewnętrznym dziedzińcem zostało starannie skomponowane. Proporcje mówią więcej niż dekoracja: nadają budynkowi tę dyskretną pewność, której rody arystokratyczne poszukiwały po przemianach politycznych i sejsmicznych.\n\nPalazzo Giffone przypomina wreszcie, że Tropea przez długi czas była rządzona przez sieć rodów, bractw i instytucji religijnych. Za murami negocjowano małżeństwa, dziedziczenie i sojusze równie często jak sprawy rolnicze. Patrząc na ten pałac, widzimy więc nie tylko piękną rezydencję: dostrzegamy mechanizm społeczny, który organizował życie miasta."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-ar",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_ar.mp3",
+      "sourceText": "بوابة من الحجر، وواجهة صارمة، وسلّم يُلمَح خلف الفناء: يكشف قصر جيفون عن طرابيا العائلات النبيلة أكثر مما يكشف عن طرابيا البطاقات البريدية البحرية. وينتمي المبنى إلى حملة إعادة الإعمار الكبرى التي نُفِّذت بعد زلزال عام 1783، تلك الكارثة التي أجبرت المالكين على إعادة التفكير في مساكنهم وفق معايير أكثر انتظامًا.\n\nأُعدّ القصر في مطلع القرن التاسع عشر لعائلة جيفون، إحدى السلالات الأرستقراطية في المدينة. وتتخلى عمارته الكلاسيكية الجديدة عن المبالغات الباروكية لصالح نظام أكثر هدوءًا. تحمي الجدران السميكة من الحرّ، وتؤكد البوابة المستطيلة مكانة المالك، ويُوزّع الفناء المساحات المنزلية من دون أن يعرّض الحياة الخاصة للشارع.\n\nفي قصور طرابيا، لم تكن الثروة الحقيقية مرئية دائمًا من الخارج. فقد احتضنت الطوابق الأرضية المؤن والإسطبلات أو مرافق الخدمة؛ أما الطوابق النبيلة فكانت تتركز فيها الصالونات والمصليات الخاصة والشرفات. وتحت بعض المساكن، كانت الخزانات والأنابيب الفخارية تتيح حفظ الماء وأحيانًا الحبوب، وهي موارد أساسية في مدينة قائمة على المرتفعات.\n\nتأمل إطار البوابة، ثم اتبع بعينيك المحور الذي يقود إلى السلم. لقد صيغ الانتقال بين الشارع الضيق والفناء الداخلي بعناية فائقة. فالنسب أبلغ من الزخرفة: إنها تمنح المبنى ذلك الاطمئنان الهادئ الذي كانت العائلات الأرستقراطية تتطلع إليه في أعقاب التحولات السياسية والزلازل.\n\nويذكّر قصر جيفون أخيرًا بأن طرابيا خضعت طويلًا لحكم شبكة من السلالات والأخويات والمؤسسات الدينية. فخلف الجدران كانت تُدار المفاوضات بشأن الزيجات والميراث والتحالفات بقدر ما كانت تُدار الشؤون الزراعية. لذلك، حين نتأمل هذا القصر، لا نرى مجرد مسكن جميل: بل نلمح الآلية الاجتماعية التي كانت تنظم المدينة."
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-cn",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_cn.mp3",
+      "sourceText": "一扇石门、一面严峻的立面，以及一道在庭院后隐约可见的楼梯：Giffone宫展现的不是明信片上那种海滨的特罗佩阿，而是贵族家族的特罗佩阿。这座建筑属于1783年地震后展开的大规模重建计划；那场灾难迫使业主按照更为规整的标准重新思考他们的宅邸。\n\n这座宫殿在19世纪初为Giffone家族——这座城市的贵族世系之一——进行了改建。其新古典主义建筑摒弃了巴洛克式的繁复，转而追求更为宁静的秩序。厚实的墙体抵御炎热，矩形门廊彰显主人的身份，而庭院则分配居住空间，又不让私人生活暴露于街头。\n\n在特罗佩阿的宫殿中，真正的财富并不总能从外部看见。底层用于储藏、马厩或仆役用房；贵族楼层则集中起居厅、私人小教堂和阳台。在某些宅邸下方，还有蓄水池和陶土管道，用以储存水，有时甚至是谷物——对于这座建在高处的城市而言，这些都是至关重要的资源。\n\n请留意门廊的框饰，然后沿着视线追随通向楼梯的轴线。狭窄街道与内庭之间的过渡经过了精心构思。比例比装饰更具说服力：它们赋予建筑一种低调而笃定的气度，这是贵族家族在政治与地震动荡之后所追求的。\n\n最后，Giffone宫也提醒我们，特罗佩阿长期以来一直由宗族、兄弟会和宗教机构组成的网络所治理。在这些墙壁之后，婚姻、继承和联盟的谈判与农业事务同样重要。因此，观察这座宫殿时，我们看到的不只是一处美丽的宅邸：我们还隐约看见了组织这座城市的社会机制。"
+    },
+    {
+      "id": "route-poi-Palazzo_Giffone-ja",
+      "label": "POI parcours: Palazzo Giffone",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Palazzo_Giffone_ja.mp3",
+      "sourceText": "石造りの門、厳格なファサード、そして中庭の奥にかすかに見える階段――パラッツォ・ジッフォーネは、海辺の絵葉書のトロペーアではなく、貴族たちのトロペーアを物語ります。この建物は、1783年の地震の後に進められた大規模な再建事業の一部であり、この大災害は所有者たちに、より整った基準に従って邸宅を見直すことを迫りました。\n\nこの宮殿は、19世紀初頭に、この町の有力なパトリキ家の一つであるジッフォーネ家のために整えられました。その新古典主義の建築は、バロックの過剰さを退け、より静かな秩序を選び取っています。厚い壁は暑さを防ぎ、長方形の門は所有者の身分を示し、中庭は私的な生活を通りにさらすことなく、住空間をうまく配しています。\n\nトロペーアの宮殿では、本当の豊かさが外からは必ずしも見えませんでした。1階には貯蔵庫、厩舎、あるいは使用人のための部屋が置かれ、上階の格式ある階にはサロン、私的礼拝堂、バルコニーが集められていました。いくつかの邸宅の地下には、貯水槽やテラコッタ製の導管が設けられ、水や、時には穀物を保存できるようになっていました。高台に築かれた町では、こうした資源が欠かせなかったのです。\n\n門の枠をよく見て、それから階段へと続く軸線を目で追ってみてください。狭い通りから中庭へ移るつながりは、綿密に構成されています。装飾よりも雄弁なのはプロポーションです。それが、この建物に控えめな自信を与えています。政治的、そして地震による激変の直後に、貴族の家族たちが求めたのは、まさにそのような佇まいでした。\n\n最後に、パラッツォ・ジッフォーネは、トロペーアが長く、諸家門、兄弟会、宗教 संस्थじょう——いや、宗教機関のネットワークによって統治されていたことを思い起こさせます。壁の向こうでは、農業の事柄と同じくらい、結婚、相続、同盟の交渉が行われていました。したがって、この宮殿を見つめるとき、私たちは美しい邸宅だけを目にしているのではありません。この町を組織していた社会の仕組みが、そこに透けて見えるのです。"
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-fr",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_fr.mp3",
+      "sourceText": "Le Corso Vittorio Emanuele ressemble à un ruban tendu entre Piazza Ercole et le vide lumineux de la falaise. Sa perspective est courte, mais elle concentre l’animation du centre : boutiques, glaciers, petits commerces et portails aristocratiques s’y succèdent sans rupture. En fin d’après-midi, la rue devient le théâtre de la passeggiata, cette promenade sociale où l’on marche autant pour voir que pour être vu.\n\nSon nom rappelle Victor-Emmanuel II, premier roi de l’Italie unifiée en 1861. Pourtant, le tracé est bien antérieur au Risorgimento. Il suit l’une des lignes maîtresses de la ville haute, organisée sur le promontoire pour relier les places, les palais et les belvédères. Les changements de nom n’ont donc pas effacé la fonction ancienne de l’axe : conduire les habitants du cœur civique vers la mer.\n\nLes façades racontent plusieurs siècles de transformations. Après les tremblements de terre, les propriétaires ont réparé, surélevé ou rhabillé leurs maisons. On distingue des corniches sobres, des balcons soutenus par des consoles, des portails en granit et quelques blasons. Les rez-de-chaussée ont souvent été adaptés au commerce, tandis que les étages conservent la dignité des demeures patriciennes.\n\nLevez les yeux au-dessus des enseignes : les balcons ne sont pas tous de la même époque et leurs ferronneries dessinent un véritable catalogue. Plus loin, la lumière devient de plus en plus forte, signe que la rue s’achève brusquement au-dessus du littoral. Cette mise en scène naturelle explique pourquoi tant de photographes attendent ici le passage d’un habitant dans l’axe du ciel.\n\nLe Corso n’est pas qu’une voie touristique. On y échange des nouvelles, on commente la météo marine, on choisit les oignons rouges exposés devant une épicerie et l’on débat du meilleur tartufo glacé de la côte. Traversez-le sans vous presser : sa longueur modeste cache une étonnante densité de gestes, de voix et de détails architecturaux."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-nl",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_nl.mp3",
+      "sourceText": "De Corso Vittorio Emanuele lijkt op een lint dat strak gespannen is tussen Piazza Ercole en de lichte leegte van de klif. Het perspectief is kort, maar het concentreert de levendigheid van het centrum: winkels, ijssalons, kleine handelszaken en aristocratische portalen volgen er elkaar onafgebroken op. Aan het eind van de middag wordt de straat het toneel van de passeggiata, die sociale wandeling waarbij men evenzeer loopt om te kijken als om gezien te worden.\n\nDe naam herinnert aan Victor-Emmanuel II, de eerste koning van het in 1861 verenigde Italië. Toch is het tracé veel ouder dan het Risorgimento. Het volgt een van de hoofdlijnen van de bovenstad, die op het voorgebergte is aangelegd om pleinen, paleizen en uitkijkpunten met elkaar te verbinden. De naamsveranderingen hebben dus de oude functie van deze as niet uitgewist: de inwoners van het civiele hart naar zee leiden.\n\nDe gevels vertellen over meerdere eeuwen van veranderingen. Na de aardbevingen hebben de eigenaars hun huizen hersteld, verhoogd of opnieuw aangekleed. U ziet sobere kroonlijsten, balkons gedragen door consoles, portalen van graniet en hier en daar een wapenschild. De begane grond is vaak aangepast aan handelszaken, terwijl de verdiepingen de waardigheid van patricische woningen behouden.\n\nKijk omhoog boven de uithangborden: niet alle balkons zijn uit dezelfde periode en hun smeedijzer vormt een ware catalogus. Verderop wordt het licht steeds sterker, een teken dat de straat abrupt eindigt boven de kust. Deze natuurlijke mise-en-scène verklaart waarom hier zoveel fotografen wachten op de passage van een inwoner, in de as van de hemel.\n\nDe Corso is niet alleen een toeristische weg. Men wisselt er nieuwtjes uit, bespreekt er het weer op zee, kiest er de rode uien die voor een kruidenierszaak liggen uit en debatteert er over de beste tartufo-ijs van de kust. Steek hem zonder haast over: zijn bescheiden lengte verbergt een verrassende dichtheid aan gebaren, stemmen en architectonische details."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-en",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_en.mp3",
+      "sourceText": "Corso Vittorio Emanuele looks like a ribbon stretched between Piazza Ercole and the bright void of the cliff. Its perspective is short, but it concentrates the liveliness of the town center: shops, ice-cream parlors, small businesses, and aristocratic gateways follow one another without interruption. In the late afternoon, the street becomes the stage for the passeggiata, that social stroll in which people walk as much to see as to be seen.\n\nIts name recalls Victor Emmanuel II, the first king of unified Italy in 1861. Yet the layout predates the Risorgimento by far. It follows one of the main axes of the upper town, organized on the promontory to connect the squares, palaces, and belvederes. Changes of name have therefore not erased the ancient function of this axis: to lead the inhabitants from the civic heart toward the sea.\n\nThe facades tell the story of several centuries of transformation. After the earthquakes, owners repaired, heightened, or refaced their houses. You can make out plain cornices, balconies supported by consoles, granite gateways, and a few coats of arms. The ground floors have often been adapted for commerce, while the upper stories preserve the dignity of patrician residences.\n\nLook up above the shop signs: not all the balconies are from the same period, and their wrought ironwork forms a true catalog. Farther on, the light grows stronger and stronger, a sign that the street comes to an abrupt end above the coastline. This natural staging explains why so many photographers wait here for a local resident to pass in line with the sky.\n\nThe Corso is not just a tourist route. People exchange news here, comment on the sea weather, choose the red onions displayed outside a grocery shop, and debate the best tartufo ice cream on the coast. Cross it without hurrying: its modest length conceals an astonishing density of gestures, voices, and architectural details."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-de",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_de.mp3",
+      "sourceText": "Der Corso Vittorio Emanuele gleicht einem Band, das zwischen der Piazza Ercole und der lichtdurchfluteten Leere der Klippe gespannt ist. Seine Perspektive ist kurz, doch sie bündelt die Lebendigkeit des Zentrums: Boutiquen, Eisdielen, kleine Geschäfte und aristokratische Portale reihen sich hier ohne Bruch aneinander. Am späten Nachmittag wird die Straße zur Bühne der passeggiata, jener gesellschaftlichen Promenade, bei der man ebenso sehr geht, um zu sehen, wie um gesehen zu werden.\n\nSein Name erinnert an Victor Emanuel II., den ersten König des 1861 geeinten Italiens. Doch die Trasse ist weitaus älter als das Risorgimento. Sie folgt einer der Hauptlinien der Oberstadt, die auf dem Vorgebirge angelegt wurde, um Plätze, Paläste und Aussichtspunkte miteinander zu verbinden. Die Namensänderungen haben die alte Funktion dieser Achse also nicht ausgelöscht: die Bewohner vom bürgerlichen Zentrum zum Meer zu führen.\n\nDie Fassaden erzählen von mehreren Jahrhunderten des Wandels. Nach den Erdbeben reparierten, erhöhten oder neu verkleideten die Eigentümer ihre Häuser. Man erkennt schlichte Gesimse, von Konsolen getragene Balkone, Granitportale und einige Wappen. Die Erdgeschosse wurden oft für den Handel angepasst, während die oberen Stockwerke die Würde patrizischer Wohnhäuser bewahren.\n\nHeben Sie den Blick über die Schilder: Nicht alle Balkone stammen aus derselben Zeit, und ihre Schmiedeeisenarbeiten bilden einen regelrechten Katalog. Weiter vorn wird das Licht immer intensiver, ein Zeichen dafür, dass die Straße abrupt oberhalb der Küste endet. Diese natürliche Inszenierung erklärt, warum so viele Fotografen hier auf das Vorübergehen eines Einwohners in der Achse des Himmels warten.\n\nDer Corso ist nicht nur eine Touristenstraße. Hier tauscht man Neuigkeiten aus, spricht über das Wetter auf dem Meer, wählt die vor einem Lebensmittelgeschäft ausgestellten roten Zwiebeln aus und diskutiert über das beste Tartufo-Eis an der Küste. Gehen Sie ihn ohne Eile entlang: Seine bescheidene Länge verbirgt eine erstaunliche Dichte an Gesten, Stimmen und architektonischen Details."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-it",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_it.mp3",
+      "sourceText": "Il Corso Vittorio Emanuele assomiglia a un nastro teso tra Piazza Ercole e il vuoto luminoso della falesia. La sua prospettiva è breve, ma concentra il brulichio del centro: boutique, gelaterie, piccoli negozi e portali aristocratici si susseguono senza interruzione. Nel tardo pomeriggio, la strada diventa il teatro della passeggiata, quella promenade sociale in cui si cammina tanto per vedere quanto per farsi vedere.\n\nIl suo nome ricorda Vittorio Emanuele II, primo re dell’Italia unificata nel 1861. Eppure il tracciato è ben anteriore al Risorgimento. Segue una delle linee maestre della città alta, organizzata sul promontorio per collegare piazze, palazzi e belvedere. I cambi di nome non hanno dunque cancellato l’antica funzione dell’asse: condurre gli abitanti dal cuore civico verso il mare.\n\nLe facciate raccontano diversi secoli di trasformazioni. Dopo i terremoti, i proprietari hanno riparato, sopraelevato o rinnovato le loro case. Si distinguono cornici sobrie, balconi sorretti da mensole, portali in granito e qualche stemma. I piani terra sono stati spesso adattati al commercio, mentre i piani superiori conservano la dignità delle dimore patrizie.\n\nAlzate gli occhi sopra le insegne: i balconi non sono tutti della stessa epoca e le loro ringhiere in ferro battuto disegnano un vero catalogo. Più avanti, la luce diventa sempre più intensa, segno che la strada termina bruscamente sopra il litorale. Questa scenografia naturale spiega perché tanti fotografi attendano qui il passaggio di un abitante allineato con il cielo.\n\nIl Corso non è solo una via turistica. Qui ci si scambia notizie, si commenta il tempo del mare, si scelgono le cipolle rosse esposte davanti a una drogheria e si discute del miglior tartufo gelato della costa. Attraversatelo senza fretta: la sua lunghezza modesta nasconde un’inaspettata densità di gesti, voci e dettagli architettonici."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-es",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_es.mp3",
+      "sourceText": "El Corso Vittorio Emanuele se asemeja a una cinta tensa entre Piazza Ercole y el vacío luminoso del acantilado. Su perspectiva es corta, pero concentra la animación del centro: boutiques, heladerías, pequeños comercios y portales aristocráticos se suceden en él sin interrupción. Al final de la tarde, la calle se convierte en el escenario de la passeggiata, ese paseo social en el que se camina tanto para ver como para ser visto.\n\nSu nombre recuerda a Víctor Manuel II, primer rey de la Italia unificada en 1861. Sin embargo, el trazado es muy anterior al Risorgimento. Sigue una de las líneas maestras de la ciudad alta, organizada sobre el promontorio para enlazar las plazas, los palacios y los miradores. Los cambios de nombre, por tanto, no han borrado la antigua función del eje: conducir a los habitantes desde el corazón cívico hasta el mar.\n\nLas fachadas cuentan varios siglos de transformaciones. Después de los terremotos, los propietarios repararon, elevaron o renovaron sus casas. Se distinguen cornisas sobrias, balcones sostenidos por ménsulas, portales de granito y algunos blasones. Los bajos se han adaptado a menudo al comercio, mientras que los pisos conservan la dignidad de las residencias patricias.\n\nAlce la vista por encima de los rótulos: los balcones no son todos de la misma época y sus rejerías forman un verdadero catálogo. Más adelante, la luz se vuelve cada vez más intensa, señal de que la calle termina bruscamente sobre el litoral. Esta puesta en escena natural explica por qué tantos fotógrafos esperan aquí el paso de un vecino en el eje del cielo.\n\nEl Corso no es solo una vía turística. Aquí se intercambian noticias, se comenta el tiempo del mar, se eligen las cebollas rojas expuestas ante una tienda de ultramarinos y se debate sobre el mejor tartufo helado de la costa. Recorra este tramo sin prisas: su modesta longitud esconde una sorprendente densidad de gestos, voces y detalles arquitectónicos."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-pl",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_pl.mp3",
+      "sourceText": "Corso Vittorio Emanuele przypomina wstęgę rozciągniętą między Piazza Ercole a świetlistą pustką klifu. Jego perspektywa jest krótka, ale skupia w sobie ożywienie centrum: sklepy, lodziarnie, drobne punkty handlowe i arystokratyczne portale następują tu po sobie bez przerwy. Późnym popołudniem ulica staje się sceną passeggiaty, tej społecznej przechadzki, podczas której chodzi się równie mocno po to, by patrzeć, jak i po to, by być widzianym.\n\nJej nazwa przypomina Wiktora Emanuela II, pierwszego króla zjednoczonych Włoch w 1861 roku. Jednak sam przebieg ulicy jest znacznie starszy niż Risorgimento. Podąża ona jedną z głównych linii górnej części miasta, ukształtowanej na cyplu tak, by łączyć place, pałace i punkty widokowe. Zmiany nazwy nie zatarły więc dawnej funkcji tego traktu: prowadzić mieszkańców z obywatelskiego serca miasta ku morzu.\n\nFasady opowiadają o kilku stuleciach przemian. Po trzęsieniach ziemi właściciele naprawiali, podwyższali lub odświeżali swoje domy. Widać skromne gzymsy, balkony wsparte na konsolach, granitowe portale i kilka herbów. Partery często przystosowano do handlu, podczas gdy piętra zachowują godność patrycjuszowskich rezydencji.\n\nSpójrzcie ponad szyldami: nie wszystkie balkony pochodzą z tej samej epoki, a ich kute balustrady tworzą prawdziwy katalog. Dalej światło staje się coraz silniejsze, co jest znakiem, że ulica nagle kończy się nad wybrzeżem. Ta naturalna scenografia wyjaśnia, dlaczego tak wielu fotografów czeka tu na przejście mieszkańca na osi nieba.\n\nCorso to nie tylko trasa turystyczna. Wymienia się tu nowiny, komentuje pogodę na morzu, wybiera czerwone cebule wystawione przed sklepem spożywczym i dyskutuje o najlepszym mrożonym tartufo na wybrzeżu. Przejdźcie nią bez pośpiechu: jej skromna długość kryje zaskakującą gęstość gestów, głosów i detali architektonicznych."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-ar",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_ar.mp3",
+      "sourceText": "يشبه كورسو فيتوريو إيمانويل شريطًا مشدودًا بين بيازا إركوله والفراغ المضيء للجرف. ومنظوره قصير، لكنه يجمع حيوية المركز كلّها: متاجر، ومحالّ لبيع المثلجات، ودكاكين صغيرة، وبوابات أرستقراطية تتعاقب فيه من دون انقطاع. وفي أواخر بعد الظهر، تصبح الشارع مسرحًا للـ passeggiata، تلك النزهة الاجتماعية التي يُمشَى فيها بقدر ما يُمشَى من أجل أن تُرى.\n\nيُذكِّر اسمه بفيكتور-إيمانويل الثاني، أول ملوك إيطاليا الموحَّدة سنة 1861. ومع ذلك، فإن مساره أقدم بكثير من حركة الريزورجيمنتو. فهو يتبع أحد المحاور الرئيسية للمدينة العليا، المنظمة على شبه الجزيرة الصخرية لربط الساحات والقصور ونقاط المشاهدة البانورامية. لذلك فإن تغييرات الاسم لم تُلغِ الوظيفة القديمة لهذا المحور: أن يقود السكان من القلب المدني نحو البحر.\n\nتروي الواجهات عدة قرون من التحولات. فبعد الزلازل، قام المالكون بإصلاح بيوتهم أو رفعها أو إعادة كسوتها. ويمكن تمييز كورنيشات بسيطة، وشرفات تستند إلى دعامات، وبوابات من الغرانيت، وبعض الشعارات النبالية. وغالبًا ما جرى تكييف الطوابق الأرضية للتجارة، بينما تحتفظ الطوابق العليا بوقار المساكن الأرستقراطية.\n\nارفعوا أعينكم فوق اللافتات: فالشرفات ليست جميعها من الحقبة نفسها، وتشكّل أعمال الحديد المشغول فيها فهرسًا حقيقيًا. وإلى الأمام، يزداد الضوء قوةً شيئًا فشيئًا، في إشارة إلى أن الشارع ينتهي فجأة فوق الساحل. وهذا المشهد الطبيعي هو ما يفسّر لماذا ينتظر هنا كثير من المصورين مرور أحد السكان في خطّ السماء.\n\nكورسو ليس مجرد طريق سياحي. ففيه يتبادل الناس الأخبار، ويتحدثون عن أحوال البحر والطقس، ويختارون البصل الأحمر المعروض أمام دكان بقالة، ويتجادلون حول أفضل تارتوفو جيلاتو على الساحل. اعبره من دون استعجال: فطوله المتواضع يخفي كثافة مدهشة من الحركات والأصوات والتفاصيل المعمارية."
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-cn",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_cn.mp3",
+      "sourceText": "维托里奥·埃马努埃莱大街宛如一条绷紧的丝带，横跨埃尔科勒广场与悬崖上明亮的虚空之间。它的透视线并不长，却汇聚了中心区的热闹：商店、冰淇淋店、小商铺和贵族府邸的大门在这里连续展开，毫无断裂。到了傍晚，这条街便成为“passeggiata”漫步的舞台——人们在这里行走，既为观赏他人，也为了被他人看见。\\n\\n它的名字让人想起维克多·埃马努埃莱二世，他是1861年统一意大利后的第一任国王。然而，这条街的布局早在意大利复兴运动之前就已存在。它沿着上城的一条主要轴线延伸，上城依托这座山岬而建，用来连接广场、宫殿和观景台。因此，几经更名并未抹去这条轴线原有的功能：引领居民从市民生活的核心走向大海。\\n\\n这些立面讲述着数个世纪以来的变迁。地震之后，业主们曾修缮、加高或重新装饰自己的房屋。可以看到朴素的檐口、由托座支撑的阳台、花岗岩门廊，以及一些徽章。底层通常已改作商业用途，而楼上则仍保留着贵族宅邸的庄重。\\n\\n请抬头看向招牌上方：这些阳台并不全属于同一时代，它们的铁艺栏杆像一部真正的图鉴。再往前，光线变得越来越强烈，表明这条街在海岸上方突然结束。这样的自然舞台感，也解释了为什么有那么多摄影师会在这里等待一位居民经过，与天空的轴线同框。\\n\\n维托里奥·埃马努埃莱大街并不只是一条旅游通道。人们在这里交换消息，谈论海上的天气，挑选摆在杂货店前的红洋葱，还会争论哪一家的海岸冰淇淋塔尔图福最好吃。请慢慢穿行其间：它并不长，却隐藏着令人惊叹的姿态、声音与建筑细节的密度。"
+    },
+    {
+      "id": "route-poi-Corso_Vittorio_Emanuele-ja",
+      "label": "POI parcours: Corso Vittorio Emanuele",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Corso_Vittorio_Emanuele_ja.mp3",
+      "sourceText": "コルソ・ヴィットリオ・エマヌエーレは、ピアッツァ・エルコレと崖の明るい空虚のあいだに張り渡された一本のリボンのようです。見通しは短いものの、町の中心のにぎわいがここに凝縮されています。ブティック、ジェラテリア、小さな商店、そして貴族の門が、途切れることなく次々と現れます。午後遅くになると、この通りはパッセッジャータの舞台になります。見られるためと、見るために歩く、そんな社交の散歩です。\n\nその名は、1861年に統一イタリア初の国王となったヴィットーリオ・エマヌエーレ2世を思い起こさせます。けれども、この道筋はリソルジメントよりはるか以前から存在していました。高台の町を形づくる主要な線のひとつに沿っており、広場や宮殿、眺望台を結ぶために岬の上に整えられています。したがって、改称によってこの軸の古い役割が消えたわけではありません。住民を市政の中心から海へと導く役目です。\n\n建物のファサードは、何世紀にもわたる変化を物語っています。地震のあと、所有者たちは家を修復し、増築し、あるいは外観を整え直しました。控えめなコーニス、持ち送りに支えられたバルコニー、花崗岩の門構え、そしていくつかの紋章が見分けられます。1階部分は商いに合わせて改装されていることが多い一方、上階には旧家らしい威厳が保たれています。\n\n看板の上へ目を上げてみてください。バルコニーはすべて同じ時代のものではなく、その鉄細工はまるでひとつの目録のように多彩な表情を描いています。さらに進むと、光はいっそう強くなっていきます。通りが海岸線の上で急に終わることを示すしるしです。この自然の演出こそ、なぜ多くの写真家がここで、空の軸線のなかを住民が通り過ぎる瞬間を待つのかを説明しています。\n\nコルソは単なる観光の道ではありません。人々はここで近況を交わし、海の天気について語り合い、食料品店の前に並べられた赤玉ねぎを選び、海岸でいちばんおいしいトゥルフォ・ジェラートはどれかと議論します。どうか急がずに渡ってみてください。短い道のりのなかに、しぐさ、声、そして建築の細部が驚くほど密に詰まっています。"
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-fr",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_fr.mp3",
+      "sourceText": "Au bout du Corso, la rue s’arrête net et la Calabre bascule dans le bleu. L’Affaccio dei Sospiri domine la plage depuis le bord du promontoire, à environ quarante mètres au-dessus de la mer. Le surnom, « belvédère des soupirs », n’a rien d’officiel ou de tragique : il traduit plutôt la réaction spontanée de ceux qui découvrent soudain l’Isola, les falaises et l’horizon.\n\nCette ouverture spectaculaire existe grâce à la géologie même de Tropéa. La ville historique s’est développée sur une terrasse de grès et de calcaire, assez élevée pour surveiller le littoral et relativement facile à défendre. Au fil des siècles, les habitants ont percé des passages vers les escaliers et les descentes de plage, mais le contraste entre la ville serrée et l’espace marin est resté intact.\n\nPar temps clair, le regard porte jusqu’aux îles Éoliennes. Stromboli apparaît parfois comme un cône sombre posé sur l’horizon, surtout au coucher du soleil. Les marins utilisaient autrefois ces reliefs comme repères visuels. Aujourd’hui encore, les variations de visibilité annoncent aux habitants un changement de vent ou d’humidité avant même que les applications météo ne le confirment.\n\nAppuyez-vous au parapet et cherchez trois lignes : la bande claire du sable, la roche de Santa Maria dell’Isola et, au loin, la silhouette volcanique. Observez aussi les maisons construites au ras de la falaise. Leurs fondations semblent défier le vide, mais elles s’ancrent dans un terrain qui a imposé sa forme à tout le centre ancien.\n\nUne habitude locale consiste à revenir ici plusieurs fois dans la même journée. Le matin, l’eau prend des tons transparents ; à midi, la lumière efface presque les reliefs ; le soir, les façades deviennent roses et les bateaux tracent des sillons d’argent. Ce belvédère ne se visite donc jamais tout à fait deux fois de la même manière."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-nl",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_nl.mp3",
+      "sourceText": "Aan het einde van de Corso houdt de straat abrupt op en slaat Calabrië over in het blauw. De Affaccio dei Sospiri domineert het strand vanaf de rand van de promontorie, ongeveer veertig meter boven de zee. De bijnaam, « uitzichtpunt van de zuchten », heeft niets officieels of tragisch: ze weerspiegelt eerder de spontane reactie van wie plots de Isola, de kliffen en de horizon ontdekt.\n\nDeze spectaculaire opening bestaat dankzij de geologie van Tropea zelf. De historische stad is gebouwd op een terras van zandsteen en kalksteen, hoog genoeg om de kustlijn te overzien en relatief gemakkelijk te verdedigen. Door de eeuwen heen hebben de bewoners doorgangen uitgehouwen naar trappen en afdalingen naar het strand, maar het contrast tussen de compacte stad en de maritieme ruimte is intact gebleven.\n\nBij helder weer reikt het uitzicht tot de Eolische Eilanden. Stromboli verschijnt soms als een donkere kegel op de horizon, vooral bij zonsondergang. Zeelieden gebruikten deze reliëfs vroeger als visuele bakens. Ook vandaag nog kondigen veranderingen in het zicht de inwoners een wijziging in wind of vochtigheid aan, nog voordat de weerapps dat bevestigen.\n\nLeun op de borstwering en zoek drie lijnen: de lichte strook zand, de rots van Santa Maria dell’Isola en, in de verte, de vulkanische silhouet. Let ook op de huizen die tegen de klif zijn gebouwd. Hun fundamenten lijken de leegte te trotseren, maar ze verankeren zich in een terrein dat zijn vorm aan het hele oude centrum heeft opgelegd.\n\nEen lokale gewoonte is hier meerdere keren op dezelfde dag terug te komen. ’s Ochtends krijgt het water transparante tinten; op het middaguur wist het licht bijna het reliëf uit; ’s avonds worden de gevels roze en tekenen de boten zilveren sporen. Dit uitzichtpunt beleef je dus nooit twee keer precies op dezelfde manier."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-en",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_en.mp3",
+      "sourceText": "At the end of the Corso, the street comes to an abrupt stop and Calabria tips into blue. Affaccio dei Sospiri overlooks the beach from the edge of the promontory, about forty metres above the sea. The nickname, “belvedere of sighs,” is neither official nor tragic: it rather expresses the spontaneous reaction of those who suddenly discover the Isola, the cliffs, and the horizon.\n\nThis spectacular opening exists thanks to the very geology of Tropea. The historic town developed on a terrace of sandstone and limestone, high enough to watch over the coastline and relatively easy to defend. Over the centuries, the inhabitants cut passages to the stairways and beach descents, but the contrast between the compact town and the maritime expanse has remained intact.\n\nOn a clear day, the view stretches as far as the Aeolian Islands. Stromboli sometimes appears as a dark cone set on the horizon, especially at sunset. Sailors once used these landforms as visual landmarks. Even today, changes in visibility signal to the locals a shift in wind or humidity before weather apps confirm it.\n\nLean on the parapet and look for three lines: the pale strip of sand, the rock of Santa Maria dell’Isola, and, in the distance, the volcanic silhouette. Also observe the houses built right at the edge of the cliff. Their foundations seem to defy the void, yet they are anchored in terrain that has imposed its shape on the entire old centre.\n\nA local habit is to come back here several times in the same day. In the morning, the water takes on transparent tones; at midday, the light almost erases the relief; in the evening, the façades turn pink and the boats carve silver wakes. This belvedere is therefore never visited quite the same way twice."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-de",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_de.mp3",
+      "sourceText": "Am Ende des Corso endet die Straße abrupt, und Kalabrien kippt ins Blau. Der Affaccio dei Sospiri überragt den Strand vom Rand des Vorgebirges aus, etwa vierzig Meter über dem Meer. Der Beiname „Belvedere der Seufzer“ ist weder offiziell noch tragisch: Er bringt vielmehr die spontane Reaktion derjenigen zum Ausdruck, die plötzlich die Isola, die Klippen und den Horizont entdecken.\n\nDiese spektakuläre Öffnung verdankt sich der Geologie Tropeas selbst. Die historische Stadt hat sich auf einer Terrasse aus Sandstein und Kalkstein entwickelt, hoch genug, um die Küste zu überblicken, und vergleichsweise leicht zu verteidigen. Im Laufe der Jahrhunderte haben die Bewohner Durchgänge zu Treppen und Strandabgängen geschaffen, doch der Kontrast zwischen der dicht bebauten Stadt und dem Meeresraum ist erhalten geblieben.\n\nBei klarem Wetter reicht der Blick bis zu den Liparischen Inseln. Der Stromboli erscheint manchmal wie ein dunkler Kegel am Horizont, besonders bei Sonnenuntergang. Einst nutzten die Seeleute diese Erhebungen als Orientierungspunkte. Noch heute kündigen die Veränderungen der Sichtverhältnisse den Einwohnern einen Wechsel von Wind oder Luftfeuchtigkeit an, noch bevor Wetter-Apps dies bestätigen.\n\nLehnen Sie sich an die Brüstung und suchen Sie nach drei Linien: dem hellen Sandstreifen, dem Felsen von Santa Maria dell’Isola und in der Ferne der vulkanischen Silhouette. Beobachten Sie auch die Häuser, die unmittelbar an der Klippe errichtet wurden. Ihre Fundamente scheinen der Leere zu trotzen, doch sie verankern sich in einem Gelände, das dem gesamten historischen Zentrum seine Form aufgezwungen hat.\n\nEine örtliche Gewohnheit besteht darin, mehrmals am selben Tag hierher zurückzukehren. Am Morgen nimmt das Wasser transparente Töne an; am Mittag lässt das Licht die Konturen fast verschwinden; am Abend werden die Fassaden rosa, und die Boote ziehen silberne Spuren. Dieser Aussichtspunkt lässt sich also nie zweimal ganz auf dieselbe Weise erleben."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-it",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_it.mp3",
+      "sourceText": "Alla fine del Corso, la strada si interrompe di colpo e la Calabria si tuffa nell’azzurro. L’Affaccio dei Sospiri domina la spiaggia dal bordo del promontorio, a circa quaranta metri sopra il mare. Il soprannome, « belvedere dei sospiri», non ha nulla di ufficiale né di tragico: esprime piuttosto la reazione spontanea di chi scopre all’improvviso l’Isola, le scogliere e l’orizzonte.\n\nQuesta apertura spettacolare esiste grazie alla stessa geologia di Tropea. La città storica si è sviluppata su una terrazza di arenaria e calcare, abbastanza elevata da sorvegliare il litorale e relativamente facile da difendere. Nel corso dei secoli, gli abitanti hanno scavato passaggi verso le scale e le discese alla spiaggia, ma il contrasto tra la città raccolta e lo spazio del mare è rimasto intatto.\n\nCon il cielo limpido, lo sguardo arriva fino alle Isole Eolie. Stromboli appare talvolta come un cono scuro posato sull’orizzonte, soprattutto al tramonto. Un tempo i marinai utilizzavano questi rilievi come punti di riferimento visivi. Ancora oggi, le variazioni di visibilità annunciano agli abitanti un cambiamento di vento o di umidità prima ancora che le applicazioni meteo lo confermino.\n\nAppoggiatevi al parapetto e cercate tre linee: la fascia chiara della sabbia, la roccia di Santa Maria dell’Isola e, in lontananza, la sagoma vulcanica. Osservate anche le case costruite a ridosso della scogliera. Le loro fondamenta sembrano sfidare il vuoto, ma si ancorano a un terreno che ha imposto la sua forma a tutto il centro storico.\n\nUn’abitudine locale consiste nel tornare qui più volte nello stesso giorno. Al mattino, l’acqua assume toni trasparenti; a mezzogiorno, la luce cancella quasi i rilievi; la sera, le facciate si tingono di rosa e le barche tracciano solchi d’argento. Questo belvedere, dunque, non si visita mai due volte nello stesso modo."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-es",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_es.mp3",
+      "sourceText": "Al final del Corso, la calle se detiene en seco y Calabria se precipita en el azul. El Affaccio dei Sospiri domina la playa desde el borde del promontorio, a unos cuarenta metros sobre el mar. El sobrenombre, «mirador de los suspiros», no tiene nada de oficial ni de trágico: expresa más bien la reacción espontánea de quienes descubren de pronto la Isola, los acantilados y el horizonte.\n\nEsta apertura espectacular existe gracias a la propia geología de Tropea. La ciudad histórica se desarrolló sobre una terraza de arenisca y caliza, lo bastante elevada para vigilar el litoral y relativamente fácil de defender. A lo largo de los siglos, los habitantes abrieron pasos hacia las escaleras y los accesos a la playa, pero el contraste entre la ciudad compacta y el espacio marino se ha mantenido intacto.\n\nCon cielo despejado, la vista alcanza hasta las islas Eolias. Stromboli aparece a veces como un cono oscuro posado sobre el horizonte, sobre todo al atardecer. Antiguamente, los marineros utilizaban estos relieves como puntos de referencia visual. Aún hoy, las variaciones de visibilidad anuncian a los habitantes un cambio de viento o de humedad incluso antes de que las aplicaciones meteorológicas lo confirmen.\n\nApóyese en la balaustrada y busque tres líneas: la franja clara de arena, la roca de Santa Maria dell’Isola y, a lo lejos, la silueta volcánica. Observe también las casas construidas al borde del acantilado. Sus cimientos parecen desafiar el vacío, pero se afirman en un terreno que ha impuesto su forma a todo el casco antiguo.\n\nUna costumbre local consiste en volver aquí varias veces en el mismo día. Por la mañana, el agua adquiere tonos transparentes; al mediodía, la luz casi borra los relieves; al anochecer, las fachadas se vuelven rosadas y las barcas trazan surcos de plata. Por eso, este mirador nunca se visita dos veces exactamente de la misma manera."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-pl",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_pl.mp3",
+      "sourceText": "U końca Corso ulica urywa się nagle, a Kalabria przechyla się w błękit. Affaccio dei Sospiri góruje nad plażą z krawędzi cypla, około czterdzieści metrów nad morzem. Przydomek „balkon westchnień” nie ma nic oficjalnego ani tragicznego: oddaje raczej spontaniczną reakcję tych, którzy nagle odkrywają Isolę, klify i horyzont.\n\nTo spektakularne otwarcie istnieje dzięki samej geologii Tropei. Historyczne miasto rozwinęło się na tarasie z piaskowca i wapienia, wystarczająco wysokim, by kontrolować wybrzeże, i stosunkowo łatwym do obrony. Z biegiem wieków mieszkańcy wykuwali przejścia prowadzące do schodów i zejść na plażę, lecz kontrast między zwartą zabudową a morskim przestrzeniem pozostał nienaruszony.\n\nPrzy dobrej pogodzie wzrok sięga aż po Wyspy Liparyjskie. Stromboli czasem jawi się niczym ciemny stożek spoczywający na horyzoncie, zwłaszcza o zachodzie słońca. Dawniej marynarze wykorzystywali te wzniesienia jako punkty orientacyjne. Również dziś zmiany widzialności zapowiadają mieszkańcom zmianę wiatru lub wilgotności, zanim jeszcze potwierdzą to aplikacje pogodowe.\n\nOprzyj się o balustradę i wypatruj trzech linii: jasnego pasa piasku, skały Santa Maria dell’Isola i, w oddali, wulkanicznego zarysu. Zwróć też uwagę na domy zbudowane tuż przy krawędzi klifu. Ich fundamenty zdają się rzucać wyzwanie pustce, lecz zakorzeniają się w terenie, który narzucił swój kształt całemu staremu centrum.\n\nMiejscowym zwyczajem jest wracać tu kilka razy tego samego dnia. Rano woda przybiera przejrzyste odcienie; w południe światło niemal zaciera rzeźbę terenu; wieczorem fasady różowieją, a łodzie kreślą srebrne smugi. Tego punktu widokowego nigdy więc nie ogląda się dokładnie dwa razy tak samo."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-ar",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_ar.mp3",
+      "sourceText": "في نهاية كورسو، يتوقف الشارع فجأة، وتنقلب كالابريا إلى زرقة البحر. يطلّ «Affaccio dei Sospiri» على الشاطئ من حافة الرأس الصخري، على ارتفاع يقارب أربعين مترًا فوق البحر. أما اللقب، «شرفة الآهات»، فليس رسميًا ولا يحمل طابعًا مأساويًا؛ بل يعبّر على الأرجح عن ردّة الفعل العفوية لمن يكتشفون فجأةً الإيسولا والمنحدرات والأفق.\n\nهذا الانفتاح المدهش قائم بفضل جغرافيا تروبيا نفسها. فقد تطورت المدينة التاريخية فوق مصطبة من الحجر الرملي والحجر الجيري، مرتفعة بما يكفي لمراقبة الساحل وسهلة الدفاع نسبيًا. وعلى مرّ القرون، شقّ السكان ممرات تؤدي إلى السلالم والمنحدرات المؤدية إلى الشاطئ، لكن التباين بين المدينة المتراصة والفضاء البحري ظلّ قائمًا كما هو.\n\nفي الطقس الصحو، يمتدّ النظر حتى جزر إيوليا. ويظهر سترومبولي أحيانًا كأنه مخروط داكن موضوع على الأفق، ولا سيما عند غروب الشمس. وكان البحّارة قديمًا يستخدمون هذه التضاريس علاماتٍ بصرية. وحتى اليوم، تُنذر التغيّرات في مدى الرؤية السكانَ بتبدّل الرياح أو الرطوبة قبل أن تؤكدها تطبيقات الطقس.\n\nاستندوا إلى الحاجز الحجري وابحثوا عن ثلاثة خطوط: شريط الرمل الفاتح، وصخرة سانتا ماريا ديل إيزولا، وفي البعيد، الهيأة البركانية. لاحظوا أيضًا المنازل المبنية بمحاذاة الجرف. تبدو أساساتها وكأنها تتحدى الفراغ، لكنها ترتكز في أرض فرضت شكلها على كامل المركز القديم.\n\nومن العادات المحلية العودة إلى هنا مرات عدة في اليوم نفسه. ففي الصباح، تتخذ المياه ألوانًا شفافة؛ وعند الظهيرة، يكاد الضوء يمحو التضاريس؛ وفي المساء، تتحول الواجهات إلى اللون الوردي، وترسم القوارب أخاديد فضية. لذلك لا يمكن زيارة هذه الشرفة أبدًا بالطريقة نفسها تمامًا مرتين."
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-cn",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_cn.mp3",
+      "sourceText": "在 Corso 的尽头，街道突然戛然而止，卡拉布里亚一下子坠入蓝色之中。Affaccio dei Sospiri 位于岬角边缘，俯瞰海滩，海拔约四十米。这个绰号“叹息观景台”并不官方，也并不带有悲怆意味；它更像是那些初次看到 Isola、峭壁和地平线的人，自然而然发出的反应。\n\n这处壮观的开阔景致，正是托尔梅亚的地质所造就。历史城区建在一处砂岩和石灰岩台地之上，地势足够高，可以俯瞰海岸线，也相对便于防守。几个世纪以来，居民们开凿出通往楼梯和海滩下坡路的通道，但紧凑的城镇与辽阔海面之间的对比始终未变。\n\n天气晴朗时，目光甚至可以延伸到埃奥利群岛。斯特龙博利有时会像一个黑色的圆锥体，静静立在地平线上，尤其是在日落时分。过去，海员们把这些地貌当作视觉参照。直到今天，能见度的变化也会在天气应用确认之前，就先向当地人预示风向或湿度的改变。\n\n倚在栏杆上，寻找三条线：浅色的沙带、Santa Maria dell’Isola 的岩石，以及远处火山般的轮廓。也请留意那些紧贴悬崖而建的房屋。它们的地基仿佛在挑战虚空，却扎根于一片地形之中，正是这片地形塑造了整个老城的形态。\n\n当地有一种习惯，是在同一天里多次回到这里。清晨，海水呈现出清透的色调；正午，光线几乎抹平所有起伏；傍晚，建筑外墙泛起粉红色，船只划出银色的航迹。因此，这座观景台从来不会以完全相同的方式被造访两次。"
+    },
+    {
+      "id": "route-poi-Affaccio_dei_Sospiri-ja",
+      "label": "POI parcours: Affaccio dei Sospiri",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Affaccio_dei_Sospiri_ja.mp3",
+      "sourceText": "コルソ通りの突き当たりで道はぴたりと終わり、カラブリアは青へと落ち込んでいきます。アッファッチョ・デイ・ソッピリは、岬の縁から海抜約40メートルの高さで海岸を見下ろしています。愛称の「ため息の展望台」は、公式なものでも悲劇的なものでもなく、むしろ、イゾラ、断崖、そして地平線を目にした人が思わず抱く率直な反応を表しています。\n\nこの壮大な眺望は、まさにトロペーアの地質そのもののおかげで生まれました。歴史地区は砂岩と石灰岩の台地の上に発展し、海岸線を見渡せるほど高く、しかも防御しやすい地形でした。何世紀にもわたり、人々は階段や浜への降り口へ通じる通路を掘り開けてきましたが、密集した街並みと海の広がりとの対比は今も変わりません。\n\n晴れた日には、視線はエオリエ諸島まで届きます。ストロンボリ島は、とりわけ夕暮れ時に、地平線に置かれた暗い円錐のように見えることがあります。かつて船乗りたちは、これらの地形を目印として利用していました。今日でも、視界の変化は、天気予報アプリが確認するより先に、風向きや湿度の変化を住民に知らせてくれます。\n\n手すりにもたれかかり、三つの線を探してみてください。砂の明るい帯、サンタ・マリア・デッリゾラの岩、そして遠くに見える火山の輪郭です。断崖のすぐ際に建つ家々にも目を向けましょう。その土台は虚空に挑んでいるように見えますが、実際には旧市街全体に形を与えた地盤にしっかりと根を下ろしています。\n\n地元では、同じ日に何度もここへ戻ってくる習慣があります。朝は水面が透明な色合いを帯び、正午には光が起伏をほとんど消し去り、夕方には建物の фасадがピンク色に染まり、船が銀の筋を引きます。ですから、この展望台はまったく同じ姿で二度訪れることがありません。"
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-fr",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_fr.mp3",
+      "sourceText": "En bas des escaliers, Tropéa change de matière : la pierre des palais cède la place au sable clair, aux galets et aux parois sculptées par l’eau. La Spiaggia della Rotonda s’étend au pied du centre historique, protégée par le rocher de l’Isola. Sa position donne l’une des lectures les plus saisissantes de la ville, dont les maisons semblent former une muraille habitée au-dessus de la plage.\n\nLe littoral n’a jamais été immobile. Courants, tempêtes et dépôts de sable ont modifié la jonction entre le rocher et la côte. Les pêcheurs connaissaient chaque anfractuosité et utilisaient les petites cavités pour s’abriter ou ranger du matériel. La proximité d’anciens mouillages romains rappelle que cette portion de la mer Tyrrhénienne fut fréquentée bien avant l’essor du tourisme balnéaire.\n\nÀ côté, la Grotta del Palombaro intrigue par son accès lié aux conditions de mer. Son nom évoque le plongeur ou le pêcheur capable de se faufiler sous la roche. Lorsque la lumière pénètre par l’ouverture, l’eau prend une teinte turquoise presque irréelle. Il faut toutefois respecter les vagues et ne jamais s’engager dans une cavité lorsque la mer est agitée.\n\nDepuis le sable, observez la base de la falaise plutôt que seulement son sommet. Les couches rocheuses, les traces d’érosion et les murs de soutènement montrent le dialogue permanent entre géologie et urbanisme. Levez ensuite les yeux vers les balcons : vus d’ici, ils paraissent suspendus, et l’échelle de la falaise devient beaucoup plus impressionnante.\n\nCette plage possède enfin deux visages. Très animée en été, elle retrouve hors saison une atmosphère de promenade, traversée par les pêcheurs, les joggeurs et les habitants venus regarder les tempêtes. Même sans se baigner, la descente vaut le détour : c’est le seul endroit où l’on peut lire Tropéa de bas en haut, comme une coupe grandeur nature."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-nl",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_nl.mp3",
+      "sourceText": "Beneden aan de trappen verandert Tropea van materiaal: de steen van de paleizen maakt plaats voor licht zand, kiezels en door het water gebeeldhouwde wanden. De Spiaggia della Rotonda strekt zich uit aan de voet van het historische centrum, beschermd door de rots van de Isola. Door haar ligging biedt ze een van de meest indrukwekkende aanzichten op de stad, waarvan de huizen als een bewoonde vesting boven het strand lijken uit te rijzen.\n\nDe kustlijn is nooit onbeweeglijk geweest. Stromingen, stormen en zandafzettingen hebben de overgang tussen de rots en de kust veranderd. De vissers kenden elke spleet en gebruikten de kleine holtes om te schuilen of materiaal op te bergen. De nabijheid van oude Romeinse ankerplaatsen herinnert eraan dat dit deel van de Tyrreense Zee al lang bezocht werd, lang vóór de opkomst van het badtoerisme.\n\nNaast de strandzone intrigeert de Grotta del Palombaro door haar toegang, die afhankelijk is van de zeecondities. Haar naam roept de duiker of visser op die zich onder de rots kan wringen. Wanneer het licht via de opening binnendringt, krijgt het water een bijna onwerkelijke turquoise tint. Het is echter noodzakelijk de golven te respecteren en nooit een holte te betreden wanneer de zee onrustig is.\n\nKijk vanaf het zand liever naar de voet van de klif dan alleen naar de top. De gesteentelagen, sporen van erosie en steunmuren tonen de voortdurende dialoog tussen geologie en stedenbouw. Til daarna uw blik op naar de balkons: van hieruit lijken ze te zweven, en de schaal van de klif wordt veel indrukwekkender.\n\nDit strand heeft ten slotte twee gezichten. In de zomer is het er erg levendig; buiten het seizoen krijgt het weer een sfeer van een wandelpromenade, doorkruist door vissers, joggers en inwoners die komen kijken naar de stormen. Zelfs zonder te zwemmen is de afdaling de moeite waard: dit is de enige plek waar men Tropea van beneden naar boven kan lezen, als een doorsnede op ware grootte."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-en",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_en.mp3",
+      "sourceText": "At the foot of the stairs, Tropea changes texture: the stone of the palaces gives way to pale sand, pebbles, and walls shaped by water. Spiaggia della Rotonda stretches out at the foot of the historic center, sheltered by the rock of Isola. Its position offers one of the most striking views of the town, whose houses seem to form a inhabited wall above the beach.\n\nThe coastline has never been still. Currents, storms, and sand deposits have altered the meeting point between the rock and the shore. Fishermen knew every crevice and used the small cavities for shelter or to store equipment. The proximity of ancient Roman anchorages recalls that this stretch of the Tyrrhenian Sea was frequented long before the rise of seaside tourism.\n\nNearby, Grotta del Palombaro is intriguing because access depends on sea conditions. Its name evokes the diver or fisherman able to slip beneath the rock. When light enters through the opening, the water takes on an almost unreal turquoise hue. However, you must respect the waves and never venture into a cavity when the sea is rough.\n\nFrom the sand, look at the base of the cliff rather than only its summit. The rock layers, traces of erosion, and retaining walls show the constant dialogue between geology and urban planning. Then lift your eyes to the balconies: seen from here, they seem suspended, and the scale of the cliff becomes much more impressive.\n\nThis beach, finally, has two faces. Very lively in summer, it regains an atmosphere of strolling out of season, crossed by fishermen, joggers, and locals who come to watch the storms. Even without swimming, the descent is well worth it: it is the only place where you can read Tropea from bottom to top, like a life-size cross-section."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-de",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_de.mp3",
+      "sourceText": "Unten an der Treppe verändert Tropea seine Gestalt: Der Stein der Paläste macht hellem Sand, Kieseln und vom Wasser geformten Felswänden Platz. Die Spiaggia della Rotonda erstreckt sich am Fuße der Altstadt, geschützt vom Felsen der Isola. Ihre Lage eröffnet einen der eindrucksvollsten Blicke auf die Stadt, deren Häuser wie eine bewohnte Mauer über dem Strand zu stehen scheinen.\n\nDie Küste war nie unbeweglich. Strömungen, Stürme und Sandablagerungen haben die Verbindung zwischen Felsen und Küste verändert. Die Fischer kannten jede Unebenheit und nutzten die kleinen Nischen, um Schutz zu suchen oder Ausrüstung zu lagern. Die Nähe alter römischer Ankerplätze erinnert daran, dass dieser Abschnitt des Tyrrhenischen Meeres schon lange vor dem Aufschwung des Badetourismus besucht wurde.\n\nNebenan gibt die Grotta del Palombaro Rätsel auf, weil ihr Zugang von den Meeresbedingungen abhängt. Ihr Name erinnert an den Taucher oder Fischer, der sich unter dem Felsen hindurchzuschlängeln vermag. Wenn das Licht durch die Öffnung fällt, nimmt das Wasser einen fast unwirklichen türkisfarbenen Ton an. Man muss jedoch die Wellen respektieren und sich niemals in eine Höhle begeben, wenn das Meer unruhig ist.\n\nBeobachten Sie vom Sand aus lieber den Fuß der Klippe als nur ihren Gipfel. Die Gesteinsschichten, Erosionsspuren und Stützmauern zeigen den ständigen Dialog zwischen Geologie und Stadtplanung. Heben Sie dann den Blick zu den Balkonen: Von hier unten wirken sie schwebend, und das Ausmaß der Klippe wird viel eindrucksvoller.\n\nDieser Strand hat schließlich zwei Gesichter. Im Sommer sehr belebt, gewinnt er außerhalb der Saison eine Spaziergangsatmosphäre zurück, durchzogen von Fischern, Joggern und Einwohnern, die kommen, um die Stürme zu beobachten. Auch ohne zu baden lohnt sich der Abstieg: Es ist der einzige Ort, an dem man Tropea von unten nach oben lesen kann, wie einen Querschnitt in Lebensgröße."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-it",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_it.mp3",
+      "sourceText": "In fondo alle scale, Tropea cambia materia: la pietra dei palazzi lascia il posto alla sabbia chiara, ai ciottoli e alle pareti scolpite dall’acqua. La Spiaggia della Rotonda si estende ai piedi del centro storico, protetta dalla roccia dell’Isola. La sua posizione offre una delle letture più sorprendenti della città, le cui case sembrano formare una muraglia abitata sopra la spiaggia.\n\nLa costa non è mai stata immobile. Correnti, tempeste e depositi di sabbia hanno modificato il punto d’incontro tra la roccia e il litorale. I pescatori conoscevano ogni anfratto e usavano le piccole cavità per ripararsi o riporre l’attrezzatura. La vicinanza di antichi ormeggi romani ricorda che questo tratto del mar Tirreno era frequentato ben prima dello sviluppo del turismo balneare.\n\nAccanto, la Grotta del Palombaro incuriosisce per il suo accesso legato alle condizioni del mare. Il suo nome evoca il sub o il pescatore capace di insinuarsi sotto la roccia. Quando la luce penetra dall’apertura, l’acqua assume una tonalità turchese quasi irreale. Bisogna però rispettare le onde e non avventurarsi mai in una cavità quando il mare è agitato.\n\nDalla sabbia, osservate la base della falesia piuttosto che solo la sua sommità. Gli strati rocciosi, le tracce di erosione e i muri di contenimento mostrano il dialogo costante tra geologia e urbanistica. Poi alzate lo sguardo verso i balconi: visti da qui, sembrano sospesi, e la scala della falesia diventa molto più impressionante.\n\nQuesta spiaggia, infine, ha due volti. Molto animata d’estate, fuori stagione ritrova un’atmosfera da passeggiata, attraversata dai pescatori, dai jogger e dagli abitanti venuti a guardare le tempeste. Anche senza fare il bagno, la discesa vale la pena: è l’unico punto in cui si può leggere Tropea dal basso verso l’alto, come una sezione a grandezza naturale."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-es",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_es.mp3",
+      "sourceText": "Al pie de las escaleras, Tropea cambia de materia: la piedra de los palacios cede el paso a la arena clara, los guijarros y las paredes esculpidas por el agua. La Spiaggia della Rotonda se extiende al pie del centro histórico, protegida por la roca de la Isola. Su ubicación ofrece una de las lecturas más impactantes de la ciudad, cuyas casas parecen formar una muralla habitada sobre la playa.\n\nEl litoral nunca ha sido inmóvil. Las corrientes, las tormentas y los depósitos de arena han modificado la unión entre la roca y la costa. Los pescadores conocían cada grieta y utilizaban las pequeñas cavidades para refugiarse o guardar el equipo. La proximidad de antiguos fondeaderos romanos recuerda que este tramo del mar Tirreno fue frecuentado mucho antes del auge del turismo de playa.\n\nAl lado, la Grotta del Palombaro intriga por su acceso condicionado por el estado del mar. Su nombre evoca al buzo o al pescador capaz de deslizarse bajo la roca. Cuando la luz penetra por la abertura, el agua adquiere un tono turquesa casi irreal. Sin embargo, hay que respetar las olas y no adentrarse nunca en una cavidad cuando el mar está agitado.\n\nDesde la arena, observe la base del acantilado más que solo su cima. Las capas rocosas, las huellas de la erosión y los muros de contención muestran el diálogo permanente entre geología y urbanismo. Después, levante la vista hacia los balcones: vistos desde aquí, parecen suspendidos, y la escala del acantilado resulta mucho más impresionante.\n\nPor último, esta playa tiene dos caras. Muy animada en verano, fuera de temporada recobra una atmósfera de paseo, atravesada por pescadores, corredores y vecinos venidos a contemplar las tormentas. Incluso sin bañarse, la bajada merece la pena: es el único lugar donde se puede leer Tropea de abajo arriba, como un corte a tamaño real."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-pl",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_pl.mp3",
+      "sourceText": "Na dole schodów Tropea zmienia swoją materię: kamień pałaców ustępuje miejsca jasnemu piaskowi, otocznikom i ścianom wyrzeźbionym przez wodę. Spiaggia della Rotonda rozciąga się u stóp historycznego centrum, osłonięta przez skałę Isola. Z tego miejsca rozpościera się jeden z najbardziej uderzających widoków na miasto, którego domy zdają się tworzyć zamieszkaną murawę nad plażą.\n\nLinia brzegowa nigdy nie była nieruchoma. Prądy, sztormy i osady piasku zmieniały styczność między skałą a wybrzeżem. Rybacy znali każdą szczelinę i wykorzystywali małe groty jako schronienie lub miejsce do przechowywania sprzętu. Bliskość dawnych rzymskich kotwicowisk przypomina, że ten fragment Morza Tyrreńskiego był uczęszczany na długo przed rozwojem turystyki wypoczynkowej.\n\nObok Grotta del Palombaro intryguje swoim dostępem zależnym od warunków morskich. Jej nazwa przywołuje nurka lub rybaka, który potrafi przecisnąć się pod skałą. Gdy światło wpada przez otwór, woda nabiera niemal nierealnej turkusowej barwy. Trzeba jednak szanować fale i nigdy nie wchodzić do groty, gdy morze jest wzburzone.\n\nZ piasku przyjrzyjcie się raczej podstawie klifu niż tylko jego szczytowi. Warstwy skalne, ślady erozji i mury oporowe pokazują nieustanny dialog między geologią a urbanistyką. Następnie podnieście wzrok ku balkonom: widziane stąd wydają się zawieszone, a skala klifu staje się znacznie bardziej imponująca.\n\nTa plaża ma wreszcie dwa oblicza. Latem tętni życiem, poza sezonem odzyskuje atmosferę spacerową, przecinaną przez rybaków, biegaczy i mieszkańców, którzy przychodzą oglądać sztormy. Nawet bez kąpieli warto zejść na dół: to jedyne miejsce, z którego można odczytać Tropéę od dołu ku górze, niczym naturalny przekrój w skali 1:1."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-ar",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_ar.mp3",
+      "sourceText": "في أسفل الدرجات، تتبدّل مادة تروبيه: فحجر القصور يفسح المجال أمام الرمل الفاتح والحصى والجدران المنحوتة بالماء. تمتد شاطئ سبياغيا ديلا روتوندا عند سفح المركز التاريخي، محمية بصخرة إيزولا. ويمنحها موقعها إحدى أكثر القراءات إبهارًا للمدينة، حيث تبدو البيوت وكأنها تشكّل سورًا حيًّا فوق الشاطئ.\n\nلم يكن الساحل يومًا ثابتًا. فقد أدّت التيارات والعواصف وترسّبات الرمل إلى تغيير الوصلة بين الصخرة والشاطئ. وكان الصيادون يعرفون كل شقٍّ في الصخور، ويستخدمون التجاويف الصغيرة للاختباء أو لحفظ المعدات. وتذكّرنا القرب من مراسي رومانية قديمة بأن هذا الجزء من البحر التيراني كان مقصدًا وممراً مأهولًا قبل زمن طويل من ازدهار السياحة الشاطئية.\n\nوبالقرب منها، تثير غروتا ديل بالومبارو الفضول بفضل مدخلها المرتبط بحالة البحر. ويستحضر اسمها الغطّاس أو الصياد القادر على التسلّل تحت الصخر. وعندما يتسرّب الضوء عبر الفتحة، يكتسب الماء لونًا فيروزيًا يكاد يكون غير واقعي. لكن ينبغي مع ذلك احترام الأمواج وعدم التوغل أبدًا في أي تجويف عندما يكون البحر هائجًا.\n\nومن على الرمل، تأمّل قاعدة الجرف بدلًا من قمته فقط. فالطبقات الصخرية وآثار التعرية وجدران التدعيم تُظهر الحوار الدائم بين الجيولوجيا والعمران. ثم ارفع بصرك إلى الشرفات: فمن هنا تبدو معلّقة، ويغدو مقياس الجرف أكثر إبهارًا بكثير.\n\nوللشاطئ أخيرًا وجهان. فهو نابض بالحياة في الصيف، ثم يستعيد خارج الموسم أجواء التنزّه، حيث يعبره الصيادون والعدّاؤون والسكان الذين يأتون لمشاهدة العواصف. وحتى من دون السباحة، تستحقّ النزلة العناء: فهو المكان الوحيد الذي يمكن فيه قراءة تروبيه من الأسفل إلى الأعلى، كما لو كانت مقطعًا حقيقيًا بالحجم الطبيعي."
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-cn",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_cn.mp3",
+      "sourceText": "走下台阶后，特罗佩阿的质感随之改变：宫殿的石材让位于浅色沙滩、卵石和被海水雕琢的岩壁。罗通达海滩（Spiaggia della Rotonda）位于历史中心脚下，受伊索拉岩（Isola）庇护。这里的视角呈现出这座城市最令人震撼的景象之一：房屋仿佛在海滩上方筑起了一道有人居住的城墙。\n\n这片海岸线从未静止不变。洋流、风暴和沙粒沉积不断改变着岩石与海岸之间的连接。渔民熟悉每一道岩缝，并利用这些小洞穴避风或存放器具。附近古罗马停泊点的存在也提醒人们，这一段第勒尼安海早在海滨旅游兴起之前就已有人往来。\n\n旁边的鸽人洞（Grotta del Palombaro）因其与海况相关的入口而引人入胜。它的名字让人联想到能够从岩石下方悄然穿行的潜水员或渔夫。当光线从洞口照入时，海水会呈现出近乎不真实的碧蓝绿。尽管如此，仍必须尊重海浪，绝不可在海面波涛汹涌时进入任何洞穴。\n\n站在沙滩上，请观察悬崖的基部，而不只是它的顶部。岩层、侵蚀痕迹和挡土墙展示出地质与城市规划之间持续不断的对话。随后抬头望向阳台：从这里看去，它们仿佛悬在空中，悬崖的尺度也显得更加震撼。\n\n这片海滩最后还呈现出两种面貌。夏季时这里热闹非凡；到了淡季，则恢复为一处适合漫步的地方，渔民、慢跑者和前来观赏风暴的居民穿行其间。即使不下水，这段下行之路也值得一看：只有在这里，才能从下往上阅读特罗佩阿，如同一幅按真实比例展开的剖面图。"
+    },
+    {
+      "id": "route-poi-Spiaggia_della_Rotonda_et_Grotta_del_Palombaro-ja",
+      "label": "POI parcours: Spiaggia della Rotonda et Grotta del Palombaro",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Spiaggia_della_Rotonda_et_Grotta_del_Palombaro_ja.mp3",
+      "sourceText": "階段を下りると、トロペーアは姿を変えます。宮殿の石は、明るい砂と小石、そして水によって削られた岩肌に取って代わられます。スピアッジャ・デッラ・ロトンダは旧市街の麓に広がり、イゾラの岩に守られています。この場所からは、この町の最も印象的な眺めのひとつが得られます。家々は、まるで浜の上に生きた城壁を築いているかのようです。\n\n海岸線は、決して静止していたわけではありません。海流、嵐、砂の堆積が、岩と海岸の接点を変えてきました。漁師たちはあらゆる割れ目を知り尽くし、小さなくぼみを避難や道具の収納に使っていました。古代ローマ時代の停泊地が近くにあることは、このティレニア海の一角が、海水浴観光が発展するずっと以前から行き交いの場であったことを思い起こさせます。\n\nその隣にあるグロッタ・デル・パロンバーロは、海の状態によって左右される入口が興味をそそります。その名は、岩の下をすり抜けることのできるダイバー、あるいは漁師を思わせます。光が入口から差し込むと、水面はほとんど現実離れしたターコイズ色に染まります。ただし、波を尊重し、海が荒れているときには決して洞窟の中へ入ってはなりません。\n\n砂浜からは、頂上だけでなく崖の基部にも目を向けてください。岩層、浸食の痕跡、そして支えの壁が、地質と都市計画のあいだに絶えず続く対話を示しています。次にバルコニーへと視線を上げましょう。ここから見ると、それらは宙に浮かんでいるように見え、崖のスケールがはるかに印象的に感じられます。\n\nこの浜には、最後に二つの表情があります。夏にはとても賑わいますが、季節外れには散策の雰囲気を取り戻し、漁師やジョガー、嵐を見に来た住民たちが行き交います。泳がなくても、ここまで下りてくる価値は十分あります。トロペーアを下から上まで読み解ける、等身大の断面図のような、唯一の場所なのです。"
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-fr",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "fr",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_fr.mp3",
+      "sourceText": "Posé sur son rocher comme un navire blanc échoué devant la ville, Santa Maria dell’Isola est l’image la plus célèbre de Tropéa. Le promontoire était autrefois entouré par la mer, ce qui explique le nom d’« Isola ». Les dépôts de sable et les transformations du littoral l’ont progressivement relié à la terre ferme, mais la sensation d’isolement demeure lorsque l’on gravit l’escalier.\n\nLe sanctuaire est mentionné dès le Moyen Âge et fut lié pendant des siècles à l’abbaye bénédictine de Montecassino. Sa position en faisait à la fois un lieu de prière, un repère pour les navigateurs et un point de contrôle visuel sur la côte. Plusieurs séismes, notamment ceux de 1783 et de 1905, endommagèrent profondément le bâtiment, qui fut restauré et en partie reconstruit.\n\nL’aspect actuel, avec ses volumes clairs et son jardin suspendu, résulte donc d’une longue histoire de réparations. Les lignes simples ne doivent pas faire croire à une architecture intacte depuis le Moyen Âge. Chaque mur traduit un compromis entre la mémoire du sanctuaire, la stabilité du rocher et les choix esthétiques des restaurateurs.\n\nMontez lentement et retournez-vous à plusieurs reprises. La vue change à chaque palier : d’abord la plage, puis les maisons accrochées à la falaise, enfin l’horizon des Éoliennes. Dans le jardin, cherchez les cadrages qui isolent un pin, une arche ou un fragment de mer. Le site a été conçu autant pour la contemplation que pour la circulation.\n\nUne légende raconte qu’un navire transportant une statue de la Vierge se serait immobilisé au large et n’aurait pu repartir qu’après avoir laissé l’image sur le rocher. Qu’elle soit historique ou non, l’histoire exprime parfaitement le pouvoir d’attraction du lieu. Santa Maria dell’Isola semble retenir tout ce qui passe devant elle : bateaux, regards et souvenirs."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-nl",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "nl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_nl.mp3",
+      "sourceText": "Op zijn rots neergezet als een wit gestrande boot voor de stad is Santa Maria dell’Isola het bekendste beeld van Tropea. De landtong werd vroeger omgeven door zee, wat de naam ‘Isola’ verklaart. Zandafzettingen en veranderingen langs de kust hebben haar geleidelijk met het vasteland verbonden, maar het gevoel van afzondering blijft bestaan wanneer men de trap beklimt.\n\nHet heiligdom wordt al in de Middeleeuwen genoemd en stond eeuwenlang in verband met de benedictijnenabdij van Montecassino. Door zijn ligging was het tegelijk een gebedsplaats, een herkenningspunt voor zeevaarders en een visueel controlepunt aan de kust. Verschillende aardbevingen, met name die van 1783 en 1905, beschadigden het gebouw ernstig; het werd gerestaureerd en deels herbouwd.\n\nHet huidige aanzicht, met zijn lichte volumes en hangende tuin, is dus het resultaat van een lange geschiedenis van herstellingen. De eenvoudige lijnen mogen niet doen vermoeden dat de architectuur sinds de Middeleeuwen ongeschonden is gebleven. Elke muur weerspiegelt een compromis tussen het geheugen van het heiligdom, de stabiliteit van de rots en de esthetische keuzes van de restaurateurs.\n\nGa langzaam omhoog en draai u meerdere keren om. Het uitzicht verandert bij elke tussenverdieping: eerst het strand, dan de huizen die zich aan de klif vastklampen, en ten slotte de horizon van de Eolische Eilanden. Zoek in de tuin naar doorkijkjes die een den, een boog of een stukje zee isoleren. De plek is evenzeer ontworpen voor contemplatie als voor beweging.\n\nVolgens een legende zou een schip met een beeld van de Maagd Maria voor anker zijn gegaan en pas opnieuw hebben kunnen varen nadat het beeld op de rots was achtergelaten. Historisch of niet, het verhaal drukt perfect de aantrekkingskracht van deze plek uit. Santa Maria dell’Isola lijkt alles vast te houden wat eraan voorbijgaat: boten, blikken en herinneringen."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-en",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "en",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_en.mp3",
+      "sourceText": "Perched on its rock like a white ship stranded before the town, Santa Maria dell’Isola is Tropéa’s most famous image. The promontory was once surrounded by the sea, which explains the name “Isola.” Sand deposits and changes to the coastline gradually connected it to the mainland, but the feeling of isolation remains as you climb the staircase.\n\nThe sanctuary is mentioned as early as the Middle Ages and was linked for centuries to the Benedictine abbey of Montecassino. Its position made it at once a place of prayer, a landmark for sailors, and a visual lookout point over the coast. Several earthquakes, notably those of 1783 and 1905, severely damaged the building, which was restored and partly rebuilt.\n\nIts present appearance, with its clear volumes and hanging garden, is therefore the result of a long history of repairs. The simple lines should not suggest architecture unchanged since the Middle Ages. Every wall reflects a compromise between the sanctuary’s memory, the stability of the rock, and the restorers’ aesthetic choices.\n\nClimb slowly and turn around several times. The view changes at every landing: first the beach, then the houses clinging to the cliff, and finally the horizon of the Aeolian Islands. In the garden, look for viewpoints that isolate a pine tree, an arch, or a fragment of sea. The site was designed as much for contemplation as for movement.\n\nA legend tells of a ship carrying a statue of the Virgin that is said to have come to a stop offshore and could not set sail again until it left the image on the rock. Whether historical or not, the story perfectly expresses the site’s power of attraction. Santa Maria dell’Isola seems to hold on to everything that passes before it: boats, gazes, and memories."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-de",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "de",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_de.mp3",
+      "sourceText": "Auf seinem Felsen wie ein weißes, vor der Stadt gestrandetes Schiff gelegen, ist Santa Maria dell’Isola das bekannteste Wahrzeichen von Tropea. Der Felsvorsprung war einst vom Meer umgeben, was den Namen „Isola“ erklärt. Sandablagerungen und Veränderungen der Küstenlinie verbanden ihn nach und nach mit dem Festland, doch das Gefühl der Abgeschiedenheit bleibt, wenn man die Treppe hinaufsteigt.\n\nDas Heiligtum wird bereits im Mittelalter erwähnt und war über Jahrhunderte mit der Benediktinerabtei von Montecassino verbunden. Seine Lage machte es zugleich zu einem Ort des Gebets, zu einem Orientierungspunkt für Seefahrer und zu einem visuellen Kontrollpunkt an der Küste. Mehrere Erdbeben, insbesondere die von 1783 und 1905, beschädigten das Gebäude schwer; es wurde restauriert und teilweise wiederaufgebaut.\n\nDas heutige Erscheinungsbild mit seinen klaren Volumen und dem schwebenden Garten ist daher das Ergebnis einer langen Geschichte von Reparaturen. Die schlichten Linien dürfen nicht darüber hinwegtäuschen, dass die Architektur nicht unverändert seit dem Mittelalter erhalten ist. Jede Mauer zeugt von einem Kompromiss zwischen der Erinnerung an das Heiligtum, der Stabilität des Felsens und den ästhetischen Entscheidungen der Restauratoren.\n\nSteigen Sie langsam hinauf und wenden Sie sich mehrmals um. Der Blick verändert sich auf jeder Ebene: zuerst der Strand, dann die an die Klippe gekauerten Häuser, schließlich der Horizont der Äolischen Inseln. Suchen Sie im Garten nach Blickachsen, die eine Pinie, einen Bogen oder ein Stück Meer freistellen. Der Ort wurde ebenso sehr für die Kontemplation wie für die Bewegung gestaltet.\n\nEiner Legende zufolge soll ein Schiff, das eine Marienstatue an Bord hatte, vor der Küste zum Stillstand gekommen sein und erst weiterfahren können, nachdem es das Bild auf dem Felsen zurückgelassen hatte. Ob historisch oder nicht, die Geschichte bringt die Anziehungskraft dieses Ortes vollkommen zum Ausdruck. Santa Maria dell’Isola scheint alles festzuhalten, was an ihr vorüberzieht: Boote, Blicke und Erinnerungen."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-it",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "it",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_it.mp3",
+      "sourceText": "Posato sul suo scoglio come una nave bianca arenata davanti alla città, Santa Maria dell’Isola è l’immagine più celebre di Tropea. Il promontorio era un tempo circondato dal mare, il che spiega il nome di «Isola». I depositi di sabbia e le trasformazioni della costa lo hanno progressivamente collegato alla terraferma, ma la sensazione di isolamento permane quando si sale la scalinata.\n\nIl santuario è menzionato sin dal Medioevo e per secoli fu legato all’abbazia benedettina di Montecassino. La sua posizione ne faceva al tempo stesso un luogo di preghiera, un punto di riferimento per i navigatori e un punto di controllo visivo sulla costa. Diversi terremoti, in particolare quelli del 1783 e del 1905, danneggiarono profondamente l’edificio, che fu restaurato e in parte ricostruito.\n\nL’aspetto attuale, con i suoi volumi chiari e il giardino pensile, è quindi il risultato di una lunga storia di riparazioni. Le linee semplici non devono far pensare a un’architettura intatta fin dal Medioevo. Ogni muro traduce un compromesso tra la memoria del santuario, la stabilità dello scoglio e le scelte estetiche dei restauratori.\n\nSalite lentamente e voltatevi più volte. La vista cambia a ogni pianerottolo: prima la spiaggia, poi le case aggrappate alla scogliera, infine l’orizzonte delle Isole Eolie. Nel giardino, cercate gli scorci che isolano un pino, un arco o un frammento di mare. Il sito è stato concepito tanto per la contemplazione quanto per il passaggio.\n\nUna leggenda racconta che una nave che trasportava una statua della Vergine si sarebbe fermata al largo e non sarebbe riuscita a ripartire se non dopo aver lasciato l’immagine sullo scoglio. Storica o meno, la storia esprime perfettamente il potere di attrazione del luogo. Santa Maria dell’Isola sembra trattenere tutto ciò che le passa davanti: barche, sguardi e ricordi."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-es",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "es",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_es.mp3",
+      "sourceText": "Posada sobre su roca como un barco blanco varado frente a la ciudad, Santa Maria dell’Isola es la imagen más célebre de Tropea. El promontorio estuvo antaño rodeado por el mar, lo que explica el nombre de «Isola». Los depósitos de arena y las transformaciones del litoral la fueron uniendo poco a poco a tierra firme, pero la sensación de aislamiento permanece cuando se sube la escalera.\n\nEl santuario se menciona ya en la Edad Media y estuvo vinculado durante siglos a la abadía benedictina de Montecassino. Su posición lo convirtió a la vez en un lugar de oración, un punto de referencia para los navegantes y un punto de control visual sobre la costa. Varios terremotos, en particular los de 1783 y 1905, dañaron profundamente el edificio, que fue restaurado y en parte reconstruido.\n\nEl aspecto actual, con sus volúmenes claros y su jardín suspendido, es por tanto el resultado de una larga historia de reparaciones. Las líneas sencillas no deben hacer pensar en una arquitectura intacta desde la Edad Media. Cada muro refleja un compromiso entre la memoria del santuario, la estabilidad de la roca y las decisiones estéticas de los restauradores.\n\nSuba despacio y gírese varias veces. La vista cambia en cada rellano: primero la playa, luego las casas aferradas al acantilado, por último el horizonte de las islas Eolias. En el jardín, busque los encuadres que aíslen un pino, un arco o un fragmento de mar. El lugar ha sido concebido tanto para la contemplación como para la circulación.\n\nCuenta una leyenda que un barco que transportaba una estatua de la Virgen habría quedado inmóvil mar adentro y solo habría podido partir después de dejar la imagen sobre la roca. Sea o no histórica, la historia expresa perfectamente el poder de atracción del lugar. Santa Maria dell’Isola parece retener todo lo que pasa ante ella: barcos, miradas y recuerdos."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-pl",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "pl",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_pl.mp3",
+      "sourceText": "Położone na skale niczym biały okręt osiadły na mieliźnie przed miastem, Santa Maria dell’Isola jest najsłynniejszym symbolem Tropei. Dawniej ten cypel był otoczony morzem, stąd nazwa „Isola”. Osady piasku i przemiany linii brzegowej stopniowo połączyły go z lądem, lecz wrażenie odosobnienia pozostaje, gdy wchodzi się po schodach.\n\nSanktuarium wzmiankowano już w średniowieczu i przez wieki było związane z benedyktyńskim opactwem w Montecassino. Jego położenie czyniło z niego zarazem miejsce modlitwy, punkt orientacyjny dla żeglarzy i miejsce obserwacji wybrzeża. Kilka trzęsień ziemi, zwłaszcza w 1783 i 1905 roku, poważnie uszkodziło budowlę, która została odrestaurowana i częściowo odbudowana.\n\nObecny wygląd, z jasnymi bryłami i zawieszonym ogrodem, jest więc wynikiem długiej historii napraw. Proste linie nie powinny sugerować architektury nienaruszonej od średniowiecza. Każda ściana odzwierciedla kompromis między pamięcią sanktuarium, stabilnością skały i estetycznymi wyborami restauratorów.\n\nWchodź powoli i kilkakrotnie się odwracaj. Widok zmienia się na każdym półpiętrze: najpierw plaża, potem domy przyczepione do klifu, wreszcie horyzont Wysp Eolskich. W ogrodzie szukaj kadrów, które wyodrębniają sosnę, arkadę albo fragment morza. Miejsce to zaprojektowano zarówno do kontemplacji, jak i do przemieszczania się.\n\nLegenda głosi, że statek przewożący figurę Matki Boskiej miał zatrzymać się na morzu i mógł ruszyć dalej dopiero wtedy, gdy pozostawiono wizerunek na skale. Niezależnie od tego, czy jest prawdziwa, historia ta doskonale oddaje siłę przyciągania tego miejsca. Santa Maria dell’Isola zdaje się zatrzymywać wszystko, co mija ją po drodze: statki, spojrzenia i wspomnienia."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-ar",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "ar",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_ar.mp3",
+      "sourceText": "على صخرتها كأنها سفينة بيضاء جنحت أمام المدينة، تُعدّ سانتا ماريا ديل إيزولا الصورة الأشهر لتروبيا. وكان رأس الأرض هذا محاطًا بالبحر في الماضي، وهو ما يفسّر اسم «إيزولا». وقد أدّت الترسبات الرملية وتحوّلات الساحل إلى وصله تدريجيًا باليابسة، لكن إحساس العزلة يبقى حاضرًا حين يصعد المرء الدرج.\n\nيُذكر هذا المزار منذ العصور الوسطى، وكان مرتبطًا لقرون بدير مونتكاسينو البينيديكتيني. وقد جعلته موقعه مكانًا للصلاة، وعلامة يهتدي بها البحارة، ونقطة مراقبة بصرية على الساحل في آن واحد. وقد ألحقت عدة زلازل، ولا سيما زلزالي 1783 و1905، أضرارًا بالغة بالمبنى، ثم جرى ترميمه وإعادة بنائه جزئيًا.\n\nلذلك فإن مظهره الحالي، بأحجامه الواضحة وحديقته المعلّقة، هو ثمرة تاريخ طويل من الإصلاحات. ولا ينبغي أن توحي الخطوط البسيطة بعمارة بقيت سليمة منذ العصور الوسطى. فكل جدار يعكس تسويةً بين ذاكرة المزار، واستقرار الصخرة، والخيارات الجمالية للمُرمّمين.\n\nاصعد ببطء و التفت إلى الخلف مرارًا. يتغيّر المشهد عند كل مستوى: أولًا الشاطئ، ثم البيوت المتشبثة بالجرف، وأخيرًا أفق الجزر الإيولية. وفي الحديقة، ابحث عن الزوايا التي تعزل صنوبرة أو قوسًا أو جزءًا من البحر. لقد صُمّم الموقع بقدر ما هو للتأمل، بقدر ما هو للحركة.\n\nتروي أسطورة أن سفينة كانت تنقل تمثالًا للعذراء قد توقفت في عرض البحر ولم تستطع الإبحار من جديد إلا بعد أن تركت الصورة على الصخرة. سواء كانت هذه القصة تاريخية أم لا، فهي تعبّر تمامًا عن قوة جاذبية المكان. يبدو أن سانتا ماريا ديل إيزولا تحتفظ بكل ما يمرّ أمامها: السفن، والأنظار، والذكريات."
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-cn",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "cn",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_cn.mp3",
+      "sourceText": "圣玛丽亚德尔伊索拉（Santa Maria dell’Isola）矗立在岩石之上，宛如一艘白色的船只搁浅在城市前方，是特罗佩阿最著名的景象。这个突出的岩丘过去曾四面环海，这也解释了“Isola”这一名称的由来。沙沉积和海岸线的变迁逐渐将它与陆地连接起来，但当你沿着台阶攀登时，依然能感受到那种与世隔绝的氛围。\n\n这座圣所早在中世纪便已见于记载，并在数个世纪里隶属于卡西诺山圣本笃修道院。它的地理位置使其既是祈祷之地、航海者的地标，也是海岸上的视觉监控点。多次地震，尤其是1783年和1905年的地震，严重损毁了这座建筑，随后它经过修复并部分重建。\n\n如今的面貌，包括明亮的体量和悬空花园，正是漫长修复历史的结果。简洁的线条不应让人误以为它自中世纪以来始终完好无损。每一面墙都体现着圣所记忆、岩石稳定性与修复者审美选择之间的折衷。\n\n请缓步向上，并多次回头张望。每一段台阶上的景色都不同：先是海滩，然后是依附在悬崖上的房屋，最后是伊奥利亚群岛的地平线。在花园里，寻找那些将一棵松树、一道拱门或一片海景单独框出的视角。这里的设计既为了观赏，也为了通行。\n\n传说一艘运送圣母像的船只曾在近海停住，只有把圣像留在岩石上才得以继续航行。无论这段故事是否属实，它都完美表达了此地的吸引力。圣玛丽亚德尔伊索拉似乎留住了从它眼前经过的一切：船只、目光与回忆。"
+    },
+    {
+      "id": "route-poi-Santuario_di_Santa_Maria_dell_Isola-ja",
+      "label": "POI parcours: Santuario di Santa Maria dell’Isola",
+      "lang": "ja",
+      "status": "generate",
+      "kind": "route-poi",
+      "routeCircuitKey": "",
+      "expectedPath": "audio/Santuario_di_Santa_Maria_dell_Isola_ja.mp3",
+      "sourceText": "町の前に打ち上げられた白い船のように岩の上にそびえるサンタ・マリア・デッリソーラは、トロペーアで最も有名な風景です。かつてこの岬は海に四方を囲まれており、そのために「イスーラ」という名が付いたのです。砂の堆積と海岸線の変化によって、ここは次第に本土とつながりましたが、階段を上ると今もなお孤立した感覚が残ります。\n\nこの聖所は中世にはすでに記録されており、何世紀にもわたってモンテカッシーノのベネディクト会修道院と結びついていました。その立地は、祈りの場であると同時に、航海者の目印であり、海岸を見渡す視覚的な監視地点でもありました。とりわけ1783年と1905年の地震をはじめ、いくつもの地震によって建物は深刻な被害を受け、その後修復され、一部は再建されました。\n\nしたがって、現在の姿――明るいボリュームと空に浮かぶような庭園――は、長い修復の歴史の結果です。シンプルな線から、中世以来そのまま残る建築だと思ってはいけません。ひとつひとつの壁には、聖所の記憶、岩の安定性、そして修復家たちの美的選択のあいだでの妥協が刻まれています。\n\nゆっくりと登り、何度も振り返ってみてください。景色は踊り場ごとに変化します。最初は海岸、次に崖に張りつく家々、そして最後にエオリア諸島の水平線。庭では、一本の松、アーチ、あるいは海の一片を切り取るような額縁のような眺めを探してみてください。この場所は、眺めるためだけでなく、移動するためにも設計されています。\n\nある伝説によれば、聖母像を運んでいた船が沖合で動けなくなり、岩の上にその像を残してはじめて再び出航できたといいます。史実であるかどうかは別として、この物語はこの場所の引力を見事に表しています。サンタ・マリア・デッリソーラは、前を通り過ぎるあらゆるもの――船、視線、そして記憶までも――を引き留めているかのようです。"
+    }
+  ]
+}

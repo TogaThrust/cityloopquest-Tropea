@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "distanceNote": "Les distances et temps dépendent de la circulation. En urgence vitale, appeler immédiatement le 112 ou le 118. Les tours de garde doivent être vérifiés le jour même."
+  },
+  "emergencyByCountry": {
+    "italie": {
+      "general": "112",
+      "police": "113",
+      "firefighters": "115",
+      "medical": "118"
+    }
+  },
+  "guardInfoByCountry": {
+    "italie": {
+      "pharmacyNumber": "-",
+      "pharmacyNote": "Les pharmacies de garde de la province de Vibo Valentia sont publiées par l’ASP Vibo Valentia. Vérifier le tableau de garde avant le déplacement.",
+      "pharmacyUrl": "https://www.aspvv.it/",
+      "veterinaryNumber": "349 654 0846",
+      "veterinaryNote": "Pour une urgence vétérinaire, contacter d’abord l’Ambulatorio Quattro Zampe à Tropea ; à défaut, le service vétérinaire ASP de la zone Tropea-Spilinga ou une clinique de Vibo Valentia.",
+      "veterinaryUrl": "https://www.aspvv.it/index.php/organizzazione/dipartimenti/dipartimento-prevenzione/servizio-veterinario-sanita-animale-area-a-ssvd"
+    }
+  },
+  "cityAliases": {
+    "tropea": "tropea"
+  },
+  "cities": {
+    "tropea": {
+      "city": "Tropéa",
+      "country": "Italie",
+      "postalCode": "",
+      "lat": 38.66842,
+      "lng": 15.87943,
+      "onDuty": {
+        "pharmacy": "",
+        "pharmacyUntil": "",
+        "veterinary": "",
+        "veterinaryUntil": ""
+      },
+      "facilities": [
+        {
+          "id": "0311d82f-fd3d-41c9-ae15-0f1c28bb9a9f",
+          "category": "hospital",
+          "name": "Presidio Ospedaliero di Tropea",
+          "address": "SP22 / Via Provinciale, 89861 Tropea (VV)",
+          "phone": "0963 962800",
+          "email": "",
+          "sourceUrl": "https://www.aspvv.it/index.php/servizi-sanitari/ospedali/tropea",
+          "lat": 38.66842,
+          "lng": 15.87943,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "60bcaa1a-01ba-4c68-b784-f73710ba7062",
+          "category": "hospital",
+          "name": "Continuità Assistenziale (ex Guardia Medica) — Tropea",
+          "address": "Sede Strada Provinciale / Via Francesco Barone, 89861 Tropea (VV)",
+          "phone": "0963 607113",
+          "email": "",
+          "sourceUrl": "https://www.aspvv.it/index.php/servizi-sanitari/servizio-di-continuita-assistenziale-ex-guardia-media",
+          "lat": "38.67540450533566",
+          "lng": "15.894100745538184",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "01f96dda-efe8-4dc6-931a-a46fd0e5d3a1",
+          "category": "hospital",
+          "name": "Ospedale G. Jazzolino",
+          "address": "Piazza Fleming, 89900 Vibo Valentia (VV)",
+          "phone": "0963 962111",
+          "email": "",
+          "sourceUrl": "https://www.aspvv.it/index.php/servizi-sanitari/ospedali/vibo-valentia",
+          "lat": "38.67874937259493",
+          "lng": "16.10322451262955",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "a995a1c1-a69c-4492-9dac-78c729507e65",
+          "category": "pharmacy",
+          "name": "Farmacia Internazionale — Dott.ssa Fiorella Pellico",
+          "address": "Via Libertà 96/98, 89861 Tropea (VV)",
+          "phone": "0963 61010",
+          "email": "",
+          "sourceUrl": "https://www.aspvv.it/",
+          "lat": "38.67616243745581",
+          "lng": "15.893380313559915",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "5cb7ce08-db58-47f8-99e6-868c54b8dcdd",
+          "category": "pharmacy",
+          "name": "Farmacia Paparatti Elio",
+          "address": "Piazza Vittorio Veneto 3, 89861 Tropea (VV)",
+          "phone": "0963 61117",
+          "email": "",
+          "sourceUrl": "https://www.aspvv.it/",
+          "lat": "38.676426929426626",
+          "lng": "15.897069273608563",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "f9d6f6bb-0cd6-4c57-903e-23bfba20ccbc",
+          "category": "veterinary",
+          "name": "Ambulatorio Veterinario Quattro Zampe",
+          "address": "Viale Stazione 9, 89861 Tropea (VV)",
+          "phone": "349 654 0846",
+          "email": "",
+          "sourceUrl": "https://www.waze.com/live-map/directions/it/calabria/tropea/ambulatorio-veterinario-quattro-zampe",
+          "lat": "38.676252936940905",
+          "lng": "15.897342759646119",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "6ae159ae-4acf-486f-8b26-9ca30af21168",
+          "category": "veterinary",
+          "name": "Ambulatorio Veterinario Alessandra Sammarco",
+          "address": "Piazza San Francesco 3, 89812 Pizzo (VV)",
+          "phone": "347 409 4094",
+          "email": "",
+          "sourceUrl": "https://www.touringclub.it/destinazioni/pizzo/fare/281080-ambulatorio-veterinario-alessandra-sammarco",
+          "lat": "38.73597293574831",
+          "lng": "16.16378016786068",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        }
+      ]
+    }
+  }
+}

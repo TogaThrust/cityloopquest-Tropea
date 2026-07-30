@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Espace Culturel Tropéa</title>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="translations/translationManager.js"></script>
+  <script src="translations/languageSelector.js"></script>
+  <script src="api-base.js"></script>
+  <script src="js/access-control.js"></script>
+  <script src="js/access-guard.js" defer></script>
+</head>
+<body>
+<header class="main-header">
+  <div class="header-content">
+    <img src="images/icone titre0.png" alt="Icone 0" class="header-img left">
+    <h1>CityLoop Quest — Tropéa</h1>
+    <img src="images/icone titre1.png" alt="Icone 1" class="header-img right">
+  </div>
+</header>
+
+<main style="text-align:center; padding:20px;">
+  <h2 data-translate="culture_subtitle">Explorez le patrimoine culturel de Tropéa</h2>
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px; max-width:600px; margin:auto;">
+    <button data-culture-target="annex-Origines_et_developpement.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Origines et développement&quot;,&quot;nl&quot;:&quot;Oorsprong en ontwikkeling&quot;,&quot;en&quot;:&quot;Origins and Development&quot;,&quot;de&quot;:&quot;Ursprünge und Entwicklung&quot;,&quot;it&quot;:&quot;Origini e sviluppo&quot;,&quot;es&quot;:&quot;Orígenes y desarrollo&quot;,&quot;pl&quot;:&quot;Początki i rozwój&quot;,&quot;ar&quot;:&quot;الأصول والتطور&quot;,&quot;cn&quot;:&quot;起源与发展&quot;,&quot;ja&quot;:&quot;起源と発展&quot;}">📍 Origines et développement</button>
+    <button data-culture-target="annex-Grandes_periodes_historiques.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Grandes périodes historiques&quot;,&quot;nl&quot;:&quot;Grote historische periodes&quot;,&quot;en&quot;:&quot;Major Historical Periods&quot;,&quot;de&quot;:&quot;Wichtige historische Epochen&quot;,&quot;it&quot;:&quot;Grandi periodi storici&quot;,&quot;es&quot;:&quot;Grandes periodos históricos&quot;,&quot;pl&quot;:&quot;Najważniejsze okresy historyczne&quot;,&quot;ar&quot;:&quot;المراحل التاريخية الكبرى&quot;,&quot;cn&quot;:&quot;重要历史时期&quot;,&quot;ja&quot;:&quot;歴史の主な時代&quot;}">📍 Grandes périodes historiques</button>
+    <button data-culture-target="annex-Personnages_marquants.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Personnages marquants&quot;,&quot;nl&quot;:&quot;Markante figuren&quot;,&quot;en&quot;:&quot;Notable Figures&quot;,&quot;de&quot;:&quot;Prägende Persönlichkeiten&quot;,&quot;it&quot;:&quot;Personaggi illustri&quot;,&quot;es&quot;:&quot;Personajes destacados&quot;,&quot;pl&quot;:&quot;Wybitne postacie&quot;,&quot;ar&quot;:&quot;شخصيات بارزة&quot;,&quot;cn&quot;:&quot;重要人物&quot;,&quot;ja&quot;:&quot;主な人物&quot;}">📍 Personnages marquants</button>
+    <button data-culture-target="annex-Traditions_fetes_et_geants.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Traditions, fêtes et géants&quot;,&quot;nl&quot;:&quot;Tradities, feesten en reuzen&quot;,&quot;en&quot;:&quot;Traditions, Festivals and Giants&quot;,&quot;de&quot;:&quot;Traditionen, Feste und Riesen&quot;,&quot;it&quot;:&quot;Tradizioni, feste e giganti&quot;,&quot;es&quot;:&quot;Tradiciones, fiestas y gigantes&quot;,&quot;pl&quot;:&quot;Tradycje, święta i giganci&quot;,&quot;ar&quot;:&quot;التقاليد والاحتفالات والعمالقة&quot;,&quot;cn&quot;:&quot;传统、节庆与巨人&quot;,&quot;ja&quot;:&quot;伝統、祭りと巨人&quot;}">📍 Traditions, fêtes et géants</button>
+    <button data-culture-target="annex-Architecture_entre_seismes_et_falaises.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Architecture entre séismes et falaises&quot;,&quot;nl&quot;:&quot;Architectuur tussen aardbevingen en kliffen&quot;,&quot;en&quot;:&quot;Architecture Between Earthquakes and Cliffs&quot;,&quot;de&quot;:&quot;Architektur zwischen Erdbeben und Klippen&quot;,&quot;it&quot;:&quot;Architettura tra terremoti e scogliere&quot;,&quot;es&quot;:&quot;Arquitectura entre terremotos y acantilados&quot;,&quot;pl&quot;:&quot;Architektura między trzęsieniami ziemi a klifami&quot;,&quot;ar&quot;:&quot;العمارة بين الزلازل والمنحدرات&quot;,&quot;cn&quot;:&quot;地震与悬崖之间的建筑&quot;,&quot;ja&quot;:&quot;地震と断崖の間の建築&quot;}">📍 Architecture entre séismes et falaises</button>
+    <button data-culture-target="annex-Quartiers_places_et_ambiances.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Quartiers, places et ambiances&quot;,&quot;nl&quot;:&quot;Wijken, pleinen en sfeer&quot;,&quot;en&quot;:&quot;Neighborhoods, Squares and Atmospheres&quot;,&quot;de&quot;:&quot;Viertel, Plätze und Atmosphäre&quot;,&quot;it&quot;:&quot;Quartieri, piazze e atmosfere&quot;,&quot;es&quot;:&quot;Barrios, plazas y ambiente&quot;,&quot;pl&quot;:&quot;Dzielnice, place i atmosfera&quot;,&quot;ar&quot;:&quot;الأحياء والساحات والأجواء&quot;,&quot;cn&quot;:&quot;街区、广场与氛围&quot;,&quot;ja&quot;:&quot;地区、広場と雰囲気&quot;}">📍 Quartiers, places et ambiances</button>
+    <button data-culture-target="annex-Specialites_de_la_Costa_degli_Dei.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Spécialités de la Costa degli Dei&quot;,&quot;nl&quot;:&quot;Specialiteiten van de Costa degli Dei&quot;,&quot;en&quot;:&quot;Specialties of the Costa degli Dei&quot;,&quot;de&quot;:&quot;Spezialitäten der Costa degli Dei&quot;,&quot;it&quot;:&quot;Specialità della Costa degli Dei&quot;,&quot;es&quot;:&quot;Especialidades de la Costa de los Dioses&quot;,&quot;pl&quot;:&quot;Specjały Costa degli Dei&quot;,&quot;ar&quot;:&quot;تخصصات كوستا ديللي دِيي&quot;,&quot;cn&quot;:&quot;诸神海岸特色美食&quot;,&quot;ja&quot;:&quot;コスタ・デッリ・デイの名物&quot;}">📍 Spécialités de la Costa degli Dei</button>
+    <button data-culture-target="annex-Marches_tables_et_habitudes_gourmandes.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Marchés, tables et habitudes gourmandes&quot;,&quot;nl&quot;:&quot;Markten, tafels en eetgewoonten&quot;,&quot;en&quot;:&quot;Markets, Tables and Food Traditions&quot;,&quot;de&quot;:&quot;Märkte, Tische und kulinarische Gewohnheiten&quot;,&quot;it&quot;:&quot;Mercati, tavole e abitudini gastronomiche&quot;,&quot;es&quot;:&quot;Mercados, mesas y hábitos gastronómicos&quot;,&quot;pl&quot;:&quot;Targi, stoły i kulinarne zwyczaje&quot;,&quot;ar&quot;:&quot;الأسواق والموائد والعادات الشهية&quot;,&quot;cn&quot;:&quot;市场、餐桌与美食习惯&quot;,&quot;ja&quot;:&quot;市場、食卓と食の習慣&quot;}">📍 Marchés, tables et habitudes gourmandes</button>
+    <button data-culture-target="annex-Se_deplacer_sans_combattre_la_falaise.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Se déplacer sans combattre la falaise&quot;,&quot;nl&quot;:&quot;Je verplaatsen zonder de klif te trotseren&quot;,&quot;en&quot;:&quot;Getting Around Without Battling the Cliff&quot;,&quot;de&quot;:&quot;Unterwegs ohne den Klippenkampf&quot;,&quot;it&quot;:&quot;Muoversi senza sfidare la scogliera&quot;,&quot;es&quot;:&quot;Moverse sin luchar contra el acantilado&quot;,&quot;pl&quot;:&quot;Jak poruszać się bez wspinaczki po klifie&quot;,&quot;ar&quot;:&quot;التنقل دون مواجهة المنحدر&quot;,&quot;cn&quot;:&quot;不费力上下悬崖的出行方式&quot;,&quot;ja&quot;:&quot;断崖に苦戦せずに移動する&quot;}">📍 Se déplacer sans combattre la falaise</button>
+    <button data-culture-target="annex-Les_meilleurs_moments_de_visite.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Les meilleurs moments de visite&quot;,&quot;nl&quot;:&quot;De beste momenten om te bezoeken&quot;,&quot;en&quot;:&quot;Best Times to Visit&quot;,&quot;de&quot;:&quot;Die besten Besuchszeiten&quot;,&quot;it&quot;:&quot;I momenti migliori per visitare&quot;,&quot;es&quot;:&quot;Los mejores momentos para visitar&quot;,&quot;pl&quot;:&quot;Najlepszy czas na zwiedzanie&quot;,&quot;ar&quot;:&quot;أفضل أوقات الزيارة&quot;,&quot;cn&quot;:&quot;最佳游览时段&quot;,&quot;ja&quot;:&quot;観光のベストシーズン&quot;}">📍 Les meilleurs moments de visite</button>
+    <button data-culture-target="annex-Familles_poussettes_et_accessibilite.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Familles, poussettes et accessibilité&quot;,&quot;nl&quot;:&quot;Gezinnen, kinderwagens en toegankelijkheid&quot;,&quot;en&quot;:&quot;Families, Strollers and Accessibility&quot;,&quot;de&quot;:&quot;Familien, Kinderwagen und Barrierefreiheit&quot;,&quot;it&quot;:&quot;Famiglie, passeggini e accessibilità&quot;,&quot;es&quot;:&quot;Familias, cochecitos y accesibilidad&quot;,&quot;pl&quot;:&quot;Rodziny, wózki dziecięce i dostępność&quot;,&quot;ar&quot;:&quot;العائلات وعربات الأطفال وسهولة الوصول&quot;,&quot;cn&quot;:&quot;家庭、婴儿车与无障碍&quot;,&quot;ja&quot;:&quot;家族、ベビーカーとバリアフリー&quot;}">📍 Familles, poussettes et accessibilité</button>
+    <button data-culture-target="annex-Anecdotes_de_Tropea.html" data-requires-full="0" data-title-prefix="📍 " data-title-i18n="{&quot;fr&quot;:&quot;Anecdotes de Tropéa&quot;,&quot;nl&quot;:&quot;Anekdotes over Tropea&quot;,&quot;en&quot;:&quot;Tales of Tropea&quot;,&quot;de&quot;:&quot;Anekdoten aus Tropea&quot;,&quot;it&quot;:&quot;Aneddoti di Tropea&quot;,&quot;es&quot;:&quot;Anécdotas de Tropea&quot;,&quot;pl&quot;:&quot;Ciekawostki o Tropéa&quot;,&quot;ar&quot;:&quot;طرائف من تروبيا&quot;,&quot;cn&quot;:&quot;特罗佩阿轶事&quot;,&quot;ja&quot;:&quot;トロペーアの豆知識&quot;}">📍 Anecdotes de Tropéa</button>
+    <button data-culture-target="musees.html" data-requires-full="0" data-translate="culture_btn_3">🏛️ Musées</button>
+  </div>
+  <div style="margin-top:40px;"></div>
+</main>
+
+<button class="back-button" id="back-button" data-translate="back_button">BACK</button>
+
+<script>
+function initCulturePage() {
+  if (window.translationManager?.isLoaded) {
+    window.languageSelector?.createSelector?.();
+    window.languageSelector?.updateSelectorValue?.();
+  } else {
+    setTimeout(initCulturePage, 100);
+  }
+}
+function goToCulturePage(target, requiresFull) {
+  if (requiresFull && window.checkPageAccess && !window.checkPageAccess(target)) return;
+  window.location.href = target;
+}
+document.addEventListener('DOMContentLoaded', () => {
+  initCulturePage();
+  document.querySelectorAll('[data-culture-target]').forEach((btn) => {
+    btn.addEventListener('click', () => goToCulturePage(btn.dataset.cultureTarget, btn.dataset.requiresFull === '1'));
+  });
+  const backButton = document.getElementById('back-button');
+  if (backButton) backButton.addEventListener('click', () => { window.location.href = 'main.html'; });
+});
+</script>
+<script>
+(function () {
+  var LANG_ALIASES = { ja: ["ja", "jp"], jp: ["jp", "ja"], cn: ["cn", "zh"], zh: ["zh", "cn"] };
+  function normalizeLang(lang) {
+    lang = String(lang || localStorage.getItem("selectedLanguage") || "fr").toLowerCase();
+    if (lang === "jp") return "ja";
+    if (lang === "zh" || lang === "zh-cn") return "cn";
+    return lang;
+  }
+  var CLQ_BACK_BUTTON_LABELS = { fr: "RETOUR", en: "BACK", nl: "TERUG", de: "ZURÜCK", it: "INDIETRO", es: "VOLVER", pl: "POWRÓT", ar: "رجوع", cn: "返回", ja: "戻る", jp: "戻る", zh: "返回" };
+  function applyCultureBackButton(lang) {
+    var code = normalizeLang(lang);
+    var label = CLQ_BACK_BUTTON_LABELS[code] || CLQ_BACK_BUTTON_LABELS.fr;
+    document.querySelectorAll('[data-translate="back_button"]').forEach(function (el) {
+      el.textContent = label;
+    });
+  }
+  function pickStrict(map, lang) {
+    if (!map) return "";
+    var codes = LANG_ALIASES[lang] || [lang];
+    for (var i = 0; i < codes.length; i++) {
+      var exact = map[codes[i]];
+      if (exact != null && String(exact).trim() !== "") return exact;
+    }
+    return "";
+  }
+  function applyCultureHubLabels() {
+    var lang = normalizeLang(localStorage.getItem("selectedLanguage") || "");
+    document.querySelectorAll("[data-title-i18n]").forEach(function (el) {
+      try {
+        var map = JSON.parse(el.getAttribute("data-title-i18n") || "{}");
+        var label = pickStrict(map, lang);
+        if (label) el.textContent = (el.getAttribute("data-title-prefix") || "") + label;
+      } catch (_) {}
+    });
+    applyCultureBackButton(lang);
+  }
+  document.addEventListener("languageChanged", function () {
+    applyCultureHubLabels();
+  });
+  function boot() { applyCultureHubLabels(); }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
+  else boot();
+})();
+</script>
+</body>
+</html>

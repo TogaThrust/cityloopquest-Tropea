@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Origines et développement",
+    "titleI18n": {
+      "fr": "Origines et développement",
+      "nl": "Oorsprong en ontwikkeling",
+      "en": "Origins and Development",
+      "de": "Ursprünge und Entwicklung",
+      "it": "Origini e sviluppo",
+      "es": "Orígenes y desarrollo",
+      "pl": "Początki i rozwój",
+      "ar": "الأصول والتطور",
+      "cn": "起源与发展",
+      "ja": "起源と発展"
+    },
+    "type": "media-gallery",
+    "file": "annex-Origines_et_developpement.html",
+    "showOnMainPage": true,
+    "icon": "🏺"
+  },
+  {
+    "title": "Grandes périodes historiques",
+    "titleI18n": {
+      "fr": "Grandes périodes historiques",
+      "nl": "Grote historische periodes",
+      "en": "Major Historical Periods",
+      "de": "Wichtige historische Epochen",
+      "it": "Grandi periodi storici",
+      "es": "Grandes periodos históricos",
+      "pl": "Najważniejsze okresy historyczne",
+      "ar": "المراحل التاريخية الكبرى",
+      "cn": "重要历史时期",
+      "ja": "歴史の主な時代"
+    },
+    "type": "media-gallery",
+    "file": "annex-Grandes_periodes_historiques.html",
+    "showOnMainPage": true,
+    "icon": "⏳"
+  },
+  {
+    "title": "Personnages marquants",
+    "titleI18n": {
+      "fr": "Personnages marquants",
+      "nl": "Markante figuren",
+      "en": "Notable Figures",
+      "de": "Prägende Persönlichkeiten",
+      "it": "Personaggi illustri",
+      "es": "Personajes destacados",
+      "pl": "Wybitne postacie",
+      "ar": "شخصيات بارزة",
+      "cn": "重要人物",
+      "ja": "主な人物"
+    },
+    "type": "media-gallery",
+    "file": "annex-Personnages_marquants.html",
+    "showOnMainPage": true,
+    "icon": "👤"
+  },
+  {
+    "title": "Traditions, fêtes et géants",
+    "titleI18n": {
+      "fr": "Traditions, fêtes et géants",
+      "nl": "Tradities, feesten en reuzen",
+      "en": "Traditions, Festivals and Giants",
+      "de": "Traditionen, Feste und Riesen",
+      "it": "Tradizioni, feste e giganti",
+      "es": "Tradiciones, fiestas y gigantes",
+      "pl": "Tradycje, święta i giganci",
+      "ar": "التقاليد والاحتفالات والعمالقة",
+      "cn": "传统、节庆与巨人",
+      "ja": "伝統、祭りと巨人"
+    },
+    "type": "media-gallery",
+    "file": "annex-Traditions_fetes_et_geants.html",
+    "showOnMainPage": true,
+    "icon": "🎭"
+  },
+  {
+    "title": "Architecture entre séismes et falaises",
+    "titleI18n": {
+      "fr": "Architecture entre séismes et falaises",
+      "nl": "Architectuur tussen aardbevingen en kliffen",
+      "en": "Architecture Between Earthquakes and Cliffs",
+      "de": "Architektur zwischen Erdbeben und Klippen",
+      "it": "Architettura tra terremoti e scogliere",
+      "es": "Arquitectura entre terremotos y acantilados",
+      "pl": "Architektura między trzęsieniami ziemi a klifami",
+      "ar": "العمارة بين الزلازل والمنحدرات",
+      "cn": "地震与悬崖之间的建筑",
+      "ja": "地震と断崖の間の建築"
+    },
+    "type": "media-gallery",
+    "file": "annex-Architecture_entre_seismes_et_falaises.html",
+    "showOnMainPage": true,
+    "icon": "🏛️"
+  },
+  {
+    "title": "Quartiers, places et ambiances",
+    "titleI18n": {
+      "fr": "Quartiers, places et ambiances",
+      "nl": "Wijken, pleinen en sfeer",
+      "en": "Neighborhoods, Squares and Atmospheres",
+      "de": "Viertel, Plätze und Atmosphäre",
+      "it": "Quartieri, piazze e atmosfere",
+      "es": "Barrios, plazas y ambiente",
+      "pl": "Dzielnice, place i atmosfera",
+      "ar": "الأحياء والساحات والأجواء",
+      "cn": "街区、广场与氛围",
+      "ja": "地区、広場と雰囲気"
+    },
+    "type": "media-gallery",
+    "file": "annex-Quartiers_places_et_ambiances.html",
+    "showOnMainPage": true,
+    "icon": "🏘️"
+  },
+  {
+    "title": "Spécialités de la Costa degli Dei",
+    "titleI18n": {
+      "fr": "Spécialités de la Costa degli Dei",
+      "nl": "Specialiteiten van de Costa degli Dei",
+      "en": "Specialties of the Costa degli Dei",
+      "de": "Spezialitäten der Costa degli Dei",
+      "it": "Specialità della Costa degli Dei",
+      "es": "Especialidades de la Costa de los Dioses",
+      "pl": "Specjały Costa degli Dei",
+      "ar": "تخصصات كوستا ديللي دِيي",
+      "cn": "诸神海岸特色美食",
+      "ja": "コスタ・デッリ・デイの名物"
+    },
+    "type": "media-gallery",
+    "file": "annex-Specialites_de_la_Costa_degli_Dei.html",
+    "showOnMainPage": true,
+    "icon": "🧅"
+  },
+  {
+    "title": "Marchés, tables et habitudes gourmandes",
+    "titleI18n": {
+      "fr": "Marchés, tables et habitudes gourmandes",
+      "nl": "Markten, tafels en eetgewoonten",
+      "en": "Markets, Tables and Food Traditions",
+      "de": "Märkte, Tische und kulinarische Gewohnheiten",
+      "it": "Mercati, tavole e abitudini gastronomiche",
+      "es": "Mercados, mesas y hábitos gastronómicos",
+      "pl": "Targi, stoły i kulinarne zwyczaje",
+      "ar": "الأسواق والموائد والعادات الشهية",
+      "cn": "市场、餐桌与美食习惯",
+      "ja": "市場、食卓と食の習慣"
+    },
+    "type": "media-gallery",
+    "file": "annex-Marches_tables_et_habitudes_gourmandes.html",
+    "showOnMainPage": true,
+    "icon": "☕"
+  },
+  {
+    "title": "Se déplacer sans combattre la falaise",
+    "titleI18n": {
+      "fr": "Se déplacer sans combattre la falaise",
+      "nl": "Je verplaatsen zonder de klif te trotseren",
+      "en": "Getting Around Without Battling the Cliff",
+      "de": "Unterwegs ohne den Klippenkampf",
+      "it": "Muoversi senza sfidare la scogliera",
+      "es": "Moverse sin luchar contra el acantilado",
+      "pl": "Jak poruszać się bez wspinaczki po klifie",
+      "ar": "التنقل دون مواجهة المنحدر",
+      "cn": "不费力上下悬崖的出行方式",
+      "ja": "断崖に苦戦せずに移動する"
+    },
+    "type": "media-gallery",
+    "file": "annex-Se_deplacer_sans_combattre_la_falaise.html",
+    "showOnMainPage": true,
+    "icon": "🚶"
+  },
+  {
+    "title": "Les meilleurs moments de visite",
+    "titleI18n": {
+      "fr": "Les meilleurs moments de visite",
+      "nl": "De beste momenten om te bezoeken",
+      "en": "Best Times to Visit",
+      "de": "Die besten Besuchszeiten",
+      "it": "I momenti migliori per visitare",
+      "es": "Los mejores momentos para visitar",
+      "pl": "Najlepszy czas na zwiedzanie",
+      "ar": "أفضل أوقات الزيارة",
+      "cn": "最佳游览时段",
+      "ja": "観光のベストシーズン"
+    },
+    "type": "media-gallery",
+    "file": "annex-Les_meilleurs_moments_de_visite.html",
+    "showOnMainPage": true,
+    "icon": "🌅"
+  },
+  {
+    "title": "Familles, poussettes et accessibilité",
+    "titleI18n": {
+      "fr": "Familles, poussettes et accessibilité",
+      "nl": "Gezinnen, kinderwagens en toegankelijkheid",
+      "en": "Families, Strollers and Accessibility",
+      "de": "Familien, Kinderwagen und Barrierefreiheit",
+      "it": "Famiglie, passeggini e accessibilità",
+      "es": "Familias, cochecitos y accesibilidad",
+      "pl": "Rodziny, wózki dziecięce i dostępność",
+      "ar": "العائلات وعربات الأطفال وسهولة الوصول",
+      "cn": "家庭、婴儿车与无障碍",
+      "ja": "家族、ベビーカーとバリアフリー"
+    },
+    "type": "media-gallery",
+    "file": "annex-Familles_poussettes_et_accessibilite.html",
+    "showOnMainPage": true,
+    "icon": "♿"
+  },
+  {
+    "title": "Anecdotes de Tropéa",
+    "titleI18n": {
+      "fr": "Anecdotes de Tropéa",
+      "nl": "Anekdotes over Tropea",
+      "en": "Tales of Tropea",
+      "de": "Anekdoten aus Tropea",
+      "it": "Aneddoti di Tropea",
+      "es": "Anécdotas de Tropea",
+      "pl": "Ciekawostki o Tropéa",
+      "ar": "طرائف من تروبيا",
+      "cn": "特罗佩阿轶事",
+      "ja": "トロペーアの豆知識"
+    },
+    "type": "media-gallery",
+    "file": "annex-Anecdotes_de_Tropea.html",
+    "showOnMainPage": true,
+    "icon": "💡"
+  }
+]
