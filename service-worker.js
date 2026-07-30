@@ -1,5 +1,5 @@
-const PRECACHE = 'precache-v65-scrollfix';
-const RUNTIME  = 'runtime-v50-scrollfix';
+const PRECACHE = 'precache-v66-scrollfix';
+const RUNTIME  = 'runtime-v51-scrollfix';
 const PRECACHE_URLS = [
   './',                       // ok si tu sers à la racine du dossier
   './index.html',
